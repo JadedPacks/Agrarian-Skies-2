@@ -1,0 +1,78 @@
+#Define custom crops here: <name>,<fruit:fruitmeta>,<soil>,<baseblock:baseblockmeta>,<tier>,<rendermethod>,<information>
+# - name:			is the name of the crop you want, for example: claysanthemum
+# - fruit:			the fruit you want the crop to produce, for example: minecraft:clay:0 (metadata is optional, you can get this from NEI). Type "null" if you want the crop to have no fruit.
+# - soil:			the soil you want the crop to be planted on, if you specify null, it will grow on farmland and any soil you whitelisted. Other possible soils are soulsand, sand or mycelium.
+# - baseblock:		this is the block that has to be underneath for the plant to grow, for example: (this can also be gotten from NEI, if you don't want to specify, type null)
+# - tier:			from 1 to 5, the higher, the slower the crop will grow
+# - rendermethod:	put 1 to render like a flower (in an X-pattern), put 6 to render like wheat (hashtag-pattern)
+# - information:	put a short description (in the same line) of the crop. This will appear in the journal<n#you will need to make a texture pack and add textures for the crops in agricraft/blocks with the name cropName1, cropName2, cropName3, cropName4
+#where name is the name you specified here, there have to be 4 textures, texture 4 is the mature one
+#for the seed texture, put a texture named seedName in the agricraft/items of your resourcepack
+#Example: claysanthemum,minecraft:clay,minecraft:sand,minecraft:hardened_clay,2,6,a crop that extracts clay from the soil to grow clay buds.
+#this will need textures cropClaysanthemum1, cropClaysanthemum2, Claysanthemum3, Claysanthemum4 in the agricraft/textures/blocks folder and seedClaysanthemum in the agricraft/textures/items folder of your resourcepack.
+#Note the capitalization, always put a capital in the texture name. Also, this crop will not grow unless it has a hardened clay block underneath the block of farmland it's on
+#claysanthemum,minecraft:clay,minecraft:sand,minecraft:hardened_clay,2,6,a crop that extracts clay from the soil to grow clay buds.
+
+##MOB Seeds
+#blaze
+blazingdaisy,minecraft:blaze_powder,minecraft:soul_sand,AWWayofTime:AlchemicalWizardrybloodRune:0,3,1,a crop infused with blazing forces
+#bone
+bonewart,minecraft:bone,minecraft:soul_sand,AWWayofTime:AlchemicalWizardrybloodRune:0,3,1,a crop of skeletal parts
+#beef
+milkweed,minecraft:beef,null,null,2,1,a meaty crop
+#leather
+leatherskin,minecraft:leather,null,null,2,1,a crop for armorers
+#wool
+cloudfluff,minecraft:wool:0,null,null,2,1,sweet dreams
+#mutton
+baabaa,harvestcraft:muttonrawItem,null,null,2,1,a tasty stew
+#chicken
+chicfila,minecraft:chicken,null,null,2,1,less pecking
+eggplant,minecraft:egg,null,null,2,1,less pecking
+#feather
+featherlight,minecraft:feather,null,null,3,1,less plucking
+#pork
+baconweed,minecraft:porkchop,null,null,3,1,BACON,do I really need to say more?
+#Ghast tear
+ghastlymoss,minecraft:ghast_tear,minecraft:soul_sand,AWWayofTime:AlchemicalWizardrybloodRune:0,3,1,Much quieter than hunting
+
+## Metal Seeds Tier 2
+#Ardite
+arditeclematis,TConstruct:materials:29,minecraft:soul_sand,exastris:ArditeOreBlock:2,2,1,The nether is no fun
+arditebush,TConstruct:materials:4,minecraft:soul_sand,exastris:ArditeOreBlock:2,3,1,The nether is no fun
+#Cobalt
+cobaltclematis,TConstruct:materials:28,minecraft:soul_sand,exastris:CobaltOreBlock:2,2,1,The nether is no fun
+cobaltbush,TConstruct:materials:3,minecraft:soul_sand,exastris:CobaltOreBlock:2,3,1,The nether is no fun
+#Iron
+ironweed,minecraft:iron_ingot,null,minecraft:iron_block,3,1,metal weed
+#Copper
+copperweed,ThermalFoundation:material:64,null,ThermalFoundation:Storage:0,3,1,metal weed
+#Aluminum
+aluminumweed,TConstruct:materials:11,null,exnihilo:aluminum_dust,3,1,metal weed
+#Silver
+silverrose,ThermalFoundation:material:66,null,ThermalFoundation:Storage:2,3,1,metal weed
+#Nikel
+nickelweed,ThermalFoundation:material:68,null,ThermalFoundation:Storage:4,3,1,metal weed
+#Platinum
+platinumweed,ThermalFoundation:material:69,null,ThermalFoundation:Storage:5,3,1,metal weed
+#Gold
+goldenrod,minecraft:gold_ingot,null,minecraft:gold_block,3,1,metal weed
+#Emerald
+emeraldweed,minecraft:emerald,null,minecraft:emerald_block,3,1,metal weed
+#Diamond
+diamondweed,minecraft:diamond,null,minecraft:diamond_block,3,1,metal weed
+
+##Alloy Seeds Tier 3
+#Manyulyn
+manyullynclematis,TConstruct:materials:30,minecraft:soul_sandTConstruct:MetalBlock:2,3,1,The nether is no fun
+manyullynbush,TConstruct:materials:5,minecraft:soul_sandTConstruct:MetalBlock:2,3,1,The nether is no fun
+#Invar
+invarweed,ThermalFoundation:material:104,null,ThermalFoundation:Storage:8,3,1,metal weed
+#Endearium
+endearingweed,ThermalFoundation:material:108,null,ThermalFoundation:Storage:12,3,1,metal weed
+#Signalum
+signalweed,ThermalFoundation:material:106,null,ThermalFoundation:Storage:10,3,1,metal weed
+#Lumium
+illuminationweed,ThermalFoundation:material:107,null,ThermalFoundation:Storage:11,3,1,metal weed
+#enderpearl
+enderweed,minecraft:ender_pearl,null,minecraft:end_stone,3,1,Pesky Endermen

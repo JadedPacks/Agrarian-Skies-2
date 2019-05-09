@@ -1,0 +1,182 @@
+{
+	"images": {
+	   "screen": {
+			"image": "custommainmenu:textures/gui/glass.png",
+			"posX": -100,
+			"posY": -40,
+			"width": 200,
+			"height": 1100,
+			"alignment": "top_center"			
+		},
+		"title": {
+			"image": "custommainmenu:textures/gui/icon1.png",
+			"posX": -40,
+			"posY": 20,
+			"width": 80,
+			"height": 80,
+			"alignment": "top_center"
+		}
+	},
+	"buttons": {
+		"mods": {
+			"text": "Mods",
+			"posX": -70,
+			"posY": 50,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/button3.png",
+			"action": {
+				"type": "openGui",
+				"gui": "mods"
+			}
+		},	
+		"options": {
+			"text": "menu.options",
+			"posX": 0,
+			"posY": 50,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/button3.png",
+			"action":  {
+				"type": "openGui",
+				"gui": "options"
+			}
+		},
+		"resourcepacks": {
+			"text": "Textures",
+			"posX": -70,
+			"posY": 70,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/button3.png",
+			"action": {
+				"type": "openGui",
+				"gui": "options.ressourcepacks"
+			}
+		}, 
+		"bugs": {
+			"text": "Bug Reports",
+			"posX": 0,
+			"posY": 70,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "openLink",
+				"link": "http://github.com/JadedPacks/AS2Configs/issues"
+			}
+		},		
+		"packthread": {
+			"text": "Forum",
+			"posX": -70,
+			"posY": 90,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "openLink",
+				"link": "http://minecraft.curseforge.com/forums/jadeds-packs"
+			}
+		},		
+		"wiki": {
+			"text": "Wiki",
+			"posX": 0,
+			"posY": 90,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "openLink",
+				"link": "http://jadedpacks.gamepedia.com/Jaded_Packs_Wiki"
+			}
+		},
+		"guides": {
+			"text": "Guides",
+			"posX": -70,
+			"posY": 110,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "openLink",
+				"link": "https://www.youtube.com/playlist?list=PLSGwuxOIUJilwD3m_w0uWP7gjp8qrB36S"
+			}
+		},
+		"refresh": {
+			"text": "Go Back",
+			"posX":-25,
+			"posY": 130,
+			"width": 50,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "refresh"
+			}
+		},
+		"language": {
+			"text": "Language",
+			"posX": 0,
+			"posY": 110,
+			"width": 70,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"action": {
+				"type": "openGui",
+				"gui": "languages"
+			}
+		},
+		"Donate": {
+			"text": "Patreon",
+			"posX": 80,
+			"posY": -25,
+			"width": 50,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttonsmall.png",
+			"alignment": "bottom_center",
+			"action": {
+				"type": "openLink",
+				"link": "https://www.patreon.com/jadedcat"
+			}
+		}
+	},
+	"texts": {
+		"modpack": {
+			"text": "Agrarian Skies 2",
+			"posX": -70,
+			"posY": -40,
+			"color": 10194114,
+			"alignment": "bottom_center"
+		},
+		"version": {
+			"text": "Version: 1.1.13",
+			"posX": -70,
+			"posY": -30,
+			"color": -1,
+			"alignment": "bottom_center"
+		},
+		"author": {
+			"text": "by JadedPacks",
+			"posX": -70,
+			"posY": -20,
+			"color": 9222338,
+			"alignment": "bottom_center"
+		},
+		"forgestuff": {
+			"text": "Forge-#forgeversion#",
+			"posX": -70,
+			"posY": -10,
+			"color": -1,
+			"alignment": "bottom_center"
+		}
+	},
+	"other": {
+		"splash-text": {
+			"posX": 50,
+			"posY": 80,
+			"color": -256
+		},
+		"background": {
+		   "image": "custommainmenu:textures/gui/background/screen.png"
+		}
+	}
+}

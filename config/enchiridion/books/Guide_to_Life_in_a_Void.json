@@ -1,0 +1,5592 @@
+{
+	"book": [
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Logo.png",
+						"xPos": 26,
+						"yPos": 72,
+						"width": 174,
+						"height": 123
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Author: Shane2482",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 49,
+						"yPos": 23,
+						"width": 130,
+						"height": 21
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Editor: Badgerpendous",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 42,
+						"yPos": 52,
+						"width": 172,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "https://twitter.com/shane2482",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 37,
+						"width": 168,
+						"height": 22
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "https://twitter.com/badgerpendous",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 25,
+						"yPos": 64,
+						"width": 177,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Intro important information and links go here",
+						"wrap": 0,
+						"size": 1,
+						"color": "FF000000",
+						"xPos": 230,
+						"yPos": 23,
+						"width": 168,
+						"height": 32
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/AS2.png",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 181,
+						"height": 180
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "You have reached this region either by being assigned to it by your overlords or by completing a previous region's rebuilding. There's still a lot to be done to repair the destruction of the Old World. Whatever your reason for being here, the Jaded One, the Cute One, and the All-Knowing One are happy you are here to take up the task of rebuilding our poor world. The Three Overlords will be joined in guiding you by other meddling watchers. Some will help you , some just want to see you fail. Choose wisely what advice you follow, not all paths have the best of outcomes. The first step on your path, punch tree, get wood, avoid dragons.",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 18,
+						"width": 177,
+						"height": 167
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:writable_book",
+						"xPos": 235,
+						"yPos": 18,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.9000002,
+						"color": "4F2F4F",
+						"xPos": 113,
+						"yPos": 25,
+						"width": 46,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Quick Start        Guide",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "E066FF",
+						"xPos": 228,
+						"yPos": 50,
+						"width": 61,
+						"height": 22
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Quick Start Guide",
+						"texture": "",
+						"xPos": 235,
+						"yPos": 18,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:cobblestone",
+						"xPos": 296,
+						"yPos": 17,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Cobble Gen",
+						"texture": "",
+						"xPos": 296,
+						"yPos": 17,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Cobble Gens",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "E066FF",
+						"xPos": 286,
+						"yPos": 50,
+						"width": 81,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:mob_spawner 0",
+						"xPos": 346,
+						"yPos": 15,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Mob Farms",
+						"texture": "",
+						"xPos": 346,
+						"yPos": 15,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": " Mob Farms",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 348,
+						"yPos": 50,
+						"width": 53,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "progressiveautomation:MinerStone",
+						"xPos": 295,
+						"yPos": 74,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Progressive Automation",
+						"texture": "",
+						"xPos": 295,
+						"yPos": 74,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Progressive     Automation",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 280,
+						"yPos": 110,
+						"width": 71,
+						"height": 20
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "ExtraUtilities:pipes 0",
+						"xPos": 235,
+						"yPos": 139,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Pipes",
+						"texture": "",
+						"xPos": 235,
+						"yPos": 139,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pipes and Conduits",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 227,
+						"yPos": 171,
+						"width": 48,
+						"height": 19
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "AgriCraft:cropsItem",
+						"xPos": 236,
+						"yPos": 78,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "AgriCraft",
+						"texture": "",
+						"xPos": 236,
+						"yPos": 78,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "AgriCraft",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 226,
+						"yPos": 110,
+						"width": 47,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "TConstruct:ToolForgeBlock 0",
+						"xPos": 342,
+						"yPos": 77,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "TiCon",
+						"texture": "",
+						"xPos": 342,
+						"yPos": 77,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon Tools",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 346,
+						"yPos": 112,
+						"width": 30,
+						"height": 19
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:crafting_table",
+						"xPos": 288,
+						"yPos": 137,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Recipes",
+						"texture": "",
+						"xPos": 288,
+						"yPos": 137,
+						"width": 32,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Recipes and Pack Changes",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 284,
+						"yPos": 170,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "BiblioCraft:item.BiblioClipboard",
+						"xPos": 334,
+						"yPos": 129,
+						"width": 47,
+						"height": 47
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Changelogs",
+						"texture": "",
+						"xPos": 334,
+						"yPos": 129,
+						"width": 47,
+						"height": 47
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pack Info",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 346,
+						"yPos": 172,
+						"width": 29,
+						"height": 25
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/icon1.png",
+						"xPos": 9,
+						"yPos": 23,
+						"width": 213,
+						"height": 197
+					}
+				}
+			],
+			"pageName": "Contents"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Quick Start Guide",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 256,
+						"yPos": 17,
+						"width": 136,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "There are several ways to play and complete this map and I do not claim to be an expert; however, I have done my best to create a quick start guide to help you through the early game grind.\n\nWhile the map you choose will change the difficulty, this guide should work with all maps.\n\nThe first thing to know is saplings and bone meal are your life in this pack so make sure the first thing you do is put a spare sapling and at least 7 bone meal somewhere safe so you don't accidently use all of them. Also note that one of the best trees to start with is the Oak because it can provide you with extra apples which can mean the difference between starving or not.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 219,
+						"yPos": 30,
+						"width": 182,
+						"height": 160
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Quick Start.png",
+						"xPos": 23,
+						"yPos": 17,
+						"width": 179,
+						"height": 180
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 59,
+						"yPos": 202,
+						"width": 53,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 59,
+						"yPos": 202,
+						"width": 53,
+						"height": 7
+					}
+				}
+			],
+			"pageName": "Quick Start Guide"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 62,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 62,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now then on to the beginning: Agrarian Skies starts like most packs: punch trees get wood, with one exception. Don't cut down your first tree completely, get your first 2 logs then craft yourself a crafting station and some crooks. Now from here on out till you get some iron break the leaves on your trees with the crooks to have a better chance of getting drops (apples, saplings, and silkworms) from trees. Also make sure you plant a new sapling as soon as you finish cutting the tree. \n\nNow after a while you may get tired crafting crooks or other common items all the time this is where the super crafting frame comes in handy simply shift click it on to a chest and it ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 19,
+						"width": 179,
+						"height": 160
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "will bring up a menu asking for you to input a recipe input the recipe you want to use then exit out of the menu now so long as you have the required material in either your inventory or in the chest right clicking on the frame will craft that item for you or shift right clicking will craft stacks at a time is also great for hammers and crop sticks.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 224,
+						"yPos": 19,
+						"width": 174,
+						"height": 111
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Depending on the map you start with you may get extra dirt to start with (if you don't have extra dirt see the next section on getting more dirt). Place this extra dirt a short distance away from the dirt where you are growing trees about 5-7 blocks away, and grow another tree. Now take one of the silkworms you have gotten from crooking the leaves and right click it on a leaf of your new tree to infect it. You can use multiple silkworms to speed up the process. Now just take care of punching trees getting more wood while you wait for the tree to completely get infected (WAILA will let you know when the leaves are ready for harvesting). Once the tree is completely infected crook the leaves to get string.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 26,
+						"width": 171,
+						"height": 153
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 53,
+						"yPos": 202,
+						"width": 46,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 53,
+						"yPos": 202,
+						"width": 46,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "You should only need about 32 string to get started 18 will be used to get a sieve, 12 will get you enough wool for a bed, and 2 to make a fishing rod.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 232,
+						"yPos": 17,
+						"width": 161,
+						"height": 46
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "String:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 85,
+						"yPos": 14,
+						"width": 29,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Expanding and Ex Nihilo:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 43,
+						"yPos": 15,
+						"width": 147,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 54,
+						"yPos": 200,
+						"width": 48,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 54,
+						"yPos": 200,
+						"width": 48,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Depending on the map you choose you will ether want to save your wood or expand your world just be careful about building too big cause mobs will spawn if you're too far away from a dark spot. However if you need to build out farther than is safe you can always use the half-slab trick to prevent spawns simply build with the slabs in the lower position to prevent mob spawns. Now then, you've got wood, and extra saplings. What to do with them? Well you will want to start by making a few barrels from Ex Nihilo, 5 should be enough to get started. Place 3 of them out in the open to collect water when it rains so make sure the biome you place them in allows rain and the other 2 under some cover so they don't get water in them.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 23,
+						"yPos": 29,
+						"width": 180,
+						"height": 176
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Next, take your extra saplings and put them into the barrels under cover to compost into dirt (8 saplings,). Many other materials are compostable.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 228,
+						"yPos": 22,
+						"width": 170,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "List of compostable materials.",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 238,
+						"yPos": 78,
+						"width": 171,
+						"height": 14
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 64,
+						"yPos": 200,
+						"width": 52,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 64,
+						"yPos": 200,
+						"width": 52,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Moving to the Stone Age:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 38,
+						"yPos": 19,
+						"width": 158,
+						"height": 19
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "The stone age is your next step in rebuilding the world and it starts with dirt. A Lot of it. About 15-20 should do it, however you may need more or less depending on your luck. And you'll need the sieve. Create yourself a sieve using the wood and string you have collected so far. Now sieve enough dirt to get yourself 15 pieces of cobblestone (4 stones combine to make one cobblestone). Take 6 of them and turn them into slabs so you can create yourself a slab furnace leaving you with 9 cobble. Put 4 off to the side and create a hammer with 2 of the remaining 5. Now take the last 3 and hammer them into dust. ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 32,
+						"width": 171,
+						"height": 142
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now then take only one piece of dust and place it in one of your water barrels (Do Not use the other 2 barrels) to get some clay. Place and break the clay block to get clay balls and, using 3 of them, craft yourself an unfired clay bucket and throw it into a furnace to get a fired clay bucket. Now use that bucket to collect the water from the remaining barrels to get yourself an infinite water source. Next, use the water source to refill the water barrels and create yourself some more clay using the last 2 dust, combine 7 clay balls with bone meal (this is why you save the seven bone meal when you started) to get some porcelain clay so you can craft an unfired crucible. Once again cook it to get a fired version. Now place the crucible over a heat source a torch will work for and place your last 4 cobble in it to melt it into some lava.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 219,
+						"yPos": 16,
+						"width": 181,
+						"height": 177
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 55,
+						"yPos": 201,
+						"width": 54,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 55,
+						"yPos": 201,
+						"width": 54,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Early Food:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 78,
+						"yPos": 15,
+						"width": 93,
+						"height": 6
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "While we wait for the cobble to melt let's look at getting some extra food. While sifting your dirt you should have gotten some seeds. Now let's see what it takes to grow them. This pack uses AgriCraft for farming which changes the way you farm. More detailed info can be found in the                         , but for now we are just going to cover the basics. To get started farming we will need a mattock from Tinkers Construct (Tcon) and some crop sticks (crops) from AgriCraft. Now just use the mattock to hoe some dirt just like normal then place a crop stick on the tilled dirt and plant your seed. Note: some seeds require special dirt to be planted and you can find this out by clicking on the seed in NEI.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 29,
+						"yPos": 34,
+						"width": 172,
+						"height": 149
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "All the Things: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 267,
+						"yPos": 15,
+						"width": 85,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Check the                           for all the different methods of creating them and their pros and cons. However, starting out you will be using the basic manual cobble gen and right now you shouldn't be needing a lot of cobble, just enough to fill the crucible to get more lava and a bit to build with. What you need the most is gravel, sand, and dust. Each one will provide you with different resources: you can use NEI to find what they are by pressing U while hovering over each of them, then navigating to the sieve section. So instead of using your pick on the cobble gen use your hammer to get gravel this will save you a lot of time. You will need a lot of gravel so collect a bunch of it and put it through the sifter. ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 33,
+						"width": 176,
+						"height": 157
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Cobble Gen Section",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 267,
+						"yPos": 32,
+						"width": 109,
+						"height": 21
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "AgriCraft Section",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 120,
+						"yPos": 89,
+						"width": 112,
+						"height": 12
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 54,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 54,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Gravel will get you broken ores (among other things) and 4 broken ores in a crafting grid will get you ore gravel that you can smelt in to ingots. However, to get the most out of your sifting you will want to break the ore gravel down even more so place the ore gravel down and hit it with the hammer to get 4 crushed ore with a chance of getting extra. This is the type of ore you get from sifting sand, by the way. Once again 4 crushed ore in a grid will get you ore sand, and you guessed it, we are going to hammer that as well to 4 powdered ore with a chance of getting extra. This is the type of ore you get from sifting dust. Now we can craft this to get ore dust and smelt it. Processing ore this way takes longer, but yields slightly ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 174,
+						"height": 165
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "more than simply smelting the ore gravel. After the gravel you will need to sift sand and dust as well to get the other resources you will need. Now that we have some resources what are the first things we will need? Well the most important things are going to be a metal bucket (                      ) and some shears (                      ) so we can move the lava easily and use the shears on leaves to get a lot of                                       ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 25,
+						"width": 176,
+						"height": 133
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Multiple Recipes",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 286,
+						"yPos": 79,
+						"width": 101,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Multiple Recipes",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 288,
+						"yPos": 88,
+						"width": 93,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Compostable Material",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 251,
+						"yPos": 117,
+						"width": 150,
+						"height": 17
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 198,
+						"width": 55,
+						"height": 6
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 198,
+						"width": 55,
+						"height": 6
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mob Drops: ",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 76,
+						"yPos": 15,
+						"width": 95,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Trees, Food, Cobble, and Ores what more do you need? Well mobs can drop a lot of useful things. When done right, killing mobs can provide you with a little bit of everything, including bones for bone meal, rotten flesh which can be used for food, dirt, leather, and much more, and you can even get some extra redstone and glow stone. The list of items is long so build a mob farm and see what all you can get.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 23,
+						"yPos": 38,
+						"width": 174,
+						"height": 93
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mob Farms",
+						"wrap": 0,
+						"size": 1.3000001,
+						"color": "E066FF",
+						"xPos": 69,
+						"yPos": 149,
+						"width": 93,
+						"height": 23
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Cobble Gen.png",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 183,
+						"height": 179
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "There are just too many ways to create cobble gens to list them all, it would take an entire book all on its own so I'm going to just list the most common types.",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 229,
+						"yPos": 87,
+						"width": 171,
+						"height": 55
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 56,
+						"yPos": 200,
+						"width": 53,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 56,
+						"yPos": 200,
+						"width": 53,
+						"height": 12
+					}
+				}
+			],
+			"pageName": "Cobble Gen"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Manual Cobble: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 59,
+						"yPos": 19,
+						"width": 92,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "The easiest of all the gens you will need a trench 4 blocks long with a hole down 2 blocks from one of the ends. Place water on the end closest to the hole and lava on the other end. Now use your pick or hammer on the cobble.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 37,
+						"width": 171,
+						"height": 57
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/manual Cobble Gen.png",
+						"xPos": 255,
+						"yPos": 15,
+						"width": 114,
+						"height": 179
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 53,
+						"yPos": 201,
+						"width": 51,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 53,
+						"yPos": 201,
+						"width": 51,
+						"height": 13
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Progressive Automation Cobble:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 29,
+						"yPos": 19,
+						"width": 206,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Not automatable but faster than the manual farm. You will need to make a Stone Miner and Gobble Gen Upgrade from Progressive Automation, and you will also need a stone level pick from Tcon (use flint or bone material) and any stone level shovel (Vanilla stone shovel will work). Now place the Upgrade, Pick and Shovel in the slots of the Miner, add Fuel, and it will start by mining the blocks below it replacing them with cobble  after that it's just a matter of shift clicking the cobble out of the cobble slot. Note this will use durability on the pick and when it breaks it will be moved to the output slots so all you need to do is repair the pick and repeat.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 32,
+						"width": 178,
+						"height": 146
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/progressive Cobble Gen.png",
+						"xPos": 234,
+						"yPos": 20,
+						"width": 162,
+						"height": 85
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/progressive Cobble Gen broke.png",
+						"xPos": 232,
+						"yPos": 112,
+						"width": 165,
+						"height": 87
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 53,
+						"yPos": 203,
+						"width": 50,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 53,
+						"yPos": 203,
+						"width": 50,
+						"height": 11
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Autonomous Activator \n   Cobble/Gravel: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 53,
+						"yPos": 19,
+						"width": 121,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Speed is based on the pick used. This method does require power but it does provide you a way to auto create gravel. You will need to create a manual coble gen but don't add the water and lava till you have everything in place. You will need an autonomous activator, power generator, some power conduits, a hopper, and a container of some sort. Now, stand facing the spot where the cobble will form. This will take a few steps. Let's start by removing the blocks behind where the water drops down and where the cobble is formed, the block below where the cobble is formed, and the block directly in front of that one. Now place the autonomous ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 25,
+						"yPos": 43,
+						"width": 180,
+						"height": 144
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "activator behind where the cobble is formed and the power generator behind where the water drops down and connect them together using the power conduits (Depending on the power gen you may not need a conduit). Now place your container in the hole in front of the one below where the cobble is formed and connect a hopper to it by placing it in the hole below where the cobble is formed. Now you will need to configure the autonomous activator to left click. Place the water and lava. Now you can add either hammers or a pickaxe to the activator and it will auto mine for you dropping the cobble or gravel into the hopper thus placing it in the container for you.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 224,
+						"yPos": 17,
+						"width": 170,
+						"height": 155
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 60,
+						"yPos": 202,
+						"width": 51,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 60,
+						"yPos": 202,
+						"width": 51,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Igneous Extruder: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 260,
+						"yPos": 17,
+						"width": 104,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "The igneous extruder is a great machine from Thermal Expansion that will allow you to auto create cobble, stone, and obsidian. This is not the fastest method available but is still a great option for cobble. All you need do is make sure the machine is set to create cobble then add one bucket of water and one bucket of lava. Cobble will not use up the lava and water however stone will use up water and obsidian will use up both water and lava.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 217,
+						"yPos": 28,
+						"width": 187,
+						"height": 95
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/aa cobble.png",
+						"xPos": 53,
+						"yPos": 14,
+						"width": 117,
+						"height": 183
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/igneous extruder.png",
+						"xPos": 222,
+						"yPos": 129,
+						"width": 174,
+						"height": 63
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 51,
+						"yPos": 203,
+						"width": 50,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 51,
+						"yPos": 203,
+						"width": 50,
+						"height": 12
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Transfer Node Cobble: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 42,
+						"yPos": 16,
+						"width": 139,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Transfer nodes from Extra Utilities can be one of the fastest cobble Gens available and is a very simple method to use once you have the resources to create them. You will need a transfer node, at least one world interaction upgrade (more interaction upgrades will increase the amount of cobble created per cycle), one piece of cobble, and a container something like a JABBA barrel works nicely. To start with, create a trench 3x1 blocks and place the cobble in the center. Then place the transfer node on top of the cobble, put the world interaction upgrades in the node, and attach a container to the node. Now simply place water on one side of ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 22,
+						"yPos": 30,
+						"width": 174,
+						"height": 153
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "the cobble and lava on the other and the node will start creating cobble. Other notes on this design: if the container is any distance away from the node you will probably want speed upgrades inserted in the node to help it find the container faster. Also, if you need to move the cobble gen, do NOT break the cobble that the node is placed on before picking up the lava (or water) or your lava will become obsidian.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 19,
+						"width": 169,
+						"height": 87
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/tnode.png",
+						"xPos": 237,
+						"yPos": 118,
+						"width": 147,
+						"height": 81
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 57,
+						"yPos": 198,
+						"width": 49,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 57,
+						"yPos": 198,
+						"width": 49,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 57,
+						"yPos": 198,
+						"width": 49,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 57,
+						"yPos": 198,
+						"width": 49,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "For those of you that like all things magical the Thaumic Stone Extruder (found in the Witching Gadgets tab of your thaumonomicon) is your go to magical way of getting all the cobble you will ever need. Once again since this is a Thaumcraft block I suggest you check it out in the Thaumonomicon to get all the information you will need.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 29,
+						"yPos": 41,
+						"width": 163,
+						"height": 57
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Magical Cobble:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 64,
+						"yPos": 19,
+						"width": 113,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Magical Cobble.png",
+						"xPos": 218,
+						"yPos": 21,
+						"width": 182,
+						"height": 100
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mob Farms",
+						"wrap": 0,
+						"size": 1.5000001,
+						"color": "4F2F4F",
+						"xPos": 266,
+						"yPos": 21,
+						"width": 119,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "After a knowing about spawn rules, and the different ways to kill mobs, how you build your mob farm is almost limitless. In this guide we are going to cover mob rules, the most basic 2 farms, as well as all the ways to auto kill in this pack so that in the end you should be able to create your own mob trap.\nMob Rules: Mobs cannot spawn on the bottom of a half slab.\nThe 3 key numbers you need to worry about is 24/32/22.\n24: mobs will not spawn within 24 blocks of a player or spawn point.\n32: mobs will stop wandering around if a player is not within 32 this is very important in drop farms.\n22: the number of blocks most mobs must fall to be brought close to the one hit also important in drop farms.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 36,
+						"width": 183,
+						"height": 147
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mobs.png",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 181,
+						"height": 175
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 54,
+						"yPos": 201,
+						"width": 51,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 54,
+						"yPos": 201,
+						"width": 51,
+						"height": 15
+					}
+				}
+			],
+			"pageName": "Mob Farms"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now then in Agrarian Skies 2 there is one other thing you need to know about: mobs can break soft blocks such as torches, doors/trapdoors, and.. So when using these type of items in AS2 be sure mobs can't get to them.\nSpawning Mobs: There are 2 commonly used mob traps and 2 special trap that we are going to cover.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 19,
+						"width": 169,
+						"height": 119
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Hall Trap: One of the easiest traps to create however until you have a way to auto kill mobs it will take more time and hunger to kill the mobs using this method. The hall trap is created much like the name says it is a dark, 3 block tall hallway that has a place for you to safely reach in to hit mobs. It can spawn Endermen from the start, but cannot spawn spiders.\nStart by creating a wall 2 high (the length depends on how big of a trap you too short and you do not have many spawning locations, too long and you have to run up and down the length of it). Surround the bottom row of blocks with a single layer of half slabs.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 223,
+						"yPos": 21,
+						"width": 174,
+						"height": 160
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 50,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 50,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now create a 3 block tall pillar on each end and a roof across the entire structure made of half slabs.\nFinally add half slabs along the front and back of the structure at the top of the first and second block (counting from the bottom) of the columns and a row along the bottom of the third block. You should now have a long 3 block high tunnel with a half slab space at the bottom right at eye level. You can walk along the hallway and hit the mobs in the feet and collect the drops. The entire roof should be half slabs placed in the bottom slot so that no mobs can spawn on top of your mob trap.\n",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 23,
+						"yPos": 16,
+						"width": 179,
+						"height": 170
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Wall trap.png",
+						"xPos": 227,
+						"yPos": 16,
+						"width": 179,
+						"height": 178
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 51,
+						"yPos": 198,
+						"width": 52,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 51,
+						"yPos": 198,
+						"width": 52,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "2. Drop Trap: A more completed mob trap, however once built it will take less time and food to kill the mobs using this method. This method is created using the 3 key numbers to spawn and injure mobs enough that you can kill most mobs in 1 hit. It cannot spawn Endermen until you have the resources to move mobs without using water, and it cannot spawn spiders. \nStart by creating a 3x3 base, now we are going to create a hollow 3x3 tower on top of that, 22 blocks tall. That is called the funnel.\nNow we need to create a way to stop the spawner and get into it if needed. Create a platform out from one side of the funnel at approximately the 19th level, out about 13 blocks. This is the start of your entrance however will have to come back to this later.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 19,
+						"width": 178,
+						"height": 166
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 2.png",
+						"xPos": 233,
+						"yPos": 21,
+						"width": 167,
+						"height": 172
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 1.png",
+						"xPos": 219,
+						"yPos": 14,
+						"width": 71,
+						"height": 64
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 47,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 47,
+						"height": 13
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": " On the level of the 22nd block of the funnel not including the base we are going to create a platform from the center of the funnel out 9 blocks and 2 blocks thick with a trench in the center of each side 8 blocks straight out from the center. This is the only section of the trap that needs to be 2 thick the rest of the floors will need to be on the top section of these trenches (the 23rd level) Now this is where you get to be creative and make the spawner any shape you wish so long as the center of it is the 9 blocks. ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 28,
+						"width": 160,
+						"height": 145
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 3.png",
+						"xPos": 219,
+						"yPos": 14,
+						"width": 188,
+						"height": 181
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 47,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 47,
+						"height": 11
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now create a wall around the platform 2 high, and to prevent spiders we are going to need to place half slabs every other block so there are no 2x2 spawnable areas (make sure that there are paths to the trench so mobs don't get stuck). We need to prevent spiders because they will not fall down the funnel and will instead clog the trap.\nNow we will finish that entrance so that we do not get caught in the trap. Go back down to the area where we created the entrance platform and head out to the end of it and place a column connecting it to the outside wall of the trap now we can place ladders along the column and outside wall of the trap thus allowing us to get to the top.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 18,
+						"width": 175,
+						"height": 158
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 5.png",
+						"xPos": 221,
+						"yPos": 18,
+						"width": 184,
+						"height": 173
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 4.png",
+						"xPos": 304,
+						"yPos": 123,
+						"width": 101,
+						"height": 67
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 47,
+						"yPos": 199,
+						"width": 55,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 47,
+						"yPos": 199,
+						"width": 55,
+						"height": 12
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 6.png",
+						"xPos": 254,
+						"yPos": 18,
+						"width": 151,
+						"height": 126
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/drop 7.png",
+						"xPos": 216,
+						"yPos": 73,
+						"width": 77,
+						"height": 71
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now once you get some extra resources you can replace the water with conveyor belts from either MFR or extra utilities and expand the walls to 3 high thus allowing you to spawn Endermen",
+						"wrap": 0,
+						"size": 0.79999995,
+						"color": "8B668B",
+						"xPos": 217,
+						"yPos": 153,
+						"width": 189,
+						"height": 26
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now that we have a way out, go ahead and finish up the trap. Climb back inside and add water inside the trenches at the furthest most from the center of the funnel this will push any mobs into the funnel thus dropping them the 22 blocks needed to weaken them. Now all you need to do is put a roof on the trap the best choice for this is half slabs in the lower position so you do not need to worry about lighting up the top of it.\nNow that the trap is finished we need a way to kill the mobs simply break out the center bottom block of the funnel on each side and placed a half slab in the up position inside that hole this will prevent small mobs from escaping yet still allow you to reach in and hit the mobs in her feet kill them.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 19,
+						"width": 169,
+						"height": 166
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "3. Special Traps: These are traps using mod items to spawn and kill mobs at a faster rate than the first two. Can spawn and kill any non-boss mob. In Agrarian Skies there are two main types of special traps. There is the Mass mob farm which allows you to spawn all mobs available in the dimension the farm located in and then there's the Specialty mob farm which allows you to control what mob to spawn.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 19,
+						"width": 177,
+						"height": 36
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Cursed Earth is a great way to create an extremely fast mass mob farm; however, you need to have killed the Wither at least once to gain access to the division sigil to create Cursed Earth. A common trap using cursed Earth is a dark room, 5x5 (the room must be a variation of the 5x5 size because the MFR grinder works in a 5x5 area) with a MFR grinder inserted in the center of one of the walls. Another variation of this trap is using the Progressive Automation killer, this trap can be useful because you can use range upgrades to allow you to make the trap almost any size you want, however this method does not provide you with mob essence which can be very useful in other machines.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 31,
+						"width": 175,
+						"height": 150
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mass Mobs:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "Mass Mobs:",
+						"xPos": 277,
+						"yPos": 14,
+						"width": 86,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 48,
+						"yPos": 199,
+						"width": 64,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 48,
+						"yPos": 199,
+						"width": 64,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Your Choice:",
+						"wrap": 0,
+						"size": 1.3000001,
+						"color": "4F2F4F",
+						"xPos": 61,
+						"yPos": 21,
+						"width": 97,
+						"height": 19
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "MFR Spawner: Is great for special mobs but not for general mobs because it uses power and mob essence to spawn the mobs and the only way to get mob essence is to use a MFR grinder on another mob trap, this works great with the Cursed Earth mob farm because the cursed Earth farm can produce a lot of mob essence. Note there are 2 different modes available for this spawner, there's the spawn exact copy no and the spawn exact copy yes. This allows you to make exact copies of mobs, a common use for this is wither skeletons which when spawn outside of the nether will spawn regular skeletons unless you have it set spawn exact copy. However note that when spawning mobs with it set to exact copy yes it will use more mob essence.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 23,
+						"yPos": 30,
+						"width": 179,
+						"height": 168
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Wrath Cage: Another great specialty spawner is for those of you who prefer magic over tech, and that is the wrath cage from Thaumcrafts Forbidden Magic (the Apocrypha tab in the Thaumonomicon) reading the information available in the Thaumonomicon will better inform you of this type of spawner than I ever could so please check it, for more info.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 219,
+						"yPos": 17,
+						"width": 181,
+						"height": 71
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Note: you can also get dark glass from using the division sigil this glass will allow you to create a window that allows you to see into your mob farm while still keeping it dark.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 220,
+						"yPos": 123,
+						"width": 177,
+						"height": 88
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 52,
+						"yPos": 201,
+						"width": 52,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 52,
+						"yPos": 201,
+						"width": 52,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Player Kills:",
+						"wrap": 0,
+						"size": 1,
+						"color": "4F2F4F",
+						"xPos": 272,
+						"yPos": 20,
+						"width": 88,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Extra Utilities Spikes: There are 4 spikes to choose from however only 3 of them work in this pack.\nWooden Spikes will bring a mob down to 1/2 hearts so you can one hit kill them.\n\nIron Spikes will kill mobs and cause them to drop all loot.\n\nGolden Spikes will kill mobs and cause them to drop all loot and EXP.\n\nDiamond Spikes DO NOT WORK \n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 42,
+						"width": 164,
+						"height": 89
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "One thing you need to know about killing mobs is there's 2 methods of killing. Player Kills - mobs will drop all possible loot. Non-Player Kills - loot is limited. In this pack there are ways to automate both types.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 43,
+						"width": 167,
+						"height": 51
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "  Now lets see \nabout killing them:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 55,
+						"yPos": 17,
+						"width": 129,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 52,
+						"yPos": 200,
+						"width": 49,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 52,
+						"yPos": 200,
+						"width": 49,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Autonomous Activator: When  provide with power and a weapon it will kill any mob directly in front of it, you will need to place the weapon in the first slot and make sure it is set to left click as well as set to use first slot only. Mobs will drop all loot.\n\nThaumcraft Golems: When provided with a visor the golems will kill mobs and drop all loot.  However be warned golems can be killed as well.  Golems made from a stronger material will kill mobs faster and have higher health. \n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 227,
+						"yPos": 20,
+						"width": 166,
+						"height": 143
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Progressive Automation Killer: When provided with an appropriate sword and fuel it will kill any mob on top of it. Remember you will need to use the correct tool level for whatever        you use, tool levels can be found in the                           . Will move all loot and the broken sword to an internal inventory that can be piped out of. MFR Harvester: Will kill all mobs in a five by five area when provided with power.  You will need to pipe out or place a chest against the back of the harvester to collect loot, and you will need to pipe out mob essence to a tank.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 19,
+						"width": 179,
+						"height": 139
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Killer",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 175,
+						"yPos": 51,
+						"width": 44,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon Tool Section",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 28,
+						"yPos": 67,
+						"width": 128,
+						"height": 21
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 49,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 200,
+						"width": 49,
+						"height": 17
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Collecting Loot: ",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 278,
+						"yPos": 17,
+						"width": 86,
+						"height": 29
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Hoppers: any items dropped on a hopper will be collected however the item must land on the hopper making this method difficult to use.\n\nBotania Hopperhocks: will suck up any items in a small area and place them in the chest directly beside it. Provided with mana, it will increase the area it can pick up items in.\n\nExtra Utilities Transfer Nodes: will suck up any items in the area around it when provided with a world interaction upgrade. More upgrades will increase the area it picks up in.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 224,
+						"yPos": 34,
+						"width": 168,
+						"height": 130
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Non-Player Kills:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 60,
+						"yPos": 18,
+						"width": 114,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon Punji Sticks: Apply Slowness II to the player/mob when walked onto. They will also do damage, based on how many Punji Sticks are in one square, from one stick dealing 1/2 heart, to five sticks dealing 1 1/2 hearts of damage. Will drop common loot but not rare loot.\n\nBotania Bellethorne: When provided with mana will kill mobs. Will drop common loot but not rare loot.\n",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 35,
+						"width": 174,
+						"height": 151
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 199,
+						"width": 52,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 199,
+						"width": 52,
+						"height": 7
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "AgriCraft is a mod that takes the concept of IC2 crops and improves upon it. There are a few things you will need to know about AgriCraft before we get started. First off all plants will need to be planted on crop sticks (called crops). Also certain plants will need to be planted on certain soil (such as garden soil or sand) and sometimes there needs to be a special block below the soil. To find information on the soil and special block simply search NEI and check the recipe for the seeds. If the seed does not have a recipe then the most likely soil type is dirt.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 35,
+						"width": 177,
+						"height": 150
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "AgriCraft",
+						"wrap": 0,
+						"size": 1.3000001,
+						"color": "4F2F4F",
+						"xPos": 273,
+						"yPos": 21,
+						"width": 64,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureBox",
+					"properties": {
+						"color": "E066FF",
+						"xPos": 28,
+						"yPos": 21,
+						"width": 168,
+						"height": 169
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Image",
+						"wrap": 0,
+						"size": 1.5000001,
+						"color": "8B668B",
+						"xPos": 84,
+						"yPos": 83,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 52,
+						"yPos": 201,
+						"width": 41,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 52,
+						"yPos": 201,
+						"width": 41,
+						"height": 13
+					}
+				}
+			],
+			"pageName": "Agricraft"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "The next thing we need to know is that seeds have various stats that, when enhanced, will improve the plant. The plant stats are: growth, which affects how fast the seed grows, gain, which affects how much produce you will get from harvesting the plants (up to a max of four items per harvest), and strength, which determines how resistant the plant is to weeds. To find the stats on your seeds you will need a seed analyzer to scan your seeds. Also an agricultural journal will keep track of seeds you have discovered and their mutation.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 21,
+						"width": 166,
+						"height": 144
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "One thing to watch out for when growing your plants is weeds. Weeds will sprout anytime a crop is left un-seeded and if they are not removed they will take over and destroy other nearby plants. To remove weeds you can either break and replace the crop or use a rake to remove them. Both methods will break the cross crop so if you are trying to cross breed your plants, you will need to make sure to replace the cross crop.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 224,
+						"yPos": 19,
+						"width": 167,
+						"height": 95
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 50,
+						"yPos": 199,
+						"width": 47,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 50,
+						"yPos": 199,
+						"width": 47,
+						"height": 9
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Getting started with AgriCraft is quite simple, just create the type of soil required for the seed then right click a crop on to the soil and place your seed on the crop and that is about it.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 16,
+						"width": 157,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now to see about upgrading some of our seeds. To upgrade a seed, you will need at least two parent plants. Plant the parent plants on the proper soil with a single crop. Leave a space separating them and place two crops in the space between them. This is called a cross crop. When the parent plants breed an offspring plant will grow in the cross cropped soil block and the offspring will have higher stats. Note that having more than two parent plants will increase the speed at which seeds gain stats. Also having parent plants with higher stats will increase the seeds stats as well so make sure to replace your parent plants with higher tier plants as you get them.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 31,
+						"width": 179,
+						"height": 146
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Upgrading Plants:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 251,
+						"yPos": 19,
+						"width": 121,
+						"height": 18
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/AC soil.png",
+						"xPos": 26,
+						"yPos": 68,
+						"width": 176,
+						"height": 108
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 47,
+						"yPos": 202,
+						"width": 47,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 47,
+						"yPos": 202,
+						"width": 47,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Cross Breeding Plants:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 241,
+						"yPos": 18,
+						"width": 157,
+						"height": 27
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/better AC.png",
+						"xPos": 25,
+						"yPos": 19,
+						"width": 169,
+						"height": 174
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mutating plants to get new seeds works a lot like upgrading seeds; however, you will need two different types of parent plants to create the mutation on the cross cropped soil block. There are lots of mutations available and it can be tricky to remember which plants to cross breed to get to a specific plant. Luckily, you can use NEI to find out what parent plants you need to create different seeds. Mutations are not guaranteed so you will need to cross breed the parent plants at least a few times in order for them to mutate. Also remember to check that you are using the right soil type and keep in mind that higher tier parent plants will cause the mutation to start off with higher stats than normal.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 228,
+						"yPos": 34,
+						"width": 173,
+						"height": 145
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 53,
+						"yPos": 200,
+						"width": 54,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 53,
+						"yPos": 200,
+						"width": 54,
+						"height": 14
+					}
+				}
+			],
+			"pageName": "Cross Breeding"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "With AgriCraft you can use bone meal on almost any plant including nether wart, sugarcane, and others.\nThe watering can from extra utilities will speed up your plant growth and upgrade/mutation speed.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 32,
+						"yPos": 48,
+						"width": 157,
+						"height": 73
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Other Items and Tips \n   for AgriCraft:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4f2f4f",
+						"xPos": 54,
+						"yPos": 16,
+						"width": 214,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "AgriCraft also has its own irrigation system which will allow you to speed up your plant growth and upgrade/mutation speed. To use this you will need to create a water tank (water tanks are multi-block structures that store water). The tank can be filled either by rain or by piping water into it. Also you will need to make sure that the tank is placed at least 4 blocks off the ground to allow you to run your irrigation system.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 17,
+						"width": 175,
+						"height": 128
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 51,
+						"yPos": 201,
+						"width": 50,
+						"height": 9
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 51,
+						"yPos": 201,
+						"width": 50,
+						"height": 9
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Next you will need to run irrigation channels from the bottom side of your tank overtop of your fields. This is the reason why you need your tank to be elevated. \nFinally add a sprinkler to the irrigation channels by right clicking to place them onto the bottom of the channel.\nYou can also add are channel valves which allow you to cut the water flow to sections of your irrigation system.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 18,
+						"width": 173,
+						"height": 115
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/AC sprinkler.png",
+						"xPos": 223,
+						"yPos": 22,
+						"width": 180,
+						"height": 171
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 47,
+						"yPos": 200,
+						"width": 47,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 47,
+						"yPos": 200,
+						"width": 47,
+						"height": 11
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureBox",
+					"properties": {
+						"color": "E066FF",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 167,
+						"height": 180
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Image",
+						"wrap": 0,
+						"size": 1.6000001,
+						"color": "8B668B",
+						"xPos": 74,
+						"yPos": 88,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Progressive Automation",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4f2f4f",
+						"xPos": 236,
+						"yPos": 20,
+						"width": 179,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Progressive automation adds low tech automation tools for common tasks. They can be upgraded as you progress through the mod. \nA few things about the mod before we get to the blocks. All machines can accept any burnable fuel source including lava for fuel or can be upgraded to accept RF Power by placing an RF engine upgrade in the fuel slot. Also all machines have the starting radius of one which can be expanded using range upgrades, the direction the machine works can be rotated using a PA wrench.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 36,
+						"width": 172,
+						"height": 126
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 48,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 48,
+						"height": 8
+					}
+				}
+			],
+			"pageName": "Progressive Automation"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "The Machines:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 66,
+						"yPos": 21,
+						"width": 137,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Miners: Do what the name says and will mine any blocks directly below them without any upgrades adding upgrades will increase the area it mines. The miners will also respect TCon Tool mining levels so you will need to make sure you have the appropriate miner and tool to mine the items you wish to mine. \n\nChoppers: Can plant all types of trees the machine should be placed on the same level as the saplings are to be planted on. Once again the machine will respect TCon tool mining levels.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 37,
+						"width": 170,
+						"height": 132
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Generators: Each generator will produce RF when provided with fuel. Once again it can use any burnable fuel including lava. The base RF generation for all generators is 32,000 RF per piece of coal. The stone generator will produce 40 RF a tick, the iron generator will generate 80 RF a tick, and the diamond generator will generate 160 RF a tick.\n\nAnimal Farmer: These machines can be used to breed animals and with the correct upgrade can harvest milk and wool. When used for breeding you will not need any tools for this machine to operate; however, to use the shearing upgrade you will need shears, and to use the milker upgrade you will need an empty bucket.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 223,
+						"yPos": 19,
+						"width": 173,
+						"height": 174
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 47,
+						"yPos": 201,
+						"width": 54,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 47,
+						"yPos": 201,
+						"width": 54,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Killer: The killer will kill anything directly on top of it, however the range can be increased just like any other machine. There are various upgrades that can make this machine useful for several applications. Using the mob filter upgrade you can set it as an auto killer for mob traps, using the animal filter upgrade you can create a base security system on Agrarian Skies by placing these in areas where animal spawn. Adult filter upgrades are great for creating auto animal farms (Note: the chronotyper from MFR can help with your animal farms by separating the young from the adults).",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 21,
+						"width": 171,
+						"height": 136
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon tool levels can be found in the",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 242,
+						"yPos": 82,
+						"width": 135,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon Section",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 306,
+						"yPos": 91,
+						"width": 97,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 47,
+						"yPos": 201,
+						"width": 46,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 47,
+						"yPos": 201,
+						"width": 46,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureBox",
+					"properties": {
+						"color": "E066FF",
+						"xPos": 26,
+						"yPos": 21,
+						"width": 157,
+						"height": 165
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Image",
+						"wrap": 0,
+						"size": 1.7000002,
+						"color": "8B668B",
+						"xPos": 71,
+						"yPos": 59,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon Tools",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4f2f4f",
+						"xPos": 272,
+						"yPos": 17,
+						"width": 86,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Tinkers Construct (TCon) adds a wide variety of tools and weapons to help you with your adventure in Agrarian Skies. I will not be covering every aspect of this mod, just the type of tools and their uses, harvest levels and special metals.\n\nFirst note that some of the tools have a special right click feature that allows you to place items with the tool. For example, right clicking with a TCon pick to place a torch. To use this you will need to have the items you wish to place on your hot bar, if the tool is in the first slot of your hot bar then it will place the item you have in the last slot, if the tool is in any other slot it will place the item directly to its right. Tools that have this feature are the pick, axe (Hachette), shovel, hammer, lumber axe, and excavator.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 28,
+						"width": 181,
+						"height": 151
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 200,
+						"width": 46,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 200,
+						"width": 46,
+						"height": 12
+					}
+				}
+			],
+			"pageName": "TiCon"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Tools:",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 84,
+						"yPos": 15,
+						"width": 32,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pick, axe, and shovel: do what they do.\n\nMattock: Is a combination of an axe and shovel but its most important features is that it can be used as a hoe.\n\nHammer: Works like a pick but does a 3x3x1 deep area.\n\nLumber axe: Will cut down an entire tree by cutting just one block, it also will break a 3x3x1 deep area of wood.\n\nExcavator: Will dig a 3x3x1 deep area of shovel type blocks.\n\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 29,
+						"yPos": 30,
+						"width": 176,
+						"height": 139
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Scythe: Will break grass, leaves, and flowers in a 3x3 area, when right clicking with this tool it will harvest a 3x3 area of plants. (Note this also works as an AOE attack weapon however the attack damage is low.)",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 18,
+						"width": 176,
+						"height": 51
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon provides you with a wide assortment of options so that you can create weapons to work with your play style and to help with special mobs.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 90,
+						"width": 174,
+						"height": 59
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Broadsword: Works like a standard sword with the block ability. Damage is minor and durability is high.\n\nLongsword: Is similar to the broadsword, however the right click ability for the sword is a charged boost which will allow you to leap forward and attack by holding the right mouse to charge and releasing the button to perform the charge.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 75,
+						"width": 169,
+						"height": 105
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Rapier: Is a specialty sword that gives you the natural ability to pierce armor and strike quickly with a special right click ability called backpedal. Pressing the right mouse button will cause your player to leap back and holding the button will cause your player to continuously move back. These swords have low damage and low durability. However due to the armor piercing and speed these can be great weapons against armored enemies and bosses.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 22,
+						"width": 184,
+						"height": 179
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Weapons:",
+						"wrap": 0,
+						"size": 1.3000001,
+						"color": "4F2F4F",
+						"xPos": 81,
+						"yPos": 14,
+						"width": 59,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "TCon provides you with a wide assortment of options so that you can create weapons to work with your play style and to help with special mobs.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 25,
+						"yPos": 32,
+						"width": 173,
+						"height": 31
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 199,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 199,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Cleaver: Is a heavy weapon that does heavy damage. The natural ability is beheading, the special ability is block, the damage is high, and it durability is average. Due to the weight of this weapon, the swing is extremely slow. However due to the high damage they can be great against on unarmored enemies and due to the natural ability, can be a great weapon when trying to get those infamous wither skeletons skulls.\n\nBattle axe: Is another heavy weapon that is capable of sending enemies flying. The natural ability is knockback, the damage is average, and the durability is average. Note this weapon also works as a great small tree axe that can cut a 3x3 area of wooden blocks but won't completely cut down a tree.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 22,
+						"yPos": 16,
+						"width": 183,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Frying pan: Is a heavy weapon that uses sheer weight to stun enemies. The natural ability is to stun enemies, the special right click feature is blocking, the damage is low, and the durability is high. (Note there is one other special feature of this weapon and that is the cooking ability simply shift right click the pan to place it down now you will be able to cook food items only using the pan and a fuel source).\n\nBattle signs: Are advanced weapons worthy of zombie pigmen everywhere. The special ability is damage reflector which will reflect damage back onto the enemy while blocking and the natural ability is writable. This means you get extra modifiers with this weapon starting off.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 220,
+						"yPos": 15,
+						"width": 174,
+						"height": 156
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Dagger: Is a hybrid weapon that can be used for melee or can be thrown by right clicking. The damage is low and durability is moderate.\n\nJavelin: Is another hybrid weapon. It is great as a melee weapon however it can be devastating at range. The damage is high and the carrying capacity is low.\n\nShuriken: Is a short range throwing weapon that can be thrown instantly. The damage is low however it has a high carrying capacity so you can carry several of these. You can throw a lot of these in quick succession.\n\nThrowing knives: Are mid-range throwing weapons. Hold the right mouse button to aim, release to throw. Damage is medium and the capacity is medium.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 16,
+						"width": 183,
+						"height": 181
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Shortbow: Fires arrows quickly and precisely, draw speed is quick.\n\nLongbow: Has a longer range than the shortbow and is able to shoot heavier arrows. Note that lighter arrows perform worse than heavier arrows.\n\nCrossbow: Is a unique range weapon that once drawn back will stay drawn back until you release it by right clicking. The reload speed is slower than the bow; however, because they stay locked you can get an instant shot off that can cripple foes.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 220,
+						"yPos": 14,
+						"width": 178,
+						"height": 143
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 43,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 43,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": " Mining Levels, Special Materials, and Modifiers",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 39,
+						"yPos": 28,
+						"width": 162,
+						"height": 25
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/abilitys.png",
+						"xPos": 26,
+						"yPos": 111,
+						"width": 375,
+						"height": 83
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Also Tools are require to be 'levelled' or 'boosted' before it can mine additional materials, this can be done by using the tool or adding a mob head to it. On the following pages you can find a table illustrating the tool leveling tiers and materials that can be used to make tinker parts. While this is not a complete list of materials available, it represents the most 'logical' progression for the player.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 232,
+						"yPos": 15,
+						"width": 162,
+						"height": 96
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "In Agrarian Skies tools level up as you use them. In 1.7.10 different materials require different amounts of experience to level. A plastic tool (0.2) requires less XP than a Blue Slime tool (3.0).",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 30,
+						"yPos": 57,
+						"width": 163,
+						"height": 45
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 203,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 203,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/tool1.png",
+						"xPos": 27,
+						"yPos": 16,
+						"width": 179,
+						"height": 178
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/tool1b.png",
+						"xPos": 218,
+						"yPos": 16,
+						"width": 187,
+						"height": 178
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": "Tools"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/tool2a.png",
+						"xPos": 19,
+						"yPos": 15,
+						"width": 189,
+						"height": 181
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/tool2b.png",
+						"xPos": 217,
+						"yPos": 14,
+						"width": 190,
+						"height": 182
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material1a.png",
+						"xPos": 22,
+						"yPos": 16,
+						"width": 179,
+						"height": 178
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material1b.png",
+						"xPos": 221,
+						"yPos": 16,
+						"width": 181,
+						"height": 179
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material2a.png",
+						"xPos": 22,
+						"yPos": 18,
+						"width": 182,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material2b.png",
+						"xPos": 221,
+						"yPos": 19,
+						"width": 178,
+						"height": 176
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 47,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 47,
+						"height": 16
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material3a.png",
+						"xPos": 24,
+						"yPos": 18,
+						"width": 178,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/Material3b.png",
+						"xPos": 222,
+						"yPos": 18,
+						"width": 181,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 201,
+						"width": 56,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 201,
+						"width": 56,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts1.png",
+						"xPos": 22,
+						"yPos": 14,
+						"width": 186,
+						"height": 171
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts2.png",
+						"xPos": 217,
+						"yPos": 14,
+						"width": 187,
+						"height": 183
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 43,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 43,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 64,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 64,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts3.png",
+						"xPos": 22,
+						"yPos": 15,
+						"width": 185,
+						"height": 184
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts4.png",
+						"xPos": 219,
+						"yPos": 15,
+						"width": 184,
+						"height": 182
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 64,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 64,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts5.png",
+						"xPos": 22,
+						"yPos": 14,
+						"width": 186,
+						"height": 180
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts6.png",
+						"xPos": 218,
+						"yPos": 16,
+						"width": 185,
+						"height": 178
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1,
+						"color": "E066FF",
+						"xPos": 49,
+						"yPos": 202,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 49,
+						"yPos": 201,
+						"width": 32,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/parts7.png",
+						"xPos": 22,
+						"yPos": 18,
+						"width": 184,
+						"height": 180
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureBox",
+					"properties": {
+						"color": "E066FF",
+						"xPos": 27,
+						"yPos": 21,
+						"width": 167,
+						"height": 176
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Image",
+						"wrap": 0,
+						"size": 1.4000001,
+						"color": "8B668B",
+						"xPos": 77,
+						"yPos": 71,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pipes and Conduits",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "8B668B",
+						"xPos": 257,
+						"yPos": 22,
+						"width": 132,
+						"height": 34
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "In this pack there are many different pipes, conduits, and ducts so it can be confusing deciding which ones to use.  In this section we will talk about the different uses for the pipes in conduits available in this pack.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 44,
+						"width": 177,
+						"height": 73
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 44,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 44,
+						"height": 11
+					}
+				}
+			],
+			"pageName": "Pipes"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Let us start with Thermal Expansion. TE has many different pipes and ducts to be used for many different things. \n\n             \nAre various pipes that can transfer RF and they come in many forms. Leadstone, Hardened, Redstone, Resonant, and Cryo-Stabilized fluxducts are your basic choices. They can transfer 200, 800, 8000, 32,000, and Unlimited respectively. Note the transfer rate is per connection so that means a leadstone energy conduit connected to multiple generators can transfer more than 200 RF so long as each generator does not produce over 200 RF or the machine using power does not require more than 200 RF.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 30,
+						"width": 168,
+						"height": 161
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Fluidducts: Are various pipes that can transfer fluids. The transfer rate is determined by the liquid. Temperate and Hardened are your basic choices. Temperate are your most basic pipes and will break if the fluid is either extremely cold or extremely hot. Hardened will transfer any liquid regardless of temperature but are slightly more expensive to make.\n\nItemducts: are various pipes that can transfer items. Itemducts, Impulse Itemducts, and Warp Itemducts are your basic pipes and their transfer speed is faster respectively. Warp Itemducts can transfer items instantly when provided with power.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 28,
+						"width": 173,
+						"height": 140
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Thermal Expansion",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 51,
+						"yPos": 17,
+						"width": 150,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Ducts",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 82,
+						"yPos": 66,
+						"width": 41,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 51,
+						"height": 6
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 51,
+						"height": 6
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Specialty Ducts: There are also other variations of the previously mentioned ducts that would be considered special use.\n\nFlux-Plated Fluidducts: Can transfer both power and liquids these pipes can transfer 2000 RF a tick per connection. Once again the liquid transfer is determined by the liquids.\n\nFluctuating Itemducts: Can transfer both power and items. These pipes can transfer 2000 RF a tick per connection and the item transfer rate is equivalent to standard Itemducts.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 21,
+						"width": 160,
+						"height": 138
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Vacuum and Dense Ducts: By adding pulverized silver to your Itemducts you can create a Vacuum Duct which will make the items think the pipe is closer than it really is thus creating a priority duct. Adding pulverized lead to an Itemduct will create a dense version which makes the items think the pipe is further away than it really is thus creating a last location pipe. By using these two pipes correctly you can create a priority sorting system.\n\nOpaque vs. Non-Opaque: Opaque ducts do not show items traveling through the pipe so this is great for reducing lag on lower end PCs. Non-opaque ducts show items traveling through the pipe so this is great for making things look good so long as your PC and handle them.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 19,
+						"width": 173,
+						"height": 162
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 57,
+						"height": 15
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 57,
+						"height": 15
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": " \nServos will pull items from a connected inventory, filters will allow you to decide what is allowed into an inventory, and retrievers will search the entire pipe system and pull selected items into the connected inventory. And they all come in various versions which will provide you with more filter options, faster transfer rate, and stack size.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 28,
+						"width": 166,
+						"height": 143
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Now let us look at what Extra Utilities provides for us. This mod also provides us with a lot of items to help with several tasks from sorting to cobble gens and more.\n\nPipes come in many forms and can transfer items, fluids, and power. Transfer rate is determined by the connecting nodes and node upgrades. Also note that the pipe will randomly choose a direction when items come to an intersection so when routing your pipes be careful with intersections and also know that you can use a wrench to force a direction.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 38,
+						"width": 177,
+						"height": 147
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Servos, Filters, Retrievers",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 37,
+						"yPos": 19,
+						"width": 164,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Extra Utilities",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 278,
+						"yPos": 19,
+						"width": 111,
+						"height": 32
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 50,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 50,
+						"height": 10
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Transfer pipes: Your most basic pipes. They can transfer items, fluids, and power all in the same pipe.\n\nSorting pipes: Look into the connected inventory and place only items found in the inventory into it.\n\nFilter pipes: Allow you to direct items down a particular colored path using item filters.\n\nRationing pipes: Only allow only one stack of an item in the connected inventory.\n\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 35,
+						"yPos": 30,
+						"width": 157,
+						"height": 146
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Energy pipes: Only allow energy transfer through them.\n\nCrossover pipes: Ensure the searching direction does not change. This allows systems to crossover without interfering with each other.\n\nMod sorting pipes: Search the connected inventory and only place items that belong to the same mod into that inventory.\n\nEnergy extraction pipes: To be added later.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 50,
+						"width": 174,
+						"height": 141
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Hyper rationing pipes: Work just like the rationing pipes but only allow one item.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 221,
+						"yPos": 20,
+						"width": 173,
+						"height": 29
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pipes:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "8B668B",
+						"xPos": 92,
+						"yPos": 17,
+						"width": 35,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 200,
+						"width": 42,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 200,
+						"width": 42,
+						"height": 12
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Transfer node - items: are used to pull items from an inventory and sort them along a pipe system. They can also be used to create a cobble gen and a vacuum hopper by placing it so that is not connected to anything and adding world interaction upgrades (more world interaction upgrades increase the range).\n\nTransfer nodes - liquids: Work like the item transfer. However cannot be used for the cobble gen or vacuum hopper.\n\nTransfer nodes - energy: Will pull energy from a power source and transfer it along the pipe system.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 25,
+						"yPos": 41,
+						"width": 167,
+						"height": 161
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Nodes:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "8B668B",
+						"xPos": 91,
+						"yPos": 16,
+						"width": 34,
+						"height": 17
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Transfer nodes - hyper energy: Work the same as the transfer node energy but can pull more power.\n\nRetrieval nodes - items: Will search the pipe system and pull items to it.\n\nRetrieval nodes - liquids: Work the same as retrieval node items but with liquids.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 226,
+						"yPos": 24,
+						"width": 170,
+						"height": 103
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 43,
+						"yPos": 202,
+						"width": 49,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 43,
+						"yPos": 202,
+						"width": 49,
+						"height": 11
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Speed upgrades: Will increase the number of operations a transfer node can do per second by one up to a maximum of 64 and it will also increase the transfer speed of the pipes.\n\nWorld interaction upgrades: Allows the node interact with the environment. The method of action depends on the type of node and what blocks the node is placed against.\n\nStack upgrades: Adding a stack upgrade will allow nodes to pull stacks out at a time.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 25,
+						"yPos": 39,
+						"width": 173,
+						"height": 154
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Upgrades and Filters:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "8B668B",
+						"xPos": 52,
+						"yPos": 18,
+						"width": 144,
+						"height": 28
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Ender transmitter/receiver: Will allow you to wirelessly transfer energy by linking a transmitter and receiver together. To create unique frequencies you will need to name them in an anvil, the transmitter and receivers that have the same name will be linked.\nDepth first search upgrade: Will allow nodes to search the entire system before restarting it search procedure. This should speed up searching on complex systems.\nBreath first search upgrade: Will make the nodes search the closest inventories first.\nPseudo round robin upgrade: Will distribute items evenly throughout the entire system.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 227,
+						"yPos": 21,
+						"width": 173,
+						"height": 141
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 200,
+						"width": 53,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 200,
+						"width": 53,
+						"height": 14
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Filters: Will allow you to determine what items/liquids nodes will transfer and also are used in the filter pipes. Simply right-click a filter to open up its GUI and place the items you wish to filter into the slots. Note that you only have nine slots available, however you can place filters inside of filters to increase the number of items you can filter. There are four versions of the filter: the standard filter which will only filter the exact items in the filter, the fuzzy filter NBT which will ignore NBT data, the fuzzy filter metadata which will ignore item metadata, and finally the inverted filter which will filter all items that are not in the filter.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 28,
+						"width": 164,
+						"height": 151
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Refined Relocation: Please see the refined relocation book for information on the pipes available in refined relocation.",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 32,
+						"width": 168,
+						"height": 94
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Book Comming Soon",
+						"wrap": 0,
+						"size": 1.5000001,
+						"color": "FF000000",
+						"xPos": 267,
+						"yPos": 88,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 51,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 51,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Filters: Will allow you to determine what items/liquids nodes will transfer and also are used in the filter pipes. Simply right-click a filter to open up its GUI and place the items you wish to filter into the slots. Note that you only have nine slots available, however you can place filters inside of filters to increase the number of items you can filter. There are four versions of the filter: the standard filter which will only filter the exact items in the filter, the fuzzy filter NBT which will ignore NBT data, the fuzzy filter metadata which will ignore item metadata, and finally the inverted filter which will filter all items that are not in the filter.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 28,
+						"width": 164,
+						"height": 151
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Refined Relocation: Please see the refined relocation book for information on the pipes available in refined relocation.",
+						"wrap": 0,
+						"size": 1,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 32,
+						"width": 168,
+						"height": 94
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Book Comming Soon",
+						"wrap": 0,
+						"size": 1.5000001,
+						"color": "FF000000",
+						"xPos": 267,
+						"yPos": 88,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 51,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 202,
+						"width": 51,
+						"height": 8
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "TConstruct:CraftingStation",
+						"xPos": 29,
+						"yPos": 31,
+						"width": 184,
+						"height": 184
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 105,
+						"yPos": 36,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 75,
+						"yPos": 51,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 122,
+						"yPos": 45,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 121,
+						"yPos": 60,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 137,
+						"yPos": 52,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 91,
+						"yPos": 44,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 91,
+						"yPos": 60,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "minecraft:stone_slab 3",
+						"xPos": 105,
+						"yPos": 68,
+						"width": 16,
+						"height": 16
+					}
+				},
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "TConstruct:FurnaceSlab",
+						"xPos": 140,
+						"yPos": -9,
+						"width": 64,
+						"height": 64
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/recipes.png",
+						"xPos": 22,
+						"yPos": 97,
+						"width": 180,
+						"height": 88
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Raw Resources",
+						"wrap": 0,
+						"size": 1.4000001,
+						"color": "4F2F4F",
+						"xPos": 265,
+						"yPos": 20,
+						"width": 141,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Stone",
+						"wrap": 0,
+						"size": 1,
+						"color": "4F2F4F",
+						"xPos": 228,
+						"yPos": 39,
+						"width": 32,
+						"height": 6
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Stone everybody knows to get stone all you need to do is put cobble stone into a furnace, however in Agrarian Skies there are other ways to accomplish is as well.\n1. Cobble in a furnace, note that this will work with any furnace in the pack.\n2. TE Igneous Extruder: when provided with an infinite source of water and a single bucket of lava this machine will continuously produce stone for you.\n3. TE Autonomous Activator cobble gen when provided with a silk touch pick will also net you all the stone you'll ever need.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 58,
+						"width": 177,
+						"height": 75
+					}
+				}
+			],
+			"pageName": "Resources"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Dirt:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 94,
+						"yPos": 19,
+						"width": 20,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Ex Nihilo Compost Material",
+						"wrap": 0,
+						"size": 1,
+						"color": "4F2F4F",
+						"xPos": 41,
+						"yPos": 31,
+						"width": 167,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Saplings 8                                         Leaves 8\nSeeds 32                                          String 25\nRotten flesh 10                                  Spider Eyes 13\nWheat/Potatoes/Carrots 13                   Flowers 10\nMushrooms/Nether Wart 10                    Vines 10\nLily Lads 10                                       Whole melon/Pumpkins 6\nMelon Slice 25                                    Pork/Steak/Chicken                   Bread 7                                            (cooked/uncooked) 32\nAll Fish 7                                   \n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 45,
+						"width": 365,
+						"height": 67
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "2. Botania Rod of the Lands, is a simple rod that will materialize and placed dirt anywhere you right click so long as you provide it mana.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 28,
+						"yPos": 143,
+						"width": 166,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 48,
+						"height": 11
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "3. MFR Sludge Boiler, will have a random chance of creating dirt when provided with sludge from your MFR harvesters.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 221,
+						"yPos": 141,
+						"width": 172,
+						"height": 28
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Sand/Gravel:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 27,
+						"yPos": 18,
+						"width": 76,
+						"height": 4
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Sand/Gravel as you may very well know are some very important resources so make sure we can stock plenty of it, and have a way to produce more anytime we need it.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 26,
+						"yPos": 30,
+						"width": 172,
+						"height": 43
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Hammer Time, while not the most exciting way to get sand/gravel you can use any Ex Nihilo hammer to break down cobble to gravel and gravel to sand.\n2. Ex Nihilo Auto Hammers, is a way to automate the 1st method of getting sand/gravel.\n3. TE Pulverizer's, can pulverize cobble into gravel and gravel into sand much like the auto hammers from Ex Nihilo.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 23,
+						"yPos": 79,
+						"width": 175,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Grass:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 220,
+						"yPos": 18,
+						"width": 22,
+						"height": 7
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Grass is another important resource that we will be needing, so that we can get flowers, tall grass, and the all-important animals.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 221,
+						"yPos": 29,
+						"width": 171,
+						"height": 49
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Sifting Dirt, will get you some grass seeds which you can plant on dirt to slowly spread to fill in an area of dirt.\n2. Botania, after you get a small amount of dirt you can use bonemeal to get tallgrass that you can share and then drop into a mana pool to get pasture seeds which will allow you to grow a large grass area very quickly.\n\nAlso note that using the watering can from extra utilities will also help speed along the process of growing grass.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 222,
+						"yPos": 70,
+						"width": 174,
+						"height": 49
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Mycelium:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 29,
+						"yPos": 21,
+						"width": 48,
+						"height": 14
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Soul Sand:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 221,
+						"yPos": 16,
+						"width": 94,
+						"height": 33
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "While not one of the most important resources you will at least need some mycelium.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 24,
+						"yPos": 37,
+						"width": 175,
+						"height": 23
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Ancient Spores, from sifting sand will grow mycelium when planted on dirt.\n2. Botania, dropping a red or brown mushroom in a mana pool will get you a Infestation Spore which will grow a large area of mycelium very quickly.\n3. MFR Sludge Boiler, will have a random chance of creating mycelium when provided with sludge from your MFR harvesters.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 29,
+						"yPos": 68,
+						"width": 168,
+						"height": 40
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Another resource that you may not need a lot of is soul sand but you'll still need at least some of this.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 217,
+						"yPos": 32,
+						"width": 189,
+						"height": 43
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. Placing a Ex Nihilo barrel on mycelium and filling it with water will convert the water to which water which when placed sand in the barrel with the witch water it will create soul sand.\n2. Blood Magic Alchemical Chemistry, can create soul sand when you provided with 3 sand bucket of water and a weak blood shard.\n3. MFR Sludge Boiler, will have a random chance of creating soul sand when provided with sludge from your MFR harvesters.\n4. ",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 216,
+						"yPos": 63,
+						"width": 188,
+						"height": 136
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Obsidian:",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "FF555555",
+						"xPos": 29,
+						"yPos": 22,
+						"width": 46,
+						"height": 8
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "1. A stone barrel from Ex Nihilo with water on top of it will create cobblestone anytime you place a bucket of lava into the barrel.\n2. Botania Pure Daisy, will convert blaze lamps into obsidian.\n3. TE Igneous Extruder, when provided with an infinite source of water and lava will continuously create obsidian.",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "FF555555",
+						"xPos": 24,
+						"yPos": 87,
+						"width": 171,
+						"height": 58
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureItem",
+					"properties": {
+						"item": "BiblioCraft:item.BiblioClipboard",
+						"xPos": -6,
+						"yPos": -21,
+						"width": 258,
+						"height": 258
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Pack",
+						"wrap": 0,
+						"size": 1.8000002,
+						"color": "4F2F4F",
+						"xPos": 99,
+						"yPos": 94,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Info",
+						"wrap": 0,
+						"size": 1.7000002,
+						"color": "4F2F4F",
+						"xPos": 102,
+						"yPos": 110,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Thanks To",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "4F2F4F",
+						"xPos": 229,
+						"yPos": 24,
+						"width": 76,
+						"height": 18
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 1.png",
+						"xPos": 25,
+						"yPos": 15,
+						"width": 172,
+						"height": 180
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 2.png",
+						"xPos": 219,
+						"yPos": 18,
+						"width": 185,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 13
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 13
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 3.png",
+						"xPos": 23,
+						"yPos": 16,
+						"width": 174,
+						"height": 182
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 4.png",
+						"xPos": 221,
+						"yPos": 17,
+						"width": 180,
+						"height": 178
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 42,
+						"yPos": 203,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 5.png",
+						"xPos": 24,
+						"yPos": 17,
+						"width": 177,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 6.png",
+						"xPos": 220,
+						"yPos": 16,
+						"width": 182,
+						"height": 179
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 43,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 200,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureImage",
+					"properties": {
+						"path": "Guide_to_Life_in_a_Void/mods 7.png",
+						"xPos": 21,
+						"yPos": 18,
+						"width": 186,
+						"height": 177
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 200,
+						"width": 46,
+						"height": 4
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 200,
+						"width": 46,
+						"height": 4
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Change Logs",
+						"wrap": 0,
+						"size": 1.2,
+						"color": "4F2F4F",
+						"xPos": 63,
+						"yPos": 21,
+						"width": 105,
+						"height": 10
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "v 1.0.38\nFixes:\nHammer Crash\nRemoves Forestry storage block crafting\nAdds conversion from Forestry storage to TE storage metal blocks\nAdds Sieve recipe for Forestry Metal blocks\nFresh Water is now 4 not 1\nFluxed Crystal grow time is longer\n \n \nUpdated:\nFluxed Crystals - solves weird seeds\nEx-Nihilo - hammer fix\nGuide API\nProgressive Automation - Dupe fix - tool fix\nRainmaker",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 23,
+						"yPos": 32,
+						"width": 176,
+						"height": 172
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Refined Relocation\nTraveller's Gear\nTophy Slots - server configs override client - fixes some derpiness",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 23,
+						"width": 182,
+						"height": 35
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 43,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 43,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": "Changelogs"
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "v1.0.40 - Available for Client Users, need a fix for Linux/Mac/Servers",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 21,
+						"width": 170,
+						"height": 21
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Requires Forge 1401\n \nMods were removed, items will be missing. \n \nThis update will require a Quest Book reset. Use /hqm edit to get a cheat book to reset your completed quests. A world reset is recommended to get rid of the weird NPC recipes but it's not required. \n \nConfig/Script Changes\nadd builders wand recipe \nadd heart canister recipes \nFix Ultimate recipes\nAdd mortar recipes for flour\nAdd CobbleGen recipe with clay buckets \n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 26,
+						"yPos": 41,
+						"width": 174,
+						"height": 151
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Add raisins drying rack recipe\nAdd TC recipes for shards from FM \nAdd TC magnum torch recipe\nRemove old gear smelting recipes\nRestrict when players can craft specific energy producers based on dimension visits and quest completion\nAdd agricraft custom crops : textures don't exist yet, crops seem to work... but look like funny colored squares\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 220,
+						"yPos": 15,
+						"width": 183,
+						"height": 131
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Added Mods:\nInPure Core - trims NEI\nProgression - adds some guides for TiCon tool levels and small circumstantial rewards\nRF Windmills\nThaumic Energistics\nThaumic Horizons\nForbidden Magic\nWitching Gadgets\nBibliocraft - Forestry and Nature too - NO CHISEL. NO NO NO\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 219,
+						"yPos": 103,
+						"width": 183,
+						"height": 94
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 42,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 42,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "ExtraCells2\nJadedsShinies - TiCon material addon\nRemoved Mods:\nttcore\nkitchencraft\njsonables\nWailaPlugins\nFluxedCrystals\nAdvanced Inventory\nTrophySlots\nThermalRecycling\nUpdated: Tons... lots and lots and lots\n \nQuests:\nRemoved 15\nAdded 100 ish\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 24,
+						"yPos": 20,
+						"width": 181,
+						"height": 155
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "v1.0.41\nTemporarily removed ExtraCells until the server fix comes out\nUploaded Server files\nFixed script typo\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 22,
+						"width": 178,
+						"height": 59
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 44,
+						"yPos": 202,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "v1.1.0 - Beta Update\n \nFixes:\nA bug where if a player disconnected from a server, or crashed to the main screen on the client they couldn't log back in without restarting their game.\nRecipes should no longer stop working when changing worlds/dimensions\nRecipes should no longer stop working for no apparent reason\nPrimal Mana now requires a bucket of life essence instead of an empty bucket. This fixes people not being able to make Mana since the life bucket recipe conflicted\nCharcoal smelting should work correctly\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 20,
+						"width": 168,
+						"height": 173
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "InPureCore is back and hides a lot of extra stuff in NEI. Like the 15 pages of TiCon parts. Use the cast patterns to find what materials are valid.\nSeveral random crashes and dupe bugs are now fixed\nThe quest book has been updated to use custom ore dictionary options for the sieve/barrel/dynamo/accumulator/TiCon Tables quests. Any wood variety should work now\nBotania mortar for flour is also back\nThe final quest item recipes are working again.\nA bug with JadedShinies where having specific metals hurt the user has been fixed. It now correctly only hurts the user if they try to make tools with more than 1 part that adds 2+ modifiers. Parts that only add one modifier can have multiple parts in a single tool.\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 225,
+						"yPos": 19,
+						"width": 176,
+						"height": 173
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 48,
+						"height": 12
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 45,
+						"yPos": 202,
+						"width": 48,
+						"height": 12
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Since this is now Beta the launch notice will only show once, and pop up when there are updates.\nUpdated:\nAE2\nBotania\nCustomMainMenu\nCustomNpcs\nJadedShinies\nLaunch GUI\nMagicBees\nRouterReborn\nSolarFlux\nStorageDrawers\nThaumicEnergistics\nAdded:\n \nJaded Tweaks\nStorageDrawers Natura (Purple drawers.... yeeees)\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 27,
+						"yPos": 23,
+						"width": 178,
+						"height": 170
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Removed:\nModTweaker\nMineTweaker\n",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 224,
+						"yPos": 21,
+						"width": 146,
+						"height": 35
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "v1.1.1\n \n- Fixes a client/server mismatch of mods",
+						"wrap": 0,
+						"size": 0.9,
+						"color": "8B668B",
+						"xPos": 222,
+						"yPos": 62,
+						"width": 181,
+						"height": 36
+					}
+				},
+				{
+					"type": "FeatureText",
+					"properties": {
+						"text": "Contents",
+						"wrap": 0,
+						"size": 1.1,
+						"color": "E066FF",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				},
+				{
+					"type": "FeatureJump",
+					"properties": {
+						"jumpTo": "Contents",
+						"texture": "",
+						"xPos": 46,
+						"yPos": 201,
+						"width": 50,
+						"height": 50
+					}
+				}
+			],
+			"pageName": ""
+		},
+		{
+			"features": [],
+			"pageName": ""
+		},
+		{
+			"features": [],
+			"pageName": ""
+		}
+	],
+	"uniqueName": "Guide_to_Life_in_a_Void",
+	"color": 9116245,
+	"showBackground": true,
+	"showArrows": true,
+	"showNumber": true,
+	"iconPass1": "",
+	"iconPass2": "",
+	"iconColorisePass1": false,
+	"iconColorisePass2": false,
+	"iconColorPass1": 0,
+	"iconColorPass2": 0,
+	"language": "en_US",
+	"displayName": "Guide_to_Life_in_a_Void",
+	"displayInCreative": true
+}

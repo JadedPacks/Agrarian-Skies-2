@@ -1,0 +1,147 @@
+{
+	"events": [
+		{
+			"event_type": "JOIN_WORLD",
+			"noDeathDim": "true",
+			"joinOneEver": "true",
+			"target": "ALL_PLAYERS",
+			"tasks": [
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "sapling",
+					"meta": "0",
+					"count": "8"
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "sapling",
+					"meta": "1",
+					"count": "1"
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "sapling",
+					"meta": "2",
+					"count": "1"
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "flint",
+					"meta": "0",
+					"count": "8"
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "apple",
+					"meta": "0",
+					"count": "8"
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dirt",
+					"meta": "0",
+					"count": "8",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "EASY"
+						}
+					]	
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dye",
+					"meta": "15",
+					"count": "192",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "EASY"
+						}
+					]	
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dirt",
+					"meta": "0",
+					"count": "4",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "NORMAL"
+						}
+					]	
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dye",
+					"meta": "15",
+					"count": "128",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "NORMAL"
+						}
+					]	
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dirt",
+					"meta": "0",
+					"count": "1",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "HARD"
+						}
+					]	
+				},
+				{
+					"task_type": "INVENTORY_ADD",
+					"target_type": "SELF",
+					"target": "",
+					"modid": "minecraft",
+					"name": "dye",
+					"meta": "15",
+					"count": "64",
+					"conditions": [
+						{
+							"condition_type": "DIFFICULTY",
+							"name": "HARD"
+						}
+					]	
+				}
+			]
+		}
+	]
+}

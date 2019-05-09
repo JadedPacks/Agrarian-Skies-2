@@ -1,0 +1,628 @@
+{
+	"tabs": [
+		{
+			"uniqueName": "DEFAULT",
+			"displayName": "Default",
+			"sortIndex": -14,
+			"isVisible": true,
+			"stack": "minecraft:book 0 *1",
+			"criteria": [
+				{
+					"uniqueName": "1431541133744",
+					"displayName": "Power Gen",
+					"displayStack": "ExtraUtilities:generator 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "progressiveautomation:GeneratorStone 0 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ExtraUtilities:generator 0 *1"
+							}
+						},
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ThermalExpansion:Dynamo 0 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 414,
+					"y": 7,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431541202246",
+					"displayName": "Nether Power",
+					"displayStack": "ThermalExpansion:Dynamo 1 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": -1
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ExtraUtilities:generator 2 *1"
+							}
+						},
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ThermalExpansion:Dynamo 1 *1"
+							}
+						},
+						{
+							"type": "crafting",
+							"data": {
+								"item": "BigReactors:BRReactorPart 0 *1"
+							}
+						},
+						{
+							"type": "item",
+							"data": {
+								"item": "SolarFlux:solar4 0 *1"
+							}
+						}
+					],
+					"prereqs": [
+						"1431541133744"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 479,
+					"y": 8,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431541696408",
+					"displayName": "Farming",
+					"displayStack": "progressiveautomation:PlanterStone 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "progressiveautomation:PlanterStone 0 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "crafting",
+							"data": {
+								"item": "MineFactoryReloaded:machine.0 0 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 291,
+					"y": 5,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431541733692",
+					"displayName": "End Alignment",
+					"displayStack": "ExtraUtilities:generator 3 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": 1
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ExtraUtilities:generator 3 *1"
+							}
+						},
+						{
+							"type": "crafting",
+							"data": {
+								"item": "ExtraUtilities:decorativeBlock1 1 *1"
+							}
+						},
+						{
+							"type": "item",
+							"data": {
+								"item": "SolarFlux:solar5 0 *1"
+							}
+						},
+						{
+							"type": "crafting",
+							"data": {
+								"item": "appliedenergistics2:tile.BlockMolecularAssembler 0 *1"
+							}
+						}
+					],
+					"prereqs": [
+						"1431541202246"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 559,
+					"y": 9,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431541848595",
+					"displayName": "CobbleGen",
+					"displayStack": "exnihilo:sifting_table 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "clickBlock",
+							"data": {
+								"item": "exnihilo:sifting_table 0 *1",
+								"matchDamage": false,
+								"amount": 3000
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "exastris:SieveUpgradeItem 0 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 5,
+					"x": 209,
+					"y": 35,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431541958248",
+					"displayName": "FortuneFavor",
+					"displayStack": "exastris:SieveUpgradeItem 1 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "clickBlock",
+							"data": {
+								"item": "exnihilo:sifting_table 0 *1",
+								"matchDamage": false,
+								"amount": 10000
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "exastris:SieveUpgradeItem 1 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 5,
+					"x": 207,
+					"y": 64,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431542042900",
+					"displayName": "Extra Goals",
+					"displayStack": "minecraft:book 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "login",
+							"data": {}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "minecraft:book 0 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 211,
+					"y": 5,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431542239855",
+					"displayName": "Dimensional Traveller",
+					"displayStack": "minecraft:mob_spawner 64 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": -1
+							}
+						},
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": 1
+							}
+						},
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": -42
+							}
+						},
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": -100
+							}
+						},
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": -112
+							}
+						},
+						{
+							"conditions": [],
+							"type": "changeDimension",
+							"data": {
+								"to": 42
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "Thaumcraft:ItemHelmetFortress 0 *1"
+							}
+						}
+					],
+					"prereqs": [
+						"1431541733692"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 638,
+					"y": 9,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431542446843",
+					"displayName": "Seed gathering",
+					"displayStack": "MineFactoryReloaded:upgrade.radius 8 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "minecraft:wheat_seeds 0 *1",
+								"itemAmount": 4000
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "MineFactoryReloaded:upgrade.radius 8 *2"
+							}
+						}
+					],
+					"prereqs": [
+						"1431541696408"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 297,
+					"y": 35,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431547941398",
+					"displayName": "Flint Age",
+					"displayStack": "minecraft:flint 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:hatchetHead 3 *1"
+							}
+						},
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 3 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "TConstruct:materials 6 *1"
+							}
+						}
+					],
+					"prereqs": [],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 25,
+					"y": 209,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548028150",
+					"displayName": "Iron Age",
+					"displayStack": "minecraft:iron_block 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 2 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "minecraft:iron_ingot 0 *4"
+							}
+						}
+					],
+					"prereqs": [
+						"1431547941398"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 80,
+					"y": 209,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548165703",
+					"displayName": "Copper Age",
+					"displayStack": "ThermalFoundation:Storage 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 13 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "ThermalFoundation:material 65 *4"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548028150"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 135,
+					"y": 207,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548230004",
+					"displayName": "Bronze Age",
+					"displayStack": "TConstruct:MetalBlock 4 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 14 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "minecraft:redstone 0 *8"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548165703"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 206,
+					"y": 207,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548304157",
+					"displayName": "Steel Age",
+					"displayStack": "TConstruct:MetalBlock 9 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 16 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "SolarFlux:solar1 0 *2"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548230004"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 276,
+					"y": 207,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548346307",
+					"displayName": "Silver Age",
+					"displayStack": "TConstruct:cutlass 0 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 1023 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "ThermalFoundation:material 66 *4"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548304157"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 335,
+					"y": 206,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548500045",
+					"displayName": "Platinum Age",
+					"displayStack": "TConstruct:pickaxeHead 1024 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 1024 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "ThermalFoundation:material 69 *2"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548346307"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 398,
+					"y": 206,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431548659749",
+					"displayName": "Pink Age",
+					"displayStack": "TConstruct:MetalBlock 8 *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "TConstruct:pickaxeHead 15 *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "TConstruct:materials 15 *3"
+							}
+						}
+					],
+					"prereqs": [
+						"1431548500045"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 471,
+					"y": 206,
+					"isVisible": true
+				},
+				{
+					"uniqueName": "1431556189854",
+					"displayName": "Taking Flight",
+					"displayStack": "simplyjetpacks:jetpacks 2 {} *1",
+					"triggers": [
+						{
+							"conditions": [],
+							"type": "obtain",
+							"data": {
+								"item": "simplyjetpacks:jetpacks 2 {} *1"
+							}
+						}
+					],
+					"rewards": [
+						{
+							"type": "item",
+							"data": {
+								"item": "ThermalFoundation:material 76 *4"
+							}
+						}
+					],
+					"prereqs": [
+						"1431541133744"
+					],
+					"conflicts": [],
+					"repeatable": 1,
+					"x": 415,
+					"y": 37,
+					"isVisible": true
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"components": [
+		{
+			"type": "ElementText",
+			"properties": {
+				"text": "You have reached this region either by being assigned to it by your overlords or by completing a previous region's rebuilding. There's still a lot to be done to repair the destruction of the Old World.Whatever your reason for being here, the Jaded One, the Cute One, and the All-Knowing One are happy you are here to take up the task of rebuilding our poor world. The Three Overlords will be joined in guiding you by other meddling watchers.Some will help you , some just want to see you fail. Choose wisely what advice you follow, not all paths have the best of outcomes. The first step on your path, punch tree, get wood, avoid dragons.",
+				"color": -1,
+				"x": 171,
+				"y": 302,
+				"width": 200,
+				"height": 100,
+				"size": 2
+			}
+		},
+		{
+			"type": "ElementImage",
+			"properties": {
+				"path": "AS2.png",
+				"x": 264,
+				"y": 58,
+				"width": 100,
+				"height": 100,
+				"size": 2
+			}
+		}
+	],
+	"scrollMax": 0,
+	"isPriority": false,
+	"backgroundColor": -301989888,
+	"name": "AgrarianSkies2.Introduction.Introduction.Introduction.en_US",
+	"canEdit": true,
+	"saveDir": ""
+}
