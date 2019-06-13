@@ -1,0 +1,100 @@
+{
+    CompleterNpc: "Quetzi",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Dairy Desire",
+    Text: "Quetzi needs various cow products",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1429366209902L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6484s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 6318s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 388s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 4902s,
+                Count: 1b,
+                Damage: 29s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 231s,
+                Count: 4b,
+                tag: {
+                    Fluid: {
+                        FluidName: "milk",
+                        Amount: 256000
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 231s,
+                Count: 2b,
+                tag: {
+                    Fluid: {
+                        FluidName: "chocolatemilk",
+                        Amount: 256000
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 334s,
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "This will complete my Texan themedliving room. Thanks a lot.",
+    NextQuestTitle: ""
+}

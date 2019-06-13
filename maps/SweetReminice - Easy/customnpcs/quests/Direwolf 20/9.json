@@ -1,0 +1,229 @@
+{
+    CompleterNpc: "Direwolf20",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Kill Endermen",
+    Text: "Please kill some endermen, they frighten me.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 30,
+            Slot: "Enderman"
+        }
+    ],
+    ModRev: 16,
+    Type: 2,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1429538278739L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4902s,
+                Count: 1b,
+                Damage: 19s
+            },
+            {
+                Slot: 1b,
+                id: 4989s,
+                Count: 1b,
+                tag: {
+                    MaxH: 70,
+                    Health: 70,
+                    IsAnalyzed: 1b,
+                    Genome: {
+                        Chromosomes: [
+                            {
+                                UID1: "magicbees.speciesTEEndearing",
+                                UID0: "magicbees.speciesTEEndearing",
+                                Slot: 0b
+                            },
+                            {
+                                UID1: "forestry.speedFastest",
+                                UID0: "forestry.speedFastest",
+                                Slot: 1b
+                            },
+                            {
+                                UID1: "forestry.lifespanLongest",
+                                UID0: "forestry.lifespanLongest",
+                                Slot: 2b
+                            },
+                            {
+                                UID1: "forestry.fertilityHigh",
+                                UID0: "forestry.fertilityHigh",
+                                Slot: 3b
+                            },
+                            {
+                                UID1: "forestry.toleranceBoth2",
+                                UID0: "forestry.toleranceBoth2",
+                                Slot: 4b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 5b
+                            },
+                            {
+                                UID1: "forestry.toleranceBoth2",
+                                UID0: "forestry.toleranceBoth2",
+                                Slot: 7b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 8b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 9b
+                            },
+                            {
+                                UID1: "forestry.flowersVanilla",
+                                UID0: "forestry.flowersVanilla",
+                                Slot: 10b
+                            },
+                            {
+                                UID1: "forestry.floweringSlowest",
+                                UID0: "forestry.floweringSlowest",
+                                Slot: 11b
+                            },
+                            {
+                                UID1: "forestry.territoryDefault",
+                                UID0: "forestry.territoryDefault",
+                                Slot: 12b
+                            },
+                            {
+                                UID1: "forestry.effectNone",
+                                UID0: "forestry.effectNone",
+                                Slot: 13b
+                            }
+                        ]
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 4988s,
+                Count: 1b,
+                tag: {
+                    MaxH: 70,
+                    Health: 70,
+                    IsAnalyzed: 1b,
+                    Genome: {
+                        Chromosomes: [
+                            {
+                                UID1: "magicbees.speciesTEEndearing",
+                                UID0: "magicbees.speciesTEEndearing",
+                                Slot: 0b
+                            },
+                            {
+                                UID1: "forestry.speedFastest",
+                                UID0: "forestry.speedFastest",
+                                Slot: 1b
+                            },
+                            {
+                                UID1: "forestry.lifespanLongest",
+                                UID0: "forestry.lifespanLongest",
+                                Slot: 2b
+                            },
+                            {
+                                UID1: "forestry.fertilityHigh",
+                                UID0: "forestry.fertilityHigh",
+                                Slot: 3b
+                            },
+                            {
+                                UID1: "forestry.toleranceBoth2",
+                                UID0: "forestry.toleranceBoth2",
+                                Slot: 4b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 5b
+                            },
+                            {
+                                UID1: "forestry.toleranceBoth2",
+                                UID0: "forestry.toleranceBoth2",
+                                Slot: 7b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 8b
+                            },
+                            {
+                                UID1: "forestry.boolTrue",
+                                UID0: "forestry.boolTrue",
+                                Slot: 9b
+                            },
+                            {
+                                UID1: "forestry.flowersVanilla",
+                                UID0: "forestry.flowersVanilla",
+                                Slot: 10b
+                            },
+                            {
+                                UID1: "forestry.floweringSlowest",
+                                UID0: "forestry.floweringSlowest",
+                                Slot: 11b
+                            },
+                            {
+                                UID1: "forestry.territoryDefault",
+                                UID0: "forestry.territoryDefault",
+                                Slot: 12b
+                            },
+                            {
+                                UID1: "forestry.effectNone",
+                                UID0: "forestry.effectNone",
+                                Slot: 13b
+                            }
+                        ]
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 225s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 381s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 368s,
+                Count: 8b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Thank you, I feel safer.",
+    NextQuestTitle: ""
+}

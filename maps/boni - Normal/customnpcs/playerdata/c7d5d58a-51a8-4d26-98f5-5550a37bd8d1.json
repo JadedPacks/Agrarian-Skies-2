@@ -1,0 +1,72 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "jadedcat",
+    QuestData: {
+        CompletedQuests: [
+        ],
+        ActiveQuests: [
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 1
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 4
+            }
+        ]
+    },
+    UUID: "c7d5d58a-51a8-4d26-98f5-5550a37bd8d1",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 18
+        },
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 20
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 22
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 9
+        },
+        {
+            Dialog: 26
+        },
+        {
+            Dialog: 13
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    CompleterNpc: "Way of Flowing Time",
+    NextQuestId: 3,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Potion Components",
+    Text: "Way of Time is making potions,he has run out of the base supplies.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1429362276902L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 495s,
+                Count: 3b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 495s,
+                Count: 2b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 4397s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 4355s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 5240s,
+                Count: 3b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4393s,
+                Count: 32b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 4393s,
+                Count: 32b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 4337s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "These will help out a lot.",
+    NextQuestTitle: "Alchemical Reagents"
+}

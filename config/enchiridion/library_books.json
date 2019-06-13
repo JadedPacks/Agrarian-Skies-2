@@ -56,17 +56,6 @@
 			"overwrite": ""
 		},
 		{
-			"mod": "HardcoreQuesting",
-			"stack": "HardcoreQuesting:quest_book 0",
-			"type": "network",
-			"free": true,
-			"onCrafted": false,
-			"openGuiClass": "",
-			"openGuiNBT": "",
-			"pickUp": false,
-			"overwrite": ""
-		},
-		{
 			"mod": "Mariculture",
 			"stack": "Mariculture:guide 0",
 			"type": "switch",

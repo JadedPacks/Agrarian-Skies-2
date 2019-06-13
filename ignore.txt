@@ -1,5 +1,0 @@
-config/CodeChickenCore.cfg
-config/CustomNpcs.cfg
-config/multipart.cfg
-config/NEI/**
-config/BiomeTweaker/**

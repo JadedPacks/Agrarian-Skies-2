@@ -1,0 +1,108 @@
+{
+    CompleterNpc: "Way of Flowing Time",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Demonic Parts",
+    Text: "Way of Time needs some moremalicious components. Its possible he's up to something",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1429362385452L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4396s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 4348s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 5240s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 4393s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 4393s,
+                Count: 2b,
+                Damage: 2s
+            },
+            {
+                Slot: 5b,
+                id: 4355s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4386s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4355s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 5240s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 4325s,
+                Count: 1b,
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Well, this should help...",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,100 @@
+{
+    CompleterNpc: "Direwolf20",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Kill Enderman",
+    Text: "Please kill some endermen, they frighten me.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 10,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1427943735793L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 971s,
+                Count: 1b,
+                Damage: 5s
+            },
+            {
+                Slot: 1b,
+                id: 368s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 381s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 130s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 4530s,
+                Count: 1b,
+                Damage: 76s
+            },
+            {
+                Slot: 5b,
+                id: 388s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 388s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 897s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 8b,
+                id: 383s,
+                Count: 4b,
+                Damage: 95s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Thank you, I feel safer.",
+    NextQuestTitle: ""
+}

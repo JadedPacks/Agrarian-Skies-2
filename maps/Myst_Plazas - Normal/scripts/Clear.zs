@@ -1,0 +1,1 @@
+recipes.remove(<customnpcs:npcSilk>);
