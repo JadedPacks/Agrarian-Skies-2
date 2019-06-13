@@ -21,6 +21,7 @@
 	* BQM Quest Book
 	* MineTweaker
 	* ModTweaker
+	* Thaumic Inventory Scanning
 
 * Updates mods:
 	* ACE
