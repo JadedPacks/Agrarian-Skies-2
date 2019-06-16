@@ -4935,7 +4935,7 @@
 									"TotalDurability:3": 302
 								},
 								"display:10": {
-									"Name:8": "�fWriting Pick"
+									"Name:8": "§fWriting Pick"
 								}
 							}
 						},
@@ -4974,7 +4974,7 @@
 									"Modifiers:3": 1
 								},
 								"display:10": {
-									"Name:8": "�fCrossbow of Sorrow"
+									"Name:8": "§fCrossbow of Sorrow"
 								}
 							}
 						}
@@ -5989,10 +5989,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "HardcoreQuesting:item_barrel",
+						"id": "JABBA:upgradeStructural",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0
+						"Damage": 3
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -6028,10 +6028,10 @@
 				{
 					"rewards": [
 						{
-							"id": "HardcoreQuesting:item_barrel",
+							"id": "bq_standard:loot_chest",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0
+							"Damage": 25
 						}
 					],
 					"rewardID": "bq_standard:item",
@@ -6649,7 +6649,7 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "HardcoreQuesting:quest_book",
+						"id": "questbook:ItemQuestBook",
 						"Count": 1,
 						"OreDict": "",
 						"Damage": 0
@@ -6745,7 +6745,7 @@
 									"TotalDurability:3": 800
 								},
 								"display:10": {
-									"Name:8": "�fPick of Tears"
+									"Name:8": "§fPick of Tears"
 								}
 							}
 						},
@@ -6777,7 +6777,7 @@
 									"TotalDurability:3": 1000
 								},
 								"display:10": {
-									"Name:8": "�fPan of Misfortune"
+									"Name:8": "§fPan of Misfortune"
 								}
 							}
 						}
@@ -6847,12 +6847,6 @@
 							"Damage": 5
 						},
 						{
-							"id": "TConstruct:blankPattern",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0
-						},
-						{
 							"id": "TConstruct:ToolStationBlock",
 							"Count": 1,
 							"OreDict": "partbuilder",
@@ -6873,7 +6867,7 @@
 							"id": "TConstruct:hatchetHead",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 3
+							"Damage": 0
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -7022,7 +7016,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The first resource beyond wood that you will have to gather is string. There are not, however, any handy sheep or string plants around here. Instead, you will need to make crooks and use the crooks on tree leaves until you get a silk worm."
+					"desc": "The first resource beyond wood that you will have to gather is string. There are not, however, any handy sheep or string plants around here. Instead, you will need to make Crooks and use the Crooks on tree leaves until you get a Silk Worm. Once you have obtained a Silk Worm, use it on leaves to infest them. Waiting until they are fully infested and then breaking them with a Crook will provide you with String."
 				}
 			},
 			"tasks": [
@@ -7130,11 +7124,11 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Hammer Time !",
+					"name": "Hammer Time!",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Well! Congratulations! you have learned to make cobble. That gets you one step closer to having resources that are actually useful. First things first, you are going to need to build up some arm muscles with a Hammer."
+					"desc": "Well! Congratulations! You have learned to make Cobblestone. That gets you one step closer to having resources that are actually useful. First things first, you are going to need to build up some arm muscles with a Hammer. Breaking Cobblestone with a Hammer will produce Gravel, breaking Gravel produces Sand, and breaking Sand produces Dust."
 				}
 			},
 			"tasks": [
@@ -7241,7 +7235,7 @@
 							"Damage": 0
 						},
 						{
-							"id": "minecraft:clay",
+							"id": "IguanaTweaksTConstruct:clayBucketUnfired",
 							"Count": 1,
 							"OreDict": "",
 							"Damage": 0
@@ -7334,7 +7328,7 @@
 				}
 			],
 			"preRequisites": [
-				86
+				88
 			],
 			"questID": 89
 		},
@@ -7441,7 +7435,7 @@
 									"TotalDurability:3": 906
 								},
 								"display:10": {
-									"Name:8": "�fRaiding Hoe"
+									"Name:8": "§fRaiding Hoe"
 								}
 							}
 						},
@@ -8756,9 +8750,6 @@
 					"index": 0
 				}
 			],
-			"preRequisites": [
-				99
-			],
 			"questID": 109
 		},
 		{
@@ -9401,7 +9392,6 @@
 				102,
 				113,
 				119,
-				77,
 				120,
 				2,
 				121,
@@ -26565,12 +26555,6 @@
 				},
 				{
 					"size": 24,
-					"x": 238,
-					"y": 75,
-					"id": 77
-				},
-				{
-					"size": 24,
 					"x": 215,
 					"y": 75,
 					"id": 78
@@ -26744,12 +26728,6 @@
 					"x": 165,
 					"y": 36,
 					"id": 98
-				},
-				{
-					"size": 24,
-					"x": 209,
-					"y": 11,
-					"id": 99
 				},
 				{
 					"size": 24,
