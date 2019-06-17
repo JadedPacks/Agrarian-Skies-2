@@ -13,22 +13,22 @@ mods.tconstruct.Drying.addRecipe(<harvestcraft:strawberryItem>, <harvestcraft:ra
 recipes.removeShaped(<ExtraUtilities:spike_base>);
 recipes.removeShaped(<ExtraUtilities:spike_base_gold>);
 recipes.removeShaped(<ExtraUtilities:spike_base_diamond>);
-mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base>, <ExtraUtilities:spike_base_wood>, <liquid:iron.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base_gold>, <ExtraUtilities:spike_base>, <liquid:gold.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base_diamond>, <ExtraUtilities:spike_base_gold>, <liquid:ardite.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:creativebuilderswand>, <ExtraUtilities:builderswand>, <liquid:ardite.molten>, 80, true);
+mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base>, <liquid:iron.molten>, <ExtraUtilities:spike_base_wood>, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base_gold>, <liquid:gold.molten>, <ExtraUtilities:spike_base>, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base_diamond>, <liquid:ardite.molten>, <ExtraUtilities:spike_base_gold>, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:creativebuilderswand>, <liquid:ardite.molten>, <ExtraUtilities:builderswand>, true, 80);
 
 # AE2 presses
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:13>, null, <liquid:molten_lead>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:14>, null, <liquid:tin.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:15>, null, <liquid:copper.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:19>, null, <liquid:nickel.molten>, 80, true);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:13>, <liquid:lead.molten>, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:14>, <liquid:tin.molten>, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:15>, <liquid:copper.molten>, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:19>, <liquid:nickel.molten>, null, true, 80);
 
 # Harvestcraft tools require a smeltery
 recipes.remove(<harvestcraft:potItem>);
 recipes.remove(<harvestcraft:saucepanItem>);
-mods.tconstruct.Casting.addTableRecipe(<harvestcraft:potItem>, <IguanaTweaksTConstruct:clayBucketFired:0>, <liquid:aluminumbrass.molten>, 80, true);
-mods.tconstruct.Casting.addTableRecipe(<harvestcraft:saucepanItem>, <IguanaTweaksTConstruct:clayBucketUnfired:0>, <liquid:aluminumbrass.molten>, 80, true);
+mods.tconstruct.Casting.addTableRecipe(<harvestcraft:potItem>, <liquid:aluminumbrass.molten>, <IguanaTweaksTConstruct:clayBucketFired:0>, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<harvestcraft:saucepanItem>, <liquid:aluminumbrass.molten>, <IguanaTweaksTConstruct:clayBucketUnfired:0>, true, 80);
 
 # Gear cast from wooden gear
-mods.tconstruct.Casting.addTableRecipe(<TConstruct:gearCast:0>, <appliedenergistics2:item.ItemMultiMaterial:40>, <liquid:aluminumbrass.molten>, 80, true);
+mods.tconstruct.Casting.addTableRecipe(<TConstruct:gearCast:0>, <liquid:aluminumbrass.molten>, <appliedenergistics2:item.ItemMultiMaterial:40>, true, 80);

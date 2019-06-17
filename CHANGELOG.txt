@@ -26,6 +26,7 @@
 	* Fast Leaf Decay
 	* Carpenter's Blocks
 	* ReAuth
+	* ModTweaker
 
 * Updates mods:
 	* ACE
@@ -108,6 +109,9 @@
 	* Removed missing "bugged" quests
 	* Enabled forge loading bar
 	* Fixed recall stones, now rechargable
+	* Added recipes for slabs to full blocks
+	* Added recipe for clay block to clay balls
+	* Reduced hunger damage from 2 to 1
 
 TODO:
 	* TODO: Create the ultimate quest item (Currently: bedrock)
