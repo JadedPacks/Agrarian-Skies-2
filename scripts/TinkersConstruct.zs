@@ -1,7 +1,7 @@
 # Heart canister recipes
-recipes.addShaped("greenHeartCanister", <TConstruct:heartCanister:6>, [[<ore:gemEmerald>, <TConstruct:heartCanister:5>, null], [<TConstruct:heartCanister:4>, null, null], [null, null, null]]);
-recipes.addShaped("yellowHeartCanister", <TConstruct:heartCanister:4>, [[<ore:ingotGold>, <TConstruct:heartCanister:3>, null], [<TConstruct:heartCanister:2>, null, null], [null, null, null]]);
-recipes.addShaped("redHeartCanister", <TConstruct:heartCanister:2>, [[<ore:gemEmerald>, <TConstruct:heartCanister:1>, null], [<TConstruct:heartCanister:0>, null, null], [null, null, null]]);
+recipes.addShaped(<TConstruct:heartCanister:6>, [[<ore:gemEmerald>, <TConstruct:heartCanister:5>, null], [<TConstruct:heartCanister:4>, null, null], [null, null, null]]);
+recipes.addShaped(<TConstruct:heartCanister:4>, [[<ore:ingotGold>, <TConstruct:heartCanister:3>, null], [<TConstruct:heartCanister:2>, null, null], [null, null, null]]);
+recipes.addShaped(<TConstruct:heartCanister:2>, [[<ore:gemEmerald>, <TConstruct:heartCanister:1>, null], [<TConstruct:heartCanister:0>, null, null], [null, null, null]]);
 
 # Drying rack for harvestcraft raisins
 mods.tconstruct.Drying.addRecipe(<minecraft:apple>, <harvestcraft:raisinsItem>, 100);

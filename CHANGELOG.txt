@@ -22,6 +22,10 @@
 	* MineTweaker
 	* ModTweaker
 	* Thaumic Inventory Scanning
+	* Chisel
+	* Fast Leaf Decay
+	* Carpenter's Blocks
+	* ReAuth
 
 * Updates mods:
 	* ACE
