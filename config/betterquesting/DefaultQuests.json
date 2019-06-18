@@ -6662,7 +6662,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The first step in questing is to understand how to turn in quests."
+					"desc": "The first step in questing is to understand how to turn in quests. My sweet minions! To avoid overwhelming your little minds, I offer you two to begin: Retrieval (Consume: Yes/No) and Crafting - these are the most common tasks throughout your journey. Turning in quests are easy. The right page contains a task type , an image, and a selector. The task type may be one or more (see the selector arrow at the bottom right) of ten options. When multiple tasks are part of a quest, the arrows become active. Complete the first task and the \"Detect/Submit\" button below activates. For this set of tasks: Collect one Wood (any will work; \"Retrieval\"; Consume: No\"), make planks (\"Crafting\"), turn one plank in (\"Retrieval\"; Consume: Yes\"). Use the right arrow to see that each task is complete. In most cases, the tasks completed are automatically detected and acted upon. If not, press the \"Detect/Submit\" button to submit your offering.\n\nOnce all the tasks are complete, the \"Claim\" button on the left page becomes active. If it doesn't, the \"Claim\" page may contain up to FIVE reward options. When offered \"Choice\" rewards, select one of the offerings. Only then will the \"Claim\" button activate. If more than one reward is part of completing a task, the right arrow activates. Claim all your rewards and reap the... benefits... of your choices."
 				}
 			},
 			"tasks": [
