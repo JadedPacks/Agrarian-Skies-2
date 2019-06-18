@@ -11,6 +11,7 @@
 	* JadedTweaks
 	* Town Builder
 	* FinndusFillies
+	* BiomeTweaker
 
 * Added mods:
 	* Forge (It's a mod... loader?)
@@ -27,6 +28,7 @@
 	* Carpenter's Blocks
 	* ReAuth
 	* ModTweaker
+	* JadedOceanSpawn
 
 * Updates mods:
 	* ACE
