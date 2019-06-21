@@ -5,7 +5,7 @@
 			"home_anchor_y": 0.0,
 			"livesDef": 3,
 			"home_anchor_x": 0.5,
-			"hardcore": false,
+			"hardcore": true,
 			"home_image": "betterquesting:textures/gui/default_title.png",
 			"editMode": false,
 			"home_offset_x": -128,
@@ -8750,6 +8750,9 @@
 					"index": 0
 				}
 			],
+			"preRequisites": [
+				98
+			],
 			"questID": 109
 		},
 		{
@@ -9348,25 +9351,15 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Finally, you have learned as much as is needed to complete the ultimate test. The Jaded One has determined that only one object is capable of restoring the world. Unfortunately it requires many components both technological and mystical. To complete this journey you will need to turn in a supply of these mystical items for the Jaded One to pass out to the great mystics. With any luck these items will restore the world."
+					"desc": "Finally, you have learned as much as is needed to complete the ultimate test. The Jaded One has determined that to complete this journey you will need to turn in a supply of these mystical experiences for the Jaded One to pass out to the great mystics. With any luck, this shall restore the world."
 				}
 			},
 			"tasks": [
 				{
-					"partialMatch": true,
-					"ignoreNBT": false,
+					"isLevels": true,
 					"consume": true,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "minecraft:bedrock",
-							"Count": 100,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"taskID": "bq_standard:retrieval",
+					"amount": 1000,
+					"taskID": "bq_standard:xp",
 					"index": 0
 				}
 			],
@@ -9420,7 +9413,9 @@
 				66,
 				55,
 				8,
-				4
+				4,
+				73,
+				244
 			],
 			"questID": 118
 		},
@@ -11056,7 +11051,7 @@
 				}
 			],
 			"preRequisites": [
-				99
+				97
 			],
 			"questID": 140
 		},
@@ -15472,7 +15467,7 @@
 				}
 			],
 			"preRequisites": [
-				205
+				209
 			],
 			"questID": 208
 		},
@@ -27274,12 +27269,6 @@
 					"x": 57,
 					"y": 83,
 					"id": 204
-				},
-				{
-					"size": 24,
-					"x": 289,
-					"y": 21,
-					"id": 205
 				},
 				{
 					"size": 24,
