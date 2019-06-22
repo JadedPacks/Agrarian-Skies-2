@@ -3480,24 +3480,10 @@
 				{
 					"rewards": [
 						{
-							"id": "Forestry:beePrincessGE",
-							"Count": 1,
+							"id": "Forestry:beehives",
+							"Count": 5,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"MaxH:3": 20,
-								"Health:3": 20,
-								"IsAnalyzed:1": 0,
-								"Genome:10": {
-									"Chromosomes:9": {
-										"10": {
-											"UID1:8": "forestry.effectNone",
-											"UID0:8": "forestry.effectNone",
-											"Slot:1": 13
-										}
-									}
-								}
-							}
+							"Damage": 1
 						},
 						{
 							"id": "Botania:brewFlask",
@@ -3670,44 +3656,16 @@
 				{
 					"rewards": [
 						{
-							"id": "Forestry:beePrincessGE",
-							"Count": 1,
+							"id": "Forestry:beehives",
+							"Count": 5,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"MaxH:3": 20,
-								"Health:3": 20,
-								"IsAnalyzed:1": 0,
-								"Genome:10": {
-									"Chromosomes:9": {
-										"10": {
-											"UID1:8": "forestry.effectNone",
-											"UID0:8": "forestry.effectNone",
-											"Slot:1": 13
-										}
-									}
-								}
-							}
+							"Damage": 1
 						},
 						{
-							"id": "Forestry:beeDroneGE",
-							"Count": 1,
+							"id": "Forestry:beehives",
+							"Count": 5,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"MaxH:3": 20,
-								"Health:3": 20,
-								"IsAnalyzed:1": 0,
-								"Genome:10": {
-									"Chromosomes:9": {
-										"10": {
-											"UID1:8": "forestry.effectNone",
-											"UID0:8": "forestry.effectNone",
-											"Slot:1": 13
-										}
-									}
-								}
-							}
+							"Damage": 2
 						}
 					],
 					"rewardID": "bq_standard:item",
