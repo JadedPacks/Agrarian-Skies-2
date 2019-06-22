@@ -31,8 +31,6 @@ chicfila,minecraft:chicken,null,null,2,1,less pecking
 eggplant,minecraft:egg,null,null,2,1,less pecking
 #feather
 featherlight,minecraft:feather,null,null,3,1,less plucking
-#pork
-baconweed,minecraft:porkchop,null,null,3,1,BACON,do I really need to say more?
 #Ghast tear
 ghastlymoss,minecraft:ghast_tear,minecraft:soul_sand,AWWayofTime:AlchemicalWizardrybloodRune:0,3,1,Much quieter than hunting
 
@@ -63,9 +61,6 @@ emeraldweed,minecraft:emerald,null,minecraft:emerald_block,3,1,metal weed
 diamondweed,minecraft:diamond,null,minecraft:diamond_block,3,1,metal weed
 
 ##Alloy Seeds Tier 3
-#Manyulyn
-manyullynclematis,TConstruct:materials:30,minecraft:soul_sandTConstruct:MetalBlock:2,3,1,The nether is no fun
-manyullynbush,TConstruct:materials:5,minecraft:soul_sandTConstruct:MetalBlock:2,3,1,The nether is no fun
 #Invar
 invarweed,ThermalFoundation:material:104,null,ThermalFoundation:Storage:8,3,1,metal weed
 #Endearium
