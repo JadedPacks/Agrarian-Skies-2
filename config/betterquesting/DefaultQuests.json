@@ -18,7 +18,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -79,7 +79,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -161,7 +161,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -230,7 +230,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -317,7 +317,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -386,7 +386,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -461,7 +461,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -586,7 +586,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -649,7 +649,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -724,7 +724,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -823,7 +823,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -934,7 +934,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -997,7 +997,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1058,7 +1058,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1121,7 +1121,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1213,7 +1213,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1301,7 +1301,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1361,7 +1361,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1424,7 +1424,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1493,7 +1493,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1569,7 +1569,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1632,7 +1632,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1713,7 +1713,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1782,7 +1782,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1845,7 +1845,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1908,7 +1908,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -1971,7 +1971,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2034,7 +2034,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2115,7 +2115,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2181,7 +2181,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2252,7 +2252,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2315,7 +2315,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2378,7 +2378,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2465,7 +2465,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2546,7 +2546,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2609,7 +2609,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2675,7 +2675,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2750,7 +2750,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2813,7 +2813,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2882,7 +2882,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -2960,7 +2960,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3024,7 +3024,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3106,7 +3106,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3193,7 +3193,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3262,7 +3262,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3359,7 +3359,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3431,7 +3431,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3528,7 +3528,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3613,7 +3613,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3682,7 +3682,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3745,7 +3745,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3808,7 +3808,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3889,7 +3889,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -3976,7 +3976,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4045,7 +4045,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4136,7 +4136,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4208,7 +4208,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4354,7 +4354,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4423,7 +4423,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4581,7 +4581,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4644,7 +4644,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4785,7 +4785,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4854,7 +4854,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4923,7 +4923,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -4986,7 +4986,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5061,7 +5061,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5124,7 +5124,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5202,7 +5202,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5283,7 +5283,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5356,7 +5356,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5428,7 +5428,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5498,7 +5498,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5573,7 +5573,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5636,7 +5636,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5699,7 +5699,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5762,7 +5762,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5825,7 +5825,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5888,7 +5888,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -5951,7 +5951,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6014,7 +6014,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6107,7 +6107,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6170,7 +6170,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6233,7 +6233,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6382,7 +6382,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6504,7 +6504,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6587,7 +6587,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6699,7 +6699,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6844,7 +6844,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -6925,7 +6925,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7048,7 +7048,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7136,7 +7136,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7231,7 +7231,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7312,7 +7312,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7420,7 +7420,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7483,7 +7483,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7558,7 +7558,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7652,7 +7652,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7715,7 +7715,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7775,7 +7775,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7838,7 +7838,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7901,7 +7901,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -7964,7 +7964,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8027,7 +8027,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8090,7 +8090,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8159,7 +8159,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8222,7 +8222,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8285,7 +8285,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8348,7 +8348,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8411,7 +8411,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8474,7 +8474,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8537,7 +8537,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8617,7 +8617,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8686,7 +8686,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8778,7 +8778,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8859,7 +8859,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -8922,7 +8922,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9012,7 +9012,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9092,7 +9092,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9155,7 +9155,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9249,7 +9249,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9315,7 +9315,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9378,7 +9378,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9483,7 +9483,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9546,7 +9546,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9621,7 +9621,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9684,7 +9684,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9759,7 +9759,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9830,7 +9830,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9942,7 +9942,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10028,7 +10028,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10091,7 +10091,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10154,7 +10154,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10223,7 +10223,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10286,7 +10286,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10356,7 +10356,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10419,7 +10419,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10494,7 +10494,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10557,7 +10557,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10648,7 +10648,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10735,7 +10735,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10808,7 +10808,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10866,7 +10866,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10924,7 +10924,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -10979,7 +10979,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11034,7 +11034,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11089,7 +11089,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11144,7 +11144,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11199,7 +11199,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11254,7 +11254,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11318,7 +11318,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11373,7 +11373,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11428,7 +11428,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11491,7 +11491,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11555,7 +11555,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11610,7 +11610,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11665,7 +11665,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11720,7 +11720,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11783,7 +11783,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11850,7 +11850,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11919,7 +11919,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -11995,7 +11995,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12070,7 +12070,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12142,7 +12142,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12211,7 +12211,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12280,7 +12280,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12343,7 +12343,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12431,7 +12431,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12494,7 +12494,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12557,7 +12557,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12620,7 +12620,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12689,7 +12689,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12752,7 +12752,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12815,7 +12815,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12878,7 +12878,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -12965,7 +12965,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13034,7 +13034,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13097,7 +13097,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13160,7 +13160,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13223,7 +13223,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13286,7 +13286,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13355,7 +13355,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13418,7 +13418,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13495,7 +13495,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13566,7 +13566,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13629,7 +13629,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13708,7 +13708,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13778,7 +13778,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13870,7 +13870,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -13933,7 +13933,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14025,7 +14025,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14092,7 +14092,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14155,7 +14155,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14218,7 +14218,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14291,7 +14291,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14354,7 +14354,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14417,7 +14417,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14499,7 +14499,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14568,7 +14568,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14631,7 +14631,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14694,7 +14694,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14767,7 +14767,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14830,7 +14830,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14894,7 +14894,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -14963,7 +14963,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15038,7 +15038,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15107,7 +15107,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15188,7 +15188,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15263,7 +15263,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15338,7 +15338,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15399,7 +15399,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15474,7 +15474,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15538,7 +15538,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15601,7 +15601,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15668,7 +15668,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15734,7 +15734,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15797,7 +15797,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15869,7 +15869,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -15960,7 +15960,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16046,7 +16046,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16121,7 +16121,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16200,7 +16200,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16300,7 +16300,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16363,7 +16363,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16426,7 +16426,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16476,7 +16476,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16649,7 +16649,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16719,7 +16719,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16782,7 +16782,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16852,7 +16852,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -16915,7 +16915,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17026,7 +17026,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17095,7 +17095,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17158,7 +17158,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17227,7 +17227,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17326,7 +17326,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17386,7 +17386,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17449,7 +17449,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17529,7 +17529,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17592,7 +17592,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17655,7 +17655,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17718,7 +17718,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17781,7 +17781,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17844,7 +17844,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17910,7 +17910,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -17982,7 +17982,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18063,7 +18063,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18150,7 +18150,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18219,7 +18219,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18282,7 +18282,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18351,7 +18351,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18420,7 +18420,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18495,7 +18495,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18558,7 +18558,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18621,7 +18621,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18684,7 +18684,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18810,7 +18810,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18875,7 +18875,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -18938,7 +18938,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19002,7 +19002,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19065,7 +19065,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19128,7 +19128,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19191,7 +19191,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19261,7 +19261,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19324,7 +19324,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19387,7 +19387,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19450,7 +19450,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19513,7 +19513,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19576,7 +19576,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19645,7 +19645,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19708,7 +19708,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19811,7 +19811,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19906,7 +19906,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -19977,7 +19977,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20058,7 +20058,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20129,7 +20129,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20201,7 +20201,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20270,7 +20270,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20339,7 +20339,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20416,7 +20416,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20503,7 +20503,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20599,7 +20599,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20668,7 +20668,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20731,7 +20731,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20800,7 +20800,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20863,7 +20863,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -20926,7 +20926,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21006,7 +21006,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21069,7 +21069,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21132,7 +21132,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21213,7 +21213,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21292,7 +21292,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21355,7 +21355,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21418,7 +21418,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21487,7 +21487,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21553,7 +21553,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21628,7 +21628,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21721,7 +21721,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21831,7 +21831,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21894,7 +21894,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -21975,7 +21975,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22044,7 +22044,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22107,7 +22107,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22170,7 +22170,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22233,7 +22233,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22326,7 +22326,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22389,7 +22389,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22477,7 +22477,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22606,7 +22606,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22691,7 +22691,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22755,7 +22755,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22819,7 +22819,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22907,7 +22907,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -22971,7 +22971,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23041,7 +23041,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23119,7 +23119,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23188,7 +23188,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23265,7 +23265,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23334,7 +23334,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23397,7 +23397,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23466,7 +23466,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23536,7 +23536,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23611,7 +23611,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23677,7 +23677,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23746,7 +23746,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23815,7 +23815,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23878,7 +23878,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -23941,7 +23941,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24004,7 +24004,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24073,7 +24073,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24136,7 +24136,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24205,7 +24205,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24268,7 +24268,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24337,7 +24337,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24400,7 +24400,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24463,7 +24463,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24526,7 +24526,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24589,7 +24589,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24670,7 +24670,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24739,7 +24739,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24808,7 +24808,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24871,7 +24871,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24934,7 +24934,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -24997,7 +24997,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25060,7 +25060,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25123,7 +25123,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25186,7 +25186,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25249,7 +25249,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25312,7 +25312,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25375,7 +25375,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25438,7 +25438,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25501,7 +25501,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -25576,7 +25576,7 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
-					"partySingleReward": false,
+					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
