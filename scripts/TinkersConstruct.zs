@@ -32,6 +32,3 @@ mods.tconstruct.Casting.addTableRecipe(<harvestcraft:saucepanItem>, <liquid:alum
 
 # Gear cast from wooden gear
 mods.tconstruct.Casting.addTableRecipe(<TConstruct:gearCast:0>, <liquid:aluminumbrass.molten>, <appliedenergistics2:item.ItemMultiMaterial:40>, true, 80);
-
-# Create obsidian in the smeltery from lava and water
-mods.tconstruct.Smeltery.addAlloy(<liquid:obsidian.molten> * 100, [<liquid:water> * 100, <liquid:lava> * 100]);
