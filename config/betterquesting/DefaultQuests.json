@@ -10810,10 +10810,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "minecraft:skull",
+						"id": "minecraft:portal",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 3
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -10868,10 +10868,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "headcrumbs:head",
+						"id": "minecraft:end_portal_frame",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 2
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -10913,7 +10913,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				109
 			],
 			"questID": 144
 		},
@@ -11133,7 +11133,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				143
 			],
 			"questID": 148
 		},
@@ -11188,7 +11188,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				143
 			],
 			"questID": 149
 		},
@@ -11307,7 +11307,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				143
 			],
 			"questID": 151
 		},
@@ -11362,7 +11362,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				143
 			],
 			"questID": 152
 		},
@@ -11430,10 +11430,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "headcrumbs:head",
+						"id": "minecraft:slime_ball",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 47
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -11480,7 +11480,7 @@
 				}
 			],
 			"preRequisites": [
-				91
+				86
 			],
 			"questID": 154
 		},
@@ -26346,6 +26346,18 @@
 				},
 				{
 					"size": 24,
+					"x": 270,
+					"y": 10,
+					"id": 144
+				},
+				{
+					"size": 24,
+					"x": 200,
+					"y": 10,
+					"id": 143
+				},
+				{
+					"size": 24,
 					"x": 233,
 					"y": 54,
 					"id": 110
@@ -26435,18 +26447,6 @@
 					"x": 21,
 					"y": 12,
 					"id": 142
-				},
-				{
-					"size": 24,
-					"x": 50,
-					"y": 11,
-					"id": 143
-				},
-				{
-					"size": 24,
-					"x": 59,
-					"y": 79,
-					"id": 144
 				},
 				{
 					"size": 24,
