@@ -7262,7 +7262,7 @@
 						{
 							"id": "harvestcraft:flourItem",
 							"Count": 1,
-							"OreDict": "foodFlour",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
