@@ -495,14 +495,14 @@
 					"weight": 10,
 					"items": [
 						{
-							"id": "Forestry:fireproofLog3",
-							"Count": 64,
+							"id": "Thaumcraft:blockMagicalLog",
+							"Count": 8,
 							"OreDict": "",
-							"Damage": 1
+							"Damage": 0 
 						},
 						{
 							"id": "Thaumcraft:blockMagicalLog",
-							"Count": 16,
+							"Count": 8,
 							"OreDict": "",
 							"Damage": 1
 						}
