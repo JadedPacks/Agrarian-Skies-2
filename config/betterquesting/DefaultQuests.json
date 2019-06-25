@@ -8939,6 +8939,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
+					"visibility": "UNLOCKED",
 					"desc": "Finally, you have learned as much as is needed to complete the ultimate test. The Jaded One has determined that to complete this journey you will need to turn in a supply of these mystical experiences for the Jaded One to pass out to the great mystics. With any luck, this shall restore the world."
 				}
 			},
