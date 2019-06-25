@@ -2065,7 +2065,7 @@
 						{
 							"id": "ThermalExpansion:Machine",
 							"Count": 1,
-							"OreDict": "watergenTE",
+							"OreDict": "",
 							"Damage": 8
 						}
 					],
