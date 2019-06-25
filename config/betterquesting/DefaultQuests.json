@@ -522,7 +522,7 @@
 						{
 							"id": "thaumicenergistics:storage.essentia",
 							"Count": 1,
-							"OreDict": "essentiastorage",
+							"OreDict": "",
 							"Damage": 0
 						},
 						{
@@ -761,7 +761,7 @@
 						{
 							"id": "appliedenergistics2:item.ItemBasicStorageCell.1k",
 							"Count": 1,
-							"OreDict": "basestoragecell",
+							"OreDict": "",
 							"Damage": 0
 						},
 						{
@@ -860,7 +860,7 @@
 						{
 							"id": "thaumicenergistics:thaumicenergistics.block.arcane.assembler",
 							"Count": 1,
-							"OreDict": "jarcane",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -6062,7 +6062,7 @@
 						{
 							"id": "AWWayofTime:blankSlate",
 							"Count": 1,
-							"OreDict": "blank",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -9856,7 +9856,7 @@
 			"tasks": [
 				{
 					"partialMatch": true,
-					"ignoreNBT": false,
+					"ignoreNBT": true,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
@@ -9864,11 +9864,8 @@
 						{
 							"id": "Forestry:chipsets",
 							"Count": 1,
-							"OreDict": "basicchip",
-							"Damage": 0,
-							"tag": {
-								"T:2": 0
-							}
+							"OreDict": "",
+							"Damage": 0
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -12311,7 +12308,7 @@
 						{
 							"id": "AWWayofTime:imbuedSlate",
 							"Count": 1,
-							"OreDict": "imbued",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -12374,7 +12371,7 @@
 						{
 							"id": "AWWayofTime:reinforcedSlate",
 							"Count": 8,
-							"OreDict": "reinforced",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -12846,7 +12843,7 @@
 						{
 							"id": "AWWayofTime:itemBloodLightSigil",
 							"Count": 1,
-							"OreDict": "bloodLamp",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -13065,7 +13062,7 @@
 						{
 							"id": "AWWayofTime:waterSigil",
 							"Count": 1,
-							"OreDict": "waterSigil",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -13128,7 +13125,7 @@
 						{
 							"id": "AWWayofTime:divinationSigil",
 							"Count": 1,
-							"OreDict": "divination",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -13317,13 +13314,13 @@
 						{
 							"id": "AWWayofTime:growthSigil",
 							"Count": 1,
-							"OreDict": "growth",
+							"OreDict": "",
 							"Damage": 0
 						},
 						{
 							"id": "AWWayofTime:sigilOfMagnetism",
 							"Count": 1,
-							"OreDict": "magnetsigil",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -13964,7 +13961,7 @@
 						{
 							"id": "ThermalExpansion:Dynamo",
 							"Count": 1,
-							"OreDict": "dynamo",
+							"OreDict": "",
 							"Damage": 0
 						}
 					],
@@ -24965,7 +24962,7 @@
 						{
 							"id": "minecraft:gold_ingot",
 							"Count": 1,
-							"OreDict": "cropGoldenrod",
+							"OreDict": "ingotGold",
 							"Damage": 0
 						}
 					],
