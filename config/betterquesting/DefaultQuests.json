@@ -237,10 +237,7 @@
 						"id": "appliedenergistics2:item.ItemCrystalSeed",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
-						"tag": {
-							"progress:3": 0
-						}
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -256,7 +253,7 @@
 			"tasks": [
 				{
 					"partialMatch": true,
-					"ignoreNBT": false,
+					"ignoreNBT": true,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
@@ -265,28 +262,19 @@
 							"id": "appliedenergistics2:item.ItemCrystalSeed",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"progress:3": 0
-							}
+							"Damage": 0
 						},
 						{
 							"id": "appliedenergistics2:item.ItemCrystalSeed",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 600,
-							"tag": {
-								"progress:3": 600
-							}
+							"Damage": 600
 						},
 						{
 							"id": "appliedenergistics2:item.ItemCrystalSeed",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 1200,
-							"tag": {
-								"progress:3": 1200
-							}
+							"Damage": 1200
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -9839,9 +9827,6 @@
 						"Count": 1,
 						"OreDict": "",
 						"Damage": 0,
-						"tag": {
-							"T:2": 0
-						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -9920,10 +9905,7 @@
 							"id": "Forestry:chipsets",
 							"Count": 4,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"T:2": 0
-							}
+							"Damage": 0
 						}
 					],
 					"rewardID": "bq_standard:item",
@@ -15874,11 +15856,7 @@
 						"id": "AgriCraft:waterTank",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
-						"tag": {
-							"matMeta:3": 2,
-							"material:8": "minecraft:planks"
-						}
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -15894,7 +15872,7 @@
 			"tasks": [
 				{
 					"partialMatch": true,
-					"ignoreNBT": false,
+					"ignoreNBT": true,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
@@ -15903,31 +15881,19 @@
 							"id": "AgriCraft:channelValve",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"matMeta:3": 0,
-								"material:8": "minecraft:planks"
-							}
+							"Damage": 0
 						},
 						{
 							"id": "AgriCraft:waterTank",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"matMeta:3": 2,
-								"material:8": "minecraft:planks"
-							}
+							"Damage": 0
 						},
 						{
 							"id": "AgriCraft:waterChannel",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"matMeta:3": 0,
-								"material:8": "minecraft:planks"
-							}
+							"Damage": 0
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -16051,13 +16017,7 @@
 						"id": "minecraft:wheat_seeds",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
-						"tag": {
-							"strength:2": 10,
-							"analyzed:1": 1,
-							"growth:2": 10,
-							"gain:2": 10
-						}
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -16920,10 +16880,7 @@
 						"id": "Forestry:ffarm",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
-						"tag": {
-							"FarmBlock:3": 0
-						}
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -16939,7 +16896,7 @@
 			"tasks": [
 				{
 					"partialMatch": true,
-					"ignoreNBT": false,
+					"ignoreNBT": true,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
@@ -16948,46 +16905,31 @@
 							"id": "Forestry:ffarm",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 2,
-							"tag": {
-								"FarmBlock:3": 0
-							}
+							"Damage": 2
 						},
 						{
 							"id": "Forestry:ffarm",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"FarmBlock:3": 0
-							}
+							"Damage": 0
 						},
 						{
 							"id": "Forestry:ffarm",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 3,
-							"tag": {
-								"FarmBlock:3": 0
-							}
+							"Damage": 3
 						},
 						{
 							"id": "Forestry:ffarm",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 4,
-							"tag": {
-								"FarmBlock:3": 0
-							}
+							"Damage": 4
 						},
 						{
 							"id": "Forestry:ffarm",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 5,
-							"tag": {
-								"FarmBlock:3": 0
-							}
+							"Damage": 5
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -17915,10 +17857,7 @@
 						"id": "ThermalExpansion:satchel",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 1,
-						"tag": {
-							"Accessible:1": 1
-						}
+						"Damage": 1
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -18689,15 +18628,7 @@
 						"id": "Thaumcraft:WandCasting",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
-						"tag": {
-							"aqua:3": 2500,
-							"terra:3": 2500,
-							"ignis:3": 2500,
-							"ordo:3": 2500,
-							"perditio:3": 2500,
-							"aer:3": 2500
-						}
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
