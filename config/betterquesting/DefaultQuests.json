@@ -1063,7 +1063,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Now that you have your Sieve automated, wouldn\u0027t you like to stop hitting blocks with Hammers? With the newly patented Automatic Hammerer you can do just that. For the low rate of six RF/t, never swing a hammer again. Unless you want to. Weirdo."
+					"desc": "Now that you have your Sieve automated, wouldn't you like to stop hitting blocks with Hammers? With the newly patented Automatic Hammerer you can do just that. For the low rate of six RF/t, never swing a hammer again. Unless you want to. Weirdo."
 				}
 			},
 			"tasks": [
@@ -1574,7 +1574,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A Machinist\u0027s Workbench is an excellent start to auto-crafting. Use a Schematic to set the recipe, and store up to three recipes in one table for repeated crafting. While not as powerful as it\u0027s older brother the Cyclic Assembler, the workbench is a useful part of the early factory floor."
+					"desc": "A Machinist's Workbench is an excellent start to auto-crafting. Use a Schematic to set the recipe, and store up to three recipes in one table for repeated crafting. While not as powerful as it's older brother the Cyclic Assembler, the workbench is a useful part of the early factory floor."
 				}
 			},
 			"tasks": [
@@ -1637,7 +1637,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ever get tired of setting every machine setting one by one? With a Redprint you can copy the settings from one Thermal Expansion machine to another.	Augments can be put into machines and dynamos to increase their efficiency, speed, and production. However, you can only have so many per machine, and you\u0027ll need to make sure the tiers match."
+					"desc": "Ever get tired of setting every machine setting one by one? With a Redprint you can copy the settings from one Thermal Expansion machine to another. Augments can be put into machines and dynamos to increase their efficiency, speed, and production. However, you can only have so many per machine, and you'll need to make sure the tiers match."
 				}
 			},
 			"tasks": [
@@ -1718,7 +1718,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Cyclic Assembler is the stronger older brother of the Machinist\u0027s Workbench. Set the crafting recipe with a Schematic, insert crafting components with your choice of transport, and sit back and watch the assembler create whatever you need."
+					"desc": "The Cyclic Assembler is the stronger older brother of the Machinist's Workbench. Set the crafting recipe with a Schematic, insert crafting components with your choice of transport, and sit back and watch the assembler create whatever you need."
 				}
 			},
 			"tasks": [
@@ -2470,7 +2470,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Jaded One thinks it\u0027s silly that people believe there is nothing to mine in a void. Appropriate amounts of power, combined with high tech tools, can generate something out of nothing. Set the Laser Drill in the center pointed at the void, the higher up the better. Place up to four Laser Drill Prechargers around the drill, and when correctly aligned through whacking them with a wrench, lasers will appear between the prechargers and the drill. Apply power to the prechargers and some form of item collection on top of the drill. You can increase your chances of getting various ores by inserting laser filters in the drill. Different colors increase your odds of getting different ores."
+					"desc": "The Jaded One thinks it's silly that people believe there is nothing to mine in a void. Appropriate amounts of power, combined with high tech tools, can generate something out of nothing. Set the Laser Drill in the center pointed at the void, the higher up the better. Place up to four Laser Drill Prechargers around the drill, and when correctly aligned through whacking them with a wrench, lasers will appear between the prechargers and the drill. Apply power to the prechargers and some form of item collection on top of the drill. You can increase your chances of getting various ores by inserting laser filters in the drill. Different colors increase your odds of getting different ores."
 				}
 			},
 			"tasks": [
@@ -2551,7 +2551,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "This whole world was destroyed by reckless creators, so now we must use everything, even industrial waste. Sludge is a by-product of harvesters. Sludge Boilers purify the sludge and turn it into various useful things. Don\u0027t stand too close though, the fumes are poisonous."
+					"desc": "This whole world was destroyed by reckless creators, so now we must use everything, even industrial waste. Sludge is a by-product of harvesters. Sludge Boilers purify the sludge and turn it into various useful things. Don't stand too close though, the fumes are poisonous."
 				}
 			},
 			"tasks": [
@@ -2755,7 +2755,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Sanitation is a dirty topic, but someone has to do something about it. Villagers, animals, even you, all produce sewage. Of course you can\u0027t see it without a Sewer to collect it. Collecting it means you can use it in industrial solutions. Sewer ranges cannot overlap or both sewers will fail, so pay attention when upgrading them."
+					"desc": "Sanitation is a dirty topic, but someone has to do something about it. Villagers, animals, even you, all produce sewage. Of course you can't see it without a Sewer to collect it. Collecting it means you can use it in industrial solutions. Sewer ranges cannot overlap or both sewers will fail, so pay attention when upgrading them."
 				}
 			},
 			"tasks": [
@@ -2965,7 +2965,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you are using a Slaughterhouse, you probably have a lot of ooey gooey liquid Meat. The Meat Packer will turn that liquid into delicious Raw Meat Ingots. There may be the occasional finger or tail in the meat, but it\u0027s been sterilized and the cat says it\u0027s tasty. And cats are trustworthy... right?"
+					"desc": "If you are using a Slaughterhouse, you probably have a lot of ooey gooey liquid Meat. The Meat Packer will turn that liquid into delicious Raw Meat Ingots. There may be the occasional finger or tail in the meat, but it's been sterilized and the cat says it's tasty. And cats are trustworthy... right?"
 				}
 			},
 			"tasks": [
@@ -3029,7 +3029,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "When the world exploded many of the mobs became very unhappy. As such, there are very few truly \"passive\" mobs. Squids and ocelots are about it.	However, unless you are vegan, you are probably going to need some parts from the formerly passive mobs. Luckily, the Jaded One has added ways to get mob spawn eggs. Just be careful where you put the mobs. If you are feeling very brave, the Jaded One has done some magic that will allow mobs to spawn. But to get \"passive\" mobs to spawn, you will need an area of grass, 6x6 should do it, around 25 blocks away from yourself. Mobs are shy and don\u0027t like spawning near players."
+					"desc": "When the world exploded many of the mobs became very unhappy. As such, there are very few truly \"passive\" mobs. Squids and ocelots are about it. However, unless you are vegan, you are probably going to need some parts from the formerly passive mobs. Luckily, the Jaded One has added ways to get mob spawn eggs. Just be careful where you put the mobs. If you are feeling very brave, the Jaded One has done some magic that will allow mobs to spawn. But to get \"passive\" mobs to spawn, you will need an area of grass, 6x6 should do it, around 25 blocks away from yourself. Mobs are shy and don't like spawning near players."
 				}
 			},
 			"tasks": [
@@ -3270,7 +3270,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ever needed more drones? Don\u0027t feel like making more hives? Feed a Hiveacynth some mana and collect the results. You may even get a princess."
+					"desc": "Ever needed more drones? Don't feel like making more hives? Feed a Hiveacynth some mana and collect the results. You may even get a princess."
 				}
 			},
 			"tasks": [
@@ -4141,7 +4141,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Treebreeding can be rewarding work. Plant two different tree species near some apiaries. Wait while the bees do some work. Eventually, , while wearing Spectacles, you will be able to see mutated leaves. When you see the leaves change, break them with a Grafter. Analyze the resulting saplings and, with any luck, you\u0027ll have a new species."
+					"desc": "Treebreeding can be rewarding work. Plant two different tree species near some apiaries. Wait while the bees do some work. Eventually, , while wearing Spectacles, you will be able to see mutated leaves. When you see the leaves change, break them with a Grafter. Analyze the resulting saplings and, with any luck, you'll have a new species."
 				}
 			},
 			"tasks": [
@@ -4586,7 +4586,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Once you have some flower petals, you\u0027ll want to make a Petal Apothecary. If, at any point, you need more information about quests from the Floral One, read the Lexica Botania."
+					"desc": "Once you have some flower petals, you'll want to make a Petal Apothecary. If, at any point, you need more information about quests from the Floral One, read the Lexica Botania."
 				}
 			},
 			"tasks": [
@@ -4991,7 +4991,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Powerful potions with multiple doses can be created using the Botanical Brewery. With reagents, vials, and some Mana you\u0027ll be brewing in no time."
+					"desc": "Powerful potions with multiple doses can be created using the Botanical Brewery. With reagents, vials, and some Mana you'll be brewing in no time."
 				}
 			},
 			"tasks": [
@@ -5132,7 +5132,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "An Orechid is a great boon on a void world. Using some Mana it can generate common ores in nearby stone. It won\u0027t generate anything priceless but it\u0027s better than sifting... maybe"
+					"desc": "An Orechid is a great boon on a void world. Using some Mana it can generate common ores in nearby stone. It won't generate anything priceless but it's better than sifting... maybe"
 				}
 			},
 			"tasks": [
@@ -5291,7 +5291,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Do you have items popping out all over the place? Need a way to corral your item drops? Plant some Hopperhocks. They will suck items in and place them in nearby inventories. If you mark the inventory with an item frame, the Hopperhock will sort the items too. It\u0027s a very smart mysterious flower."
+					"desc": "Do you have items popping out all over the place? Need a way to corral your item drops? Plant some Hopperhocks. They will suck items in and place them in nearby inventories. If you mark the inventory with an item frame, the Hopperhock will sort the items too. It's a very smart mysterious flower."
 				}
 			},
 			"tasks": [
@@ -5763,7 +5763,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "McAurey\u0027s",
+					"name": "McAurey's",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -7137,7 +7137,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Now we\u0027re cooking",
+					"name": "Now we're cooking",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -7236,7 +7236,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wheat can be turned into Bread. However, unprocessed Wheat is very inefficient as an ingredient. You will get more out of your farm if you grind the Wheat with a Mortar and Pestle. Bread can be baked into Toast with the application of a little heat. This magically adds a bit more nutrition. We\u0027re not really sure how, but it does."
+					"desc": "Wheat can be turned into Bread. However, unprocessed Wheat is very inefficient as an ingredient. You will get more out of your farm if you grind the Wheat with a Mortar and Pestle. Bread can be baked into Toast with the application of a little heat. This magically adds a bit more nutrition. We're not really sure how, but it does."
 				}
 			},
 			"tasks": [
@@ -7488,7 +7488,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Are you tired of mining cobble yet? Do your fingers ache from clicking over and over? Why not try a Miner? I know, I know, there\u0027s nothing to mine. But if you upgrade the miner with a CobbleGen upgrade and feed it coal or charcoal, it will produce lots of cobble for you."
+					"desc": "Are you tired of mining cobble yet? Do your fingers ache from clicking over and over? Why not try a Miner? I know, I know, there's nothing to mine. But if you upgrade the miner with a CobbleGen upgrade and feed it coal or charcoal, it will produce lots of cobble for you."
 				}
 			},
 			"tasks": [
@@ -7657,7 +7657,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "It will take a long time at this rate to get cobblestone if all you do is sift dirt. A basic cobble gen using Lava and Water would be very handy. But to move the Lava, you will need a container, and you probably don\u0027t want to waste iron on a Bucket right now. Clay Buckets can move Lava once. After placing the Lava, the Bucket will break. You can use the Clay Buckets to move Water as much as you want."
+					"desc": "It will take a long time at this rate to get cobblestone if all you do is sift dirt. A basic cobble gen using Lava and Water would be very handy. But to move the Lava, you will need a container, and you probably don't want to waste iron on a Bucket right now. Clay Buckets can move Lava once. After placing the Lava, the Bucket will break. You can use the Clay Buckets to move Water as much as you want."
 				}
 			},
 			"tasks": [
@@ -8290,7 +8290,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "You may have noticed there are no strongholds. Or if you didn\u0027t notice, you might have guessed. And if you didn\u0027t guess, I am telling you, there are no strongholds. So how does a fine young adventurer such as yourself get to the end? End Cake. Tasty teleportation. You can refill your cake by right clicking on it with Ender eyes."
+					"desc": "You may have noticed there are no strongholds. Or if you didn't notice, you might have guessed. And if you didn't guess, I am telling you, there are no strongholds. So how does a fine young adventurer such as yourself get to the end? End Cake. Tasty teleportation. You can refill your cake by right clicking on it with Ender eyes."
 				}
 			},
 			"tasks": [
@@ -9098,7 +9098,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Barrels can also have other upgrades applied. You can add Void upgrades that will delete all items that enter the barrel once it\u0027s full, Redstone upgrades that output a redstone signal when a barrel is full, and Hopper upgrades."
+					"desc": "Barrels can also have other upgrades applied. You can add Void upgrades that will delete all items that enter the barrel once it's full, Redstone upgrades that output a redstone signal when a barrel is full, and Hopper upgrades."
 				}
 			},
 			"tasks": [
@@ -9161,7 +9161,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 128 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you\u0027re making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. one RF \u003d one mb moved."
+					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 128 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you're making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. One RF = one mb moved."
 				}
 			},
 			"tasks": [
@@ -9384,7 +9384,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A reactor is a multiblock structure consisting of fuel rods, frames, and control blocks. A reactor\u0027s max size is 16x16. It will require fuel and coolant to produce power."
+					"desc": "A reactor is a multiblock structure consisting of fuel rods, frames, and control blocks. A reactor's max size is 16x16. It will require fuel and coolant to produce power."
 				}
 			},
 			"tasks": [
@@ -9826,7 +9826,7 @@
 						"id": "Forestry:chipsets",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0,
+						"Damage": 0
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -9939,7 +9939,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Milk comes from cows. Or from soybeans. But the easiest method is cows. Well.. sort of. Cows aren\u0027t exactly friendly. We suggest putting the cows behind a sturdy fence and being very careful when milking them."
+					"desc": "Milk comes from cows. Or from soybeans. But the easiest method is cows. Well.. sort of. Cows aren't exactly friendly. We suggest putting the cows behind a sturdy fence and being very careful when milking them."
 				}
 			},
 			"tasks": [
@@ -10220,7 +10220,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Blood Staff is the weakest staff in power storage, but also the fastest. There are drawbacks to the speed, if you aren\u0027t careful it can and will take all of your LP including the last breath in your body."
+					"desc": "The Blood Staff is the weakest staff in power storage, but also the fastest. There are drawbacks to the speed, if you aren't careful it can and will take all of your LP including the last breath in your body."
 				}
 			},
 			"tasks": [
@@ -10859,11 +10859,11 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Dire\u0027s Nemesis",
+					"name": "Dire's Nemesis",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Direwolf hates Endermen. Pesky creatures are always popping in and taking his stuff. Not that he\u0027s scared of them, just that they are pesky."
+					"desc": "Direwolf hates Endermen. Pesky creatures are always popping in and taking his stuff. Not that he's scared of them, just that they are pesky."
 				}
 			},
 			"tasks": [
@@ -12067,7 +12067,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Many things can be made through the use of chemistry. In most cases they are just as good as more \"natural\" options. To get started you\u0027ll need an Alchemic Chemistry Set. With this set you can create leather, potions, and many other things."
+					"desc": "Many things can be made through the use of chemistry. In most cases they are just as good as more \"natural\" options. To get started you'll need an Alchemic Chemistry Set. With this set you can create leather, potions, and many other things."
 				}
 			},
 			"tasks": [
@@ -12554,7 +12554,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Most of the mystical devices require Life Essence to power, but it isn\u0027t possible to supply all that Life Essence at once. Life Essence donations can be saved for later through the use of a Blood Orb. Different tiers of Blood Orb can hold different amounts of stored Life Essence. Some recipes require a specific tier or higher."
+					"desc": "Most of the mystical devices require Life Essence to power, but it isn't possible to supply all that Life Essence at once. Life Essence donations can be saved for later through the use of a Blood Orb. Different tiers of Blood Orb can hold different amounts of stored Life Essence. Some recipes require a specific tier or higher."
 				}
 			},
 			"tasks": [
@@ -12686,7 +12686,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Altar Emitter can be configured to check for a set amount of LP in an Altar. Once the correct amount is detected, the Altar Emitter will send out a redstone signal to... well that\u0027s up to you."
+					"desc": "The Altar Emitter can be configured to check for a set amount of LP in an Altar. Once the correct amount is detected, the Altar Emitter will send out a redstone signal to... well that's up to you."
 				}
 			},
 			"tasks": [
@@ -12962,7 +12962,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Teleposition Sigil will allow you to sneak click on a Teleposer and set the sigil to that location; you can then go back to the location from a distance using LP. The Sigil of Transposition will allow you to move blocks, even if you can\u0027t break them. You can store them inside the sigil and then place them in the world somewhere else, preferably not in your way."
+					"desc": "The Teleposition Sigil will allow you to sneak click on a Teleposer and set the sigil to that location; you can then go back to the location from a distance using LP. The Sigil of Transposition will allow you to move blocks, even if you can't break them. You can store them inside the sigil and then place them in the world somewhere else, preferably not in your way."
 				}
 			},
 			"tasks": [
@@ -13352,7 +13352,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Blood Cleanser is a new way of crafting, by soaking things in Life Essence they become cleaner and turn into other things... don\u0027t ask me... The Jaded One says it\u0027s weird but cool."
+					"desc": "The Blood Cleanser is a new way of crafting, by soaking things in Life Essence they become cleaner and turn into other things... don't ask me... The Jaded One says it's weird but cool."
 				}
 			},
 			"tasks": [
@@ -13563,7 +13563,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The basic Wand won\u0027t hold much, and many recipes need more vis than a basic Wand can hold. A Greatwood Wand core can hold 50 vis of each type."
+					"desc": "The basic Wand won't hold much, and many recipes need more vis than a basic Wand can hold. A Greatwood Wand core can hold 50 vis of each type."
 				}
 			},
 			"tasks": [
@@ -13626,7 +13626,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If hunting down squids for ink doesn\u0027t suit you, and you don\u0027t mind a few paper cuts, consider using Life Essence for ink. It will pull its ink from your LP network any time it is in your inventory. If your network is empty it will refill from you."
+					"desc": "If hunting down squids for ink doesn't suit you, and you don't mind a few paper cuts, consider using Life Essence for ink. It will pull its ink from your LP network any time it is in your inventory. If your network is empty it will refill from you."
 				}
 			},
 			"tasks": [
@@ -13867,7 +13867,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you don\u0027t have much fuel, you can generate tiny amounts of power from the sun. This only works if the block can see the sky, and it\u0027s not cloudy/rainy/snowy/stormy or nighttime."
+					"desc": "If you don't have much fuel, you can generate tiny amounts of power from the sun. This only works if the block can see the sky, and it's not cloudy/rainy/snowy/stormy or nighttime."
 				}
 			},
 			"tasks": [
@@ -14152,7 +14152,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Generators can be combined with other generators to create more powerful generators. The first tier will multiply the power output by 8. It\u0027s like having eight generators in one block."
+					"desc": "Generators can be combined with other generators to create more powerful generators. The first tier will multiply the power output by 8. It's like having eight generators in one block."
 				}
 			},
 			"tasks": [
@@ -14215,7 +14215,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Potions Generator burns potions for fuel. The more steps a potion takes to create, the more energy you\u0027ll get from it."
+					"desc": "The Potions Generator burns potions for fuel. The more steps a potion takes to create, the more energy you'll get from it."
 				}
 			},
 			"tasks": [
@@ -15029,7 +15029,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wind power can be a viable source of renewable energy. While not incredibly powerful, it is easy to get. A turbine (Flux Windmill) will only produce energy if it is above y60, and it produces it\u0027s max energy at y100+. There are two parts, the turbine and the rotor. The turbine determines how much it can generate, while the rotor determines how efficient it is. Sneak and rightclick the turbine to find out how much power it is generating."
+					"desc": "Wind power can be a viable source of renewable energy. While not incredibly powerful, it is easy to get. A turbine (Flux Windmill) will only produce energy if it is above y60, and it produces it's max energy at y100+. There are two parts, the turbine and the rotor. The turbine determines how much it can generate, while the rotor determines how efficient it is. Sneak and rightclick the turbine to find out how much power it is generating."
 				}
 			},
 			"tasks": [
@@ -15529,7 +15529,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Many resources can be grown from crops. However, it\u0027s a bit trickier to crossbreed these. Under your crossbreeding space you will need to have a specific block. Use NEI to find out what block the resource crops need for mutation."
+					"desc": "Many resources can be grown from crops. However, it's a bit trickier to crossbreed these. Under your crossbreeding space you will need to have a specific block. Use NEI to find out what block the resource crops need for mutation."
 				}
 			},
 			"tasks": [
@@ -16618,7 +16618,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Amongst the many infusion types you can do with your new vat, you can change a cow\u0027s natural milk into chocolate milk."
+					"desc": "Amongst the many infusion types you can do with your new vat, you can change a cow's natural milk into chocolate milk."
 				}
 			},
 			"tasks": [
@@ -16884,7 +16884,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Forestry\u0027s multiblock farm structure is another method of growing the things you need. It requires a 3x3x4 structure in the center of a 21x21 space. It can be made even larger (up to 5x5x4 in a 35x35 space) but a 3x3x4 is the smallest. The central structure must include Farm Blocks, a Farm Gearbox for power input, a Farm Hatch for putting things in and pulling them out, a Farm Valve for piping in water. You can include a Farm Control block if you want to be able to turn it on or off with redstone signals."
+					"desc": "Forestry's multiblock farm structure is another method of growing the things you need. It requires a 3x3x4 structure in the center of a 21x21 space. It can be made even larger (up to 5x5x4 in a 35x35 space) but a 3x3x4 is the smallest. The central structure must include Farm Blocks, a Farm Gearbox for power input, a Farm Hatch for putting things in and pulling them out, a Farm Valve for piping in water. You can include a Farm Control block if you want to be able to turn it on or off with redstone signals."
 				}
 			},
 			"tasks": [
@@ -16977,7 +16977,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Market block is a big help for people who don\u0027t care to research every mutation on their own. Just buy the saplings and seeds you want."
+					"desc": "The Market block is a big help for people who don't care to research every mutation on their own. Just buy the saplings and seeds you want."
 				}
 			},
 			"tasks": [
@@ -17728,7 +17728,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Bilbo\u0027s Storage",
+					"name": "Bilbo's Storage",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -18443,7 +18443,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Tool Racks, that\u0027s what we need, a place to store all our tools."
+					"desc": "Tool Racks, that's what we need, a place to store all our tools."
 				}
 			},
 			"tasks": [
@@ -18506,7 +18506,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Now that we have our tools neatly stored, (I\u0027ll pretend I don\u0027t see that messy chest), let\u0027s make a spot to store our spare armor sets."
+					"desc": "Now that we have our tools neatly stored, (I'll pretend I don't see that messy chest), let's make a spot to store our spare armor sets."
 				}
 			},
 			"tasks": [
@@ -18632,7 +18632,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "To get started messing with Thaumaturgy, you will need a guide. Click a Bookshelf with a Wand to create a Thaumonomicon. This book will allow you to easily reference all thaumic discoveries you make. Since there are very few nodes in the void, the Jaded One is willing to give you a Node and a charged Wand in return for some Iron Wand Caps. Why she wants them? Don\u0027t ask... no really.. don\u0027t."
+					"desc": "To get started messing with Thaumaturgy, you will need a guide. Click a Bookshelf with a Wand to create a Thaumonomicon. This book will allow you to easily reference all thaumic discoveries you make. Since there are very few nodes in the void, the Jaded One is willing to give you a Node and a charged Wand in return for some Iron Wand Caps. Why she wants them? Don't ask... no really.. don't."
 				}
 			},
 			"tasks": [
@@ -19005,7 +19005,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Training your minions to cut animals into pieces may be a bit gory, but it shouldn\u0027t taint your soul... much."
+					"desc": "Training your minions to cut animals into pieces may be a bit gory, but it shouldn't taint your soul... much."
 				}
 			},
 			"tasks": [
@@ -19327,7 +19327,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "To get your minions to do better jobs, you will need to give them better cores. The Fishing Core will allow a Golem to fish, relieving you of that tedious task. Don\u0027t worry. Golems love fishing."
+					"desc": "To get your minions to do better jobs, you will need to give them better cores. The Fishing Core will allow a Golem to fish, relieving you of that tedious task. Don't worry. Golems love fishing."
 				}
 			},
 			"tasks": [
@@ -19998,7 +19998,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you want to specify which Essentia goes where, you\u0027ll need some Filtered Essentia Tubes."
+					"desc": "If you want to specify which Essentia goes where, you'll need some Filtered Essentia Tubes."
 				}
 			},
 			"tasks": [
@@ -21009,7 +21009,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wand Foci can be upgraded. The Jaded One wasn\u0027t sure if you knew that. You\u0027ll need a Focal Manipulator, some vis, some other components, and a Wand Focus."
+					"desc": "Wand Foci can be upgraded. The Jaded One wasn't sure if you knew that. You'll need a Focal Manipulator, some vis, some other components, and a Wand Focus."
 				}
 			},
 			"tasks": [
@@ -22047,7 +22047,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Greatwood Staff is not only an awesome item for those who feel the need to compensate for their shortcomings, it\u0027s also the start of making a magic staff. A Greatwood Staff can hold 125 of each aspect. Different caps will give it different additional abilities."
+					"desc": "The Greatwood Staff is not only an awesome item for those who feel the need to compensate for their shortcomings, it's also the start of making a magic staff. A Greatwood Staff can hold 125 of each aspect. Different caps will give it different additional abilities."
 				}
 			},
 			"tasks": [
@@ -23059,7 +23059,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A Scholar\u0027s Lens can be inserted into Goggles of Revealing. While using a Scholar\u0027s Lens, the goggles will scan all items you see for their aspects."
+					"desc": "A Scholar's Lens can be inserted into Goggles of Revealing. While using a Scholar's Lens, the goggles will scan all items you see for their aspects."
 				}
 			},
 			"tasks": [
@@ -23337,7 +23337,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "It would be a shame if you lost everything you had on you upon death. Luckily, with a Mirrored Amulet, you don\u0027t have to."
+					"desc": "It would be a shame if you lost everything you had on you upon death. Luckily, with a Mirrored Amulet, you don't have to."
 				}
 			},
 			"tasks": [
@@ -23818,7 +23818,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Once you have a vis network set up, you\u0027ll need to keep it charged. The Essentia Dynamo can charge it using those Warded Jars of useless Essentia lying around."
+					"desc": "Once you have a vis network set up, you'll need to keep it charged. The Essentia Dynamo can charge it using those Warded Jars of useless Essentia lying around."
 				}
 			},
 			"tasks": [
@@ -24013,7 +24013,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Don\u0027t feel like crafting things yourself? Need a steady supply of something craftable? The Golem\u0027s Workbench can train your Golems how to craft. Basic Golems can only craft 2x2 recipes. Advanced Golems can craft more complicated recipes."
+					"desc": "Don't feel like crafting things yourself? Need a steady supply of something craftable? The Golem's Workbench can train your Golems how to craft. Basic Golems can only craft 2x2 recipes. Advanced Golems can craft more complicated recipes."
 				}
 			},
 			"tasks": [
@@ -24336,11 +24336,11 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Scrivener\u0027s Oculus",
+					"name": "Scrivener's Oculus",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Upgrade to the Scrivener\u0027s Oculus to be able to track more than one kind of inventory."
+					"desc": "Upgrade to the Scrivener's Oculus to be able to track more than one kind of inventory."
 				}
 			},
 			"tasks": [
@@ -24403,7 +24403,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Siren\u0027s Lure will convince mobs they want to be near it, they will be so convinced that they won\u0027t notice the cliff ..."
+					"desc": "The Siren's Lure will convince mobs they want to be near it, they will be so convinced that they won't notice the cliff ..."
 				}
 			},
 			"tasks": [
@@ -24525,7 +24525,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "I\u0027m Smeeelting",
+					"name": "I'm Smeeelting",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -25063,7 +25063,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Diamond level is different. This level lets you mine things you need to make the next level, but you can\u0027t make tools out of diamond."
+					"desc": "Diamond level is different. This level lets you mine things you need to make the next level, but you can't make tools out of diamond."
 				}
 			},
 			"tasks": [
@@ -25809,7 +25809,7 @@
 					"name": "Bees and Trees",
 					"bg_image": "",
 					"bg_size": 256,
-					"desc": "Glorious mysterious amazing bees. The Jaded One\u0027s favorite method of ...well everything"
+					"desc": "Glorious mysterious amazing bees. The Jaded One's favorite method of ...well everything"
 				}
 			},
 			"quests": [
@@ -26473,7 +26473,7 @@
 					"name": "Mystical Blood",
 					"bg_image": "",
 					"bg_size": 256,
-					"desc": "Blood is life... and also creepy. By sacrificing some of your own Life Essence, or someone else\u0027s, you can create powerful rituals and tools. Just be careful, the dark side is tempting."
+					"desc": "Blood is life... and also creepy. By sacrificing some of your own Life Essence, or someone else's, you can create powerful rituals and tools. Just be careful, the dark side is tempting."
 				}
 			},
 			"quests": [
