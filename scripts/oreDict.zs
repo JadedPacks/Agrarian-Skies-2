@@ -15,6 +15,11 @@
 <ore:ebarrel>.add(<exnihilo:barrel:3>);
 <ore:ebarrel>.add(<exnihilo:barrel:4>);
 <ore:ebarrel>.add(<exnihilo:barrel:5>);
+<ore:ehammer>.add(<exnihilo:hammer_wood>);
+<ore:ehammer>.add(<exnihilo:hammer_stone>);
+<ore:ehammer>.add(<exnihilo:hammer_iron>);
+<ore:ehammer>.add(<exnihilo:hammer_gold>);
+<ore:ehammer>.add(<exnihilo:hammer_diamond>);
 <ore:sieve>.add(<exnihilo:sifting_table:0>);
 <ore:sieve>.add(<exnihilo:sifting_table:1>);
 <ore:sieve>.add(<exnihilo:sifting_table:2>);

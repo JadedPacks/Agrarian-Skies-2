@@ -6691,7 +6691,7 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "minecraft:cobblestone",
+						"id": "exnihilo:hammer_wood",
 						"Count": 1,
 						"OreDict": "",
 						"Damage": 0
@@ -6718,7 +6718,7 @@
 						{
 							"id": "exnihilo:hammer_wood",
 							"Count": 1,
-							"OreDict": "",
+							"OreDict": "ehammer",
 							"Damage": 0
 						}
 					],
