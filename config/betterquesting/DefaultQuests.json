@@ -71,7 +71,9 @@
 					"index": 0
 				}
 			],
-			"preRequisites": [],
+			"preRequisites": [
+				97
+			],
 			"questID": 0
 		},
 		{
@@ -3593,7 +3595,10 @@
 					"index": 0
 				}
 			],
-			"preRequisites": [],
+			"preRequisites": [
+				345,
+				100
+			],
 			"questID": 48
 		},
 		{
@@ -5568,7 +5573,7 @@
 						"id": "JABBA:upgradeStructural",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 3
+						"Damage": 9
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -5593,7 +5598,7 @@
 							"id": "JABBA:upgradeStructural",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 3
+							"Damage": 9
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -8992,7 +8997,8 @@
 				8,
 				4,
 				73,
-				244
+				244,
+				203
 			],
 			"questID": 118
 		},
@@ -9358,7 +9364,7 @@
 				}
 			],
 			"preRequisites": [
-				203
+				192
 			],
 			"questID": 123
 		},
@@ -11822,7 +11828,9 @@
 					"index": 0
 				}
 			],
-			"preRequisites": [],
+			"preRequisites": [
+				85
+			],
 			"questID": 160
 		},
 		{
@@ -13680,7 +13688,10 @@
 					"index": 1
 				}
 			],
-			"preRequisites": [],
+			"preRequisites": [
+				171,
+				11
+			],
 			"questID": 187
 		},
 		{
@@ -15365,7 +15376,9 @@
 					"index": 0
 				}
 			],
-			"preRequisites": [],
+			"preRequisites": [
+				92
+			],
 			"questID": 213
 		},
 		{
@@ -25493,69 +25506,6 @@
 				348
 			],
 			"questID": 355
-		},
-		{
-			"properties": {
-				"betterquesting": {
-					"snd_complete": "random.levelup",
-					"taskLogic": "AND",
-					"partySingleReward": true,
-					"isMain": false,
-					"simultaneous": false,
-					"icon": {
-						"id": "TConstruct:slime.sapling",
-						"Count": 1,
-						"OreDict": "",
-						"Damage": 0
-					},
-					"snd_update": "random.levelup",
-					"repeatTime": -1,
-					"globalShare": false,
-					"questLogic": "AND",
-					"name": "Growing Slimey",
-					"lockedProgress": false,
-					"autoClaim": false,
-					"isSilent": false,
-					"desc": "Slime saplings can be grown into trees that can be harvested and crafted into Slimeballs. You can also sift the slime blocks to get more saplings."
-				}
-			},
-			"tasks": [
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": false,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "minecraft:slime_ball",
-							"Count": 6,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				}
-			],
-			"rewards": [
-				{
-					"rewards": [
-						{
-							"id": "TConstruct:decoration.multibrick",
-							"Count": 16,
-							"OreDict": "",
-							"Damage": 11
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				}
-			],
-			"preRequisites": [
-				342
-			],
-			"questID": 356
 		}
 	],
 	"questLines": [
@@ -26097,6 +26047,12 @@
 			"quests": [
 				{
 					"size": 24,
+					"x": 33,
+					"y": 83,
+					"id": 154
+				},
+				{
+					"size": 24,
 					"x": 287,
 					"y": 12,
 					"id": 140
@@ -26426,12 +26382,6 @@
 					"x": 44,
 					"y": 107,
 					"id": 153
-				},
-				{
-					"size": 24,
-					"x": 33,
-					"y": 83,
-					"id": 154
 				},
 				{
 					"size": 24,
@@ -27806,12 +27756,6 @@
 					"x": 52,
 					"y": 116,
 					"id": 355
-				},
-				{
-					"size": 24,
-					"x": 69,
-					"y": 60,
-					"id": 356
 				},
 				{
 					"size": 24,
