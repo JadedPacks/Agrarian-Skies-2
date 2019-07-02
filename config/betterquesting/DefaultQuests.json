@@ -47,6 +47,23 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
+							"id": "appliedenergistics2:item.ItemMultiMaterial",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 45
+						}
+					],
+					"taskID": "bq_standard:retrieval",
+					"index": 0
+				},
+				{
+					"partialMatch": true,
+					"ignoreNBT": false,
+					"consume": false,
+					"groupDetect": false,
+					"autoConsume": false,
+					"requiredItems": [
+						{
 							"id": "appliedenergistics2:tile.BlockSkyStone",
 							"Count": 1,
 							"OreDict": "",
