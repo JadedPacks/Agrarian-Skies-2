@@ -1580,10 +1580,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "ThermalExpansion:Device",
+						"id": "ThermalExpansion:Workbench",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0
+						"Damage": 1
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -1599,16 +1599,16 @@
 			"tasks": [
 				{
 					"partialMatch": true,
-					"ignoreNBT": false,
+					"ignoreNBT": true,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "ThermalExpansion:Device",
+							"id": "ThermalExpansion:Workbench",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0
+							"Damage": 1
 						}
 					],
 					"taskID": "bq_standard:retrieval",
