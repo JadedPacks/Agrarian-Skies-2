@@ -7,7 +7,7 @@
 			"home_anchor_x": 0.5,
 			"hardcore": true,
 			"home_image": "betterquesting:textures/gui/default_title.png",
-			"editMode": false,
+			"editMode": true,
 			"home_offset_x": -128,
 			"home_offset_y": 0
 		}
@@ -51,23 +51,6 @@
 							"Count": 1,
 							"OreDict": "",
 							"Damage": 45
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				},
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": false,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "appliedenergistics2:tile.BlockSkyStone",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 1
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -387,6 +370,60 @@
 				3
 			],
 			"questID": 4
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 13
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Witching hour",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Witches"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Witch",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 5
 		},
 		{
 			"properties": {
@@ -909,75 +946,6 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "Thaumcraft:blockTable",
-						"Count": 1,
-						"OreDict": "",
-						"Damage": 15
-					},
-					"snd_update": "random.levelup",
-					"repeatTime": -1,
-					"globalShare": false,
-					"questLogic": "AND",
-					"name": "Arcane Crafting",
-					"lockedProgress": false,
-					"autoClaim": false,
-					"isSilent": false,
-					"desc": "Click a Crafting Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
-				}
-			},
-			"tasks": [
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": false,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "Thaumcraft:blockTable",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 15
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 1
-				}
-			],
-			"rewards": [
-				{
-					"rewards": [
-						{
-							"id": "Thaumcraft:WandRod",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 5
-						},
-						{
-							"id": "betterquesting:extra_life",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 1
-				}
-			],
-			"preRequisites": [
-				259
-			],
-			"questID": 358
-		},
-		{
-			"properties": {
-				"betterquesting": {
-					"snd_complete": "random.levelup",
-					"taskLogic": "AND",
-					"partySingleReward": true,
-					"isMain": false,
-					"simultaneous": false,
-					"icon": {
 						"id": "ae2stuff:Grower",
 						"Count": 1,
 						"OreDict": "",
@@ -1115,7 +1083,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Now that you have your Sieve automated, wouldn't you like to stop hitting blocks with Hammers? With the newly patented Automatic Hammerer you can do just that. For the low rate of six RF/t, never swing a hammer again. Unless you want to. Weirdo."
+					"desc": "Now that you have your Sieve automated, wouldn\u0027t you like to stop hitting blocks with Hammers? With the newly patented Automatic Hammerer you can do just that. For the low rate of six RF/t, never swing a hammer again. Unless you want to. Weirdo."
 				}
 			},
 			"tasks": [
@@ -1626,7 +1594,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A Machinist's Workbench is an excellent start to auto-crafting. Use a Schematic to set the recipe, and store up to three recipes in one table for repeated crafting. While not as powerful as it's older brother the Cyclic Assembler, the workbench is a useful part of the early factory floor."
+					"desc": "A Machinist\u0027s Workbench is an excellent start to auto-crafting. Use a Schematic to set the recipe, and store up to three recipes in one table for repeated crafting. While not as powerful as it\u0027s older brother the Cyclic Assembler, the workbench is a useful part of the early factory floor."
 				}
 			},
 			"tasks": [
@@ -1689,7 +1657,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ever get tired of setting every machine setting one by one? With a Redprint you can copy the settings from one Thermal Expansion machine to another. Augments can be put into machines and dynamos to increase their efficiency, speed, and production. However, you can only have so many per machine, and you'll need to make sure the tiers match."
+					"desc": "Ever get tired of setting every machine setting one by one? With a Redprint you can copy the settings from one Thermal Expansion machine to another. Augments can be put into machines and dynamos to increase their efficiency, speed, and production. However, you can only have so many per machine, and you\u0027ll need to make sure the tiers match."
 				}
 			},
 			"tasks": [
@@ -1770,7 +1738,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Cyclic Assembler is the stronger older brother of the Machinist's Workbench. Set the crafting recipe with a Schematic, insert crafting components with your choice of transport, and sit back and watch the assembler create whatever you need."
+					"desc": "The Cyclic Assembler is the stronger older brother of the Machinist\u0027s Workbench. Set the crafting recipe with a Schematic, insert crafting components with your choice of transport, and sit back and watch the assembler create whatever you need."
 				}
 			},
 			"tasks": [
@@ -2522,7 +2490,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Jaded One thinks it's silly that people believe there is nothing to mine in a void. Appropriate amounts of power, combined with high tech tools, can generate something out of nothing. Set the Laser Drill in the center pointed at the void, the higher up the better. Place up to four Laser Drill Prechargers around the drill, and when correctly aligned through whacking them with a wrench, lasers will appear between the prechargers and the drill. Apply power to the prechargers and some form of item collection on top of the drill. You can increase your chances of getting various ores by inserting laser filters in the drill. Different colors increase your odds of getting different ores."
+					"desc": "The Jaded One thinks it\u0027s silly that people believe there is nothing to mine in a void. Appropriate amounts of power, combined with high tech tools, can generate something out of nothing. Set the Laser Drill in the center pointed at the void, the higher up the better. Place up to four Laser Drill Prechargers around the drill, and when correctly aligned through whacking them with a wrench, lasers will appear between the prechargers and the drill. Apply power to the prechargers and some form of item collection on top of the drill. You can increase your chances of getting various ores by inserting laser filters in the drill. Different colors increase your odds of getting different ores."
 				}
 			},
 			"tasks": [
@@ -2603,7 +2571,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "This whole world was destroyed by reckless creators, so now we must use everything, even industrial waste. Sludge is a by-product of harvesters. Sludge Boilers purify the sludge and turn it into various useful things. Don't stand too close though, the fumes are poisonous."
+					"desc": "This whole world was destroyed by reckless creators, so now we must use everything, even industrial waste. Sludge is a by-product of harvesters. Sludge Boilers purify the sludge and turn it into various useful things. Don\u0027t stand too close though, the fumes are poisonous."
 				}
 			},
 			"tasks": [
@@ -2807,7 +2775,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Sanitation is a dirty topic, but someone has to do something about it. Villagers, animals, even you, all produce sewage. Of course you can't see it without a Sewer to collect it. Collecting it means you can use it in industrial solutions. Sewer ranges cannot overlap or both sewers will fail, so pay attention when upgrading them."
+					"desc": "Sanitation is a dirty topic, but someone has to do something about it. Villagers, animals, even you, all produce sewage. Of course you can\u0027t see it without a Sewer to collect it. Collecting it means you can use it in industrial solutions. Sewer ranges cannot overlap or both sewers will fail, so pay attention when upgrading them."
 				}
 			},
 			"tasks": [
@@ -3017,7 +2985,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you are using a Slaughterhouse, you probably have a lot of ooey gooey liquid Meat. The Meat Packer will turn that liquid into delicious Raw Meat Ingots. There may be the occasional finger or tail in the meat, but it's been sterilized and the cat says it's tasty. And cats are trustworthy... right?"
+					"desc": "If you are using a Slaughterhouse, you probably have a lot of ooey gooey liquid Meat. The Meat Packer will turn that liquid into delicious Raw Meat Ingots. There may be the occasional finger or tail in the meat, but it\u0027s been sterilized and the cat says it\u0027s tasty. And cats are trustworthy... right?"
 				}
 			},
 			"tasks": [
@@ -3081,7 +3049,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "When the world exploded many of the mobs became very unhappy. As such, there are very few truly \"passive\" mobs. Squids and ocelots are about it. However, unless you are vegan, you are probably going to need some parts from the formerly passive mobs. Luckily, the Jaded One has added ways to get mob spawn eggs. Just be careful where you put the mobs. If you are feeling very brave, the Jaded One has done some magic that will allow mobs to spawn. But to get \"passive\" mobs to spawn, you will need an area of grass, 6x6 should do it, around 25 blocks away from yourself. Mobs are shy and don't like spawning near players."
+					"desc": "When the world exploded many of the mobs became very unhappy. As such, there are very few truly \"passive\" mobs. Squids and ocelots are about it. However, unless you are vegan, you are probably going to need some parts from the formerly passive mobs. Luckily, the Jaded One has added ways to get mob spawn eggs. Just be careful where you put the mobs. If you are feeling very brave, the Jaded One has done some magic that will allow mobs to spawn. But to get \"passive\" mobs to spawn, you will need an area of grass, 6x6 should do it, around 25 blocks away from yourself. Mobs are shy and don\u0027t like spawning near players."
 				}
 			},
 			"tasks": [
@@ -3322,7 +3290,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ever needed more drones? Don't feel like making more hives? Feed a Hiveacynth some mana and collect the results. You may even get a princess."
+					"desc": "Ever needed more drones? Don\u0027t feel like making more hives? Feed a Hiveacynth some mana and collect the results. You may even get a princess."
 				}
 			},
 			"tasks": [
@@ -4196,7 +4164,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Treebreeding can be rewarding work. Plant two different tree species near some apiaries. Wait while the bees do some work. Eventually, , while wearing Spectacles, you will be able to see mutated leaves. When you see the leaves change, break them with a Grafter. Analyze the resulting saplings and, with any luck, you'll have a new species."
+					"desc": "Treebreeding can be rewarding work. Plant two different tree species near some apiaries. Wait while the bees do some work. Eventually, , while wearing Spectacles, you will be able to see mutated leaves. When you see the leaves change, break them with a Grafter. Analyze the resulting saplings and, with any luck, you\u0027ll have a new species."
 				}
 			},
 			"tasks": [
@@ -4641,7 +4609,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Once you have some flower petals, you'll want to make a Petal Apothecary. If, at any point, you need more information about quests from the Floral One, read the Lexica Botania."
+					"desc": "Once you have some flower petals, you\u0027ll want to make a Petal Apothecary. If, at any point, you need more information about quests from the Floral One, read the Lexica Botania."
 				}
 			},
 			"tasks": [
@@ -4795,82 +4763,6 @@
 				60
 			],
 			"questID": 61
-		},
-		{
-			"properties": {
-				"betterquesting": {
-					"snd_complete": "random.levelup",
-					"taskLogic": "AND",
-					"partySingleReward": true,
-					"isMain": false,
-					"simultaneous": false,
-					"icon": {
-						"id": "appliedenergistics2:item.ItemMultiMaterial",
-						"Count": 1,
-						"OreDict": "",
-						"Damage": 10
-					},
-					"snd_update": "random.levelup",
-					"repeatTime": -1,
-					"globalShare": false,
-					"questLogic": "AND",
-					"name": "Purity",
-					"lockedProgress": false,
-					"autoClaim": false,
-					"isSilent": false,
-					"desc": "Pure Certus Quartz"
-				}
-			},
-			"tasks": [
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": false,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"partialMatch": true,
-							"ignoreNBT": false,
-							"consume": true,
-							"groupDetect": false,
-							"autoConsume": false,
-							"requiredItems": [
-								{
-									"id": "appliedenergistics2:item.ItemMultiMaterial",
-									"Count": 1000,
-									"OreDict": "",
-									"Damage": 10
-								}
-							],
-							"taskID": "bq_standard:retrieval",
-							"index": 2
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				}
-			],
-			"rewards": [
-				{
-					"rewards": [
-						{
-							"id": "bq_standard:loot_chest",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 75
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				}
-			],
-			"preRequisites": [
-				8,
-				12,
-				73
-			],
-			"questID": 356
 		},
 		{
 			"properties": {
@@ -5095,7 +4987,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Powerful potions with multiple doses can be created using the Botanical Brewery. With reagents, vials, and some Mana you'll be brewing in no time."
+					"desc": "Powerful potions with multiple doses can be created using the Botanical Brewery. With reagents, vials, and some Mana you\u0027ll be brewing in no time."
 				}
 			},
 			"tasks": [
@@ -5236,7 +5128,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "An Orechid is a great boon on a void world. Using some Mana it can generate common ores in nearby stone. It won't generate anything priceless but it's better than sifting... maybe"
+					"desc": "An Orechid is a great boon on a void world. Using some Mana it can generate common ores in nearby stone. It won\u0027t generate anything priceless but it\u0027s better than sifting... maybe"
 				}
 			},
 			"tasks": [
@@ -5395,7 +5287,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Do you have items popping out all over the place? Need a way to corral your item drops? Plant some Hopperhocks. They will suck items in and place them in nearby inventories. If you mark the inventory with an item frame, the Hopperhock will sort the items too. It's a very smart mysterious flower."
+					"desc": "Do you have items popping out all over the place? Need a way to corral your item drops? Plant some Hopperhocks. They will suck items in and place them in nearby inventories. If you mark the inventory with an item frame, the Hopperhock will sort the items too. It\u0027s a very smart mysterious flower."
 				}
 			},
 			"tasks": [
@@ -5867,7 +5759,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "McAurey's",
+					"name": "McAurey\u0027s",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -5911,6 +5803,60 @@
 				73
 			],
 			"questID": 76
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "minecraft:skull",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 0
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Brittled Bones",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Skeletons"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Skeleton",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 77
 		},
 		{
 			"properties": {
@@ -6173,69 +6119,6 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "AWWayofTime:blankSlate",
-						"Count": 1,
-						"OreDict": "",
-						"Damage": 0
-					},
-					"snd_update": "random.levelup",
-					"repeatTime": -1,
-					"globalShare": false,
-					"questLogic": "AND",
-					"name": "Blank Slate",
-					"lockedProgress": false,
-					"autoClaim": false,
-					"isSilent": false,
-					"desc": "Blood dipped rock"
-				}
-			},
-			"tasks": [
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": true,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "AWWayofTime:blankSlate",
-							"Count": 100,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				}
-			],
-			"rewards": [
-				{
-					"rewards": [
-						{
-							"id": "bq_standard:loot_chest",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 75
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				}
-			],
-			"preRequisites": [
-				73
-			],
-			"questID": 357
-		},
-		{
-			"properties": {
-				"betterquesting": {
-					"snd_complete": "random.levelup",
-					"taskLogic": "AND",
-					"partySingleReward": true,
-					"isMain": false,
-					"simultaneous": false,
-					"icon": {
 						"id": "Automagy:shardSliver",
 						"Count": 1,
 						"OreDict": "",
@@ -6375,7 +6258,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The first step in questing is to understand how to turn in quests. My sweet minions! To avoid overwhelming your little minds, I offer you two to begin: Retrieval (Consume: Yes/No) and Crafting - these are the most common tasks throughout your journey. Turning in quests are easy. The right page contains a task type , an image, and a selector. The task type may be one or more (see the selector arrow at the bottom right) of ten options. When multiple tasks are part of a quest, the arrows become active. Complete the first task and the \"Detect/Submit\" button below activates. For this set of tasks: Collect one Wood (any will work; \"Retrieval\"; Consume: No\"), make planks (\"Crafting\"), turn one plank in (\"Retrieval\"; Consume: Yes\"). Use the right arrow to see that each task is complete. In most cases, the tasks completed are automatically detected and acted upon. If not, press the \"Detect/Submit\" button to submit your offering.\n\nOnce all the tasks are complete, the \"Claim\" button on the left page becomes active. If it doesn't, the \"Claim\" page may contain up to FIVE reward options. When offered \"Choice\" rewards, select one of the offerings. Only then will the \"Claim\" button activate. If more than one reward is part of completing a task, the right arrow activates. Claim all your rewards and reap the... benefits... of your choices."
+					"desc": "The first step in questing is to understand how to turn in quests. My sweet minions! To avoid overwhelming your little minds, I offer you two to begin: Retrieval (Consume: Yes/No) and Crafting - these are the most common tasks throughout your journey. Turning in quests are easy. The right page contains a task type , an image, and a selector. The task type may be one or more (see the selector arrow at the bottom right) of ten options. When multiple tasks are part of a quest, the arrows become active. Complete the first task and the \"Detect/Submit\" button below activates. For this set of tasks: Collect one Wood (any will work; \"Retrieval\"; Consume: No\"), make planks (\"Crafting\"), turn one plank in (\"Retrieval\"; Consume: Yes\"). Use the right arrow to see that each task is complete. In most cases, the tasks completed are automatically detected and acted upon. If not, press the \"Detect/Submit\" button to submit your offering.\n\nOnce all the tasks are complete, the \"Claim\" button on the left page becomes active. If it doesn\u0027t, the \"Claim\" page may contain up to FIVE reward options. When offered \"Choice\" rewards, select one of the offerings. Only then will the \"Claim\" button activate. If more than one reward is part of completing a task, the right arrow activates. Claim all your rewards and reap the... benefits... of your choices."
 				}
 			},
 			"tasks": [
@@ -7274,7 +7157,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Now we're cooking",
+					"name": "Now we\u0027re cooking",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -7373,7 +7256,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wheat can be turned into Bread. However, unprocessed Wheat is very inefficient as an ingredient. You will get more out of your farm if you grind the Wheat with a Mortar and Pestle. Bread can be baked into Toast with the application of a little heat. This magically adds a bit more nutrition. We're not really sure how, but it does."
+					"desc": "Wheat can be turned into Bread. However, unprocessed Wheat is very inefficient as an ingredient. You will get more out of your farm if you grind the Wheat with a Mortar and Pestle. Bread can be baked into Toast with the application of a little heat. This magically adds a bit more nutrition. We\u0027re not really sure how, but it does."
 				}
 			},
 			"tasks": [
@@ -7625,7 +7508,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Are you tired of mining cobble yet? Do your fingers ache from clicking over and over? Why not try a Miner? I know, I know, there's nothing to mine. But if you upgrade the miner with a CobbleGen upgrade and feed it coal or charcoal, it will produce lots of cobble for you."
+					"desc": "Are you tired of mining cobble yet? Do your fingers ache from clicking over and over? Why not try a Miner? I know, I know, there\u0027s nothing to mine. But if you upgrade the miner with a CobbleGen upgrade and feed it coal or charcoal, it will produce lots of cobble for you."
 				}
 			},
 			"tasks": [
@@ -7794,7 +7677,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "It will take a long time at this rate to get cobblestone if all you do is sift dirt. A basic cobble gen using Lava and Water would be very handy. But to move the Lava, you will need a container, and you probably don't want to waste iron on a Bucket right now. Clay Buckets can move Lava once. After placing the Lava, the Bucket will break. You can use the Clay Buckets to move Water as much as you want."
+					"desc": "It will take a long time at this rate to get cobblestone if all you do is sift dirt. A basic cobble gen using Lava and Water would be very handy. But to move the Lava, you will need a container, and you probably don\u0027t want to waste iron on a Bucket right now. Clay Buckets can move Lava once. After placing the Lava, the Bucket will break. You can use the Clay Buckets to move Water as much as you want."
 				}
 			},
 			"tasks": [
@@ -8427,7 +8310,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "You may have noticed there are no strongholds. Or if you didn't notice, you might have guessed. And if you didn't guess, I am telling you, there are no strongholds. So how does a fine young adventurer such as yourself get to the end? End Cake. Tasty teleportation. You can refill your cake by right clicking on it with Ender eyes."
+					"desc": "You may have noticed there are no strongholds. Or if you didn\u0027t notice, you might have guessed. And if you didn\u0027t guess, I am telling you, there are no strongholds. So how does a fine young adventurer such as yourself get to the end? End Cake. Tasty teleportation. You can refill your cake by right clicking on it with Ender eyes."
 				}
 			},
 			"tasks": [
@@ -9048,6 +8931,7 @@
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
 					"partySingleReward": true,
+					"visibility": "UNLOCKED",
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
@@ -9064,15 +8948,14 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"visibility": "UNLOCKED",
 					"desc": "Finally, you have learned as much as is needed to complete the ultimate test. The Jaded One has determined that to complete this journey you will need to turn in a supply of these mystical experiences for the Jaded One to pass out to the great mystics. With any luck, this shall restore the world."
 				}
 			},
 			"tasks": [
 				{
+					"amount": 1000,
 					"isLevels": true,
 					"consume": true,
-					"amount": 1000,
 					"taskID": "bq_standard:xp",
 					"index": 0
 				}
@@ -9236,7 +9119,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Barrels can also have other upgrades applied. You can add Void upgrades that will delete all items that enter the barrel once it's full, Redstone upgrades that output a redstone signal when a barrel is full, and Hopper upgrades."
+					"desc": "Barrels can also have other upgrades applied. You can add Void upgrades that will delete all items that enter the barrel once it\u0027s full, Redstone upgrades that output a redstone signal when a barrel is full, and Hopper upgrades."
 				}
 			},
 			"tasks": [
@@ -9299,7 +9182,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 128 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you're making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. One RF = one mb moved."
+					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 128 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you\u0027re making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. One RF \u003d one mb moved."
 				}
 			},
 			"tasks": [
@@ -9522,7 +9405,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A reactor is a multiblock structure consisting of fuel rods, frames, and control blocks. A reactor's max size is 16x16. It will require fuel and coolant to produce power."
+					"desc": "A reactor is a multiblock structure consisting of fuel rods, frames, and control blocks. A reactor\u0027s max size is 16x16. It will require fuel and coolant to produce power."
 				}
 			},
 			"tasks": [
@@ -10077,7 +9960,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Milk comes from cows. Or from soybeans. But the easiest method is cows. Well.. sort of. Cows aren't exactly friendly. We suggest putting the cows behind a sturdy fence and being very careful when milking them."
+					"desc": "Milk comes from cows. Or from soybeans. But the easiest method is cows. Well.. sort of. Cows aren\u0027t exactly friendly. We suggest putting the cows behind a sturdy fence and being very careful when milking them."
 				}
 			},
 			"tasks": [
@@ -10358,7 +10241,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Blood Staff is the weakest staff in power storage, but also the fastest. There are drawbacks to the speed, if you aren't careful it can and will take all of your LP including the last breath in your body."
+					"desc": "The Blood Staff is the weakest staff in power storage, but also the fastest. There are drawbacks to the speed, if you aren\u0027t careful it can and will take all of your LP including the last breath in your body."
 				}
 			},
 			"tasks": [
@@ -10943,7 +10826,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "It's time we visit the nether... Don't you think?"
+					"desc": "It\u0027s time we visit the nether... Don\u0027t you think?"
 				}
 			},
 			"tasks": [
@@ -10997,11 +10880,11 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Dire's Nemesis",
+					"name": "Dire\u0027s Nemesis",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Direwolf hates Endermen. Pesky creatures are always popping in and taking his stuff. Not that he's scared of them, just that they are pesky."
+					"desc": "Direwolf hates Endermen. Pesky creatures are always popping in and taking his stuff. Not that he\u0027s scared of them, just that they are pesky."
 				}
 			},
 			"tasks": [
@@ -12207,7 +12090,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Many things can be made through the use of chemistry. In most cases they are just as good as more \"natural\" options. To get started you'll need an Alchemic Chemistry Set. With this set you can create leather, potions, and many other things."
+					"desc": "Many things can be made through the use of chemistry. In most cases they are just as good as more \"natural\" options. To get started you\u0027ll need an Alchemic Chemistry Set. With this set you can create leather, potions, and many other things."
 				}
 			},
 			"tasks": [
@@ -12694,7 +12577,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Most of the mystical devices require Life Essence to power, but it isn't possible to supply all that Life Essence at once. Life Essence donations can be saved for later through the use of a Blood Orb. Different tiers of Blood Orb can hold different amounts of stored Life Essence. Some recipes require a specific tier or higher."
+					"desc": "Most of the mystical devices require Life Essence to power, but it isn\u0027t possible to supply all that Life Essence at once. Life Essence donations can be saved for later through the use of a Blood Orb. Different tiers of Blood Orb can hold different amounts of stored Life Essence. Some recipes require a specific tier or higher."
 				}
 			},
 			"tasks": [
@@ -12826,7 +12709,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Altar Emitter can be configured to check for a set amount of LP in an Altar. Once the correct amount is detected, the Altar Emitter will send out a redstone signal to... well that's up to you."
+					"desc": "The Altar Emitter can be configured to check for a set amount of LP in an Altar. Once the correct amount is detected, the Altar Emitter will send out a redstone signal to... well that\u0027s up to you."
 				}
 			},
 			"tasks": [
@@ -13102,7 +12985,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Teleposition Sigil will allow you to sneak click on a Teleposer and set the sigil to that location; you can then go back to the location from a distance using LP. The Sigil of Transposition will allow you to move blocks, even if you can't break them. You can store them inside the sigil and then place them in the world somewhere else, preferably not in your way."
+					"desc": "The Teleposition Sigil will allow you to sneak click on a Teleposer and set the sigil to that location; you can then go back to the location from a distance using LP. The Sigil of Transposition will allow you to move blocks, even if you can\u0027t break them. You can store them inside the sigil and then place them in the world somewhere else, preferably not in your way."
 				}
 			},
 			"tasks": [
@@ -13492,7 +13375,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Blood Cleanser is a new way of crafting, by soaking things in Life Essence they become cleaner and turn into other things... don't ask me... The Jaded One says it's weird but cool."
+					"desc": "The Blood Cleanser is a new way of crafting, by soaking things in Life Essence they become cleaner and turn into other things... don\u0027t ask me... The Jaded One says it\u0027s weird but cool."
 				}
 			},
 			"tasks": [
@@ -13703,7 +13586,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The basic Wand won't hold much, and many recipes need more vis than a basic Wand can hold. A Greatwood Wand core can hold 50 vis of each type."
+					"desc": "The basic Wand won\u0027t hold much, and many recipes need more vis than a basic Wand can hold. A Greatwood Wand core can hold 50 vis of each type."
 				}
 			},
 			"tasks": [
@@ -13766,7 +13649,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If hunting down squids for ink doesn't suit you, and you don't mind a few paper cuts, consider using Life Essence for ink. It will pull its ink from your LP network any time it is in your inventory. If your network is empty it will refill from you."
+					"desc": "If hunting down squids for ink doesn\u0027t suit you, and you don\u0027t mind a few paper cuts, consider using Life Essence for ink. It will pull its ink from your LP network any time it is in your inventory. If your network is empty it will refill from you."
 				}
 			},
 			"tasks": [
@@ -14010,7 +13893,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you don't have much fuel, you can generate tiny amounts of power from the sun. This only works if the block can see the sky, and it's not cloudy/rainy/snowy/stormy or nighttime."
+					"desc": "If you don\u0027t have much fuel, you can generate tiny amounts of power from the sun. This only works if the block can see the sky, and it\u0027s not cloudy/rainy/snowy/stormy or nighttime."
 				}
 			},
 			"tasks": [
@@ -14295,7 +14178,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Generators can be combined with other generators to create more powerful generators. The first tier will multiply the power output by 8. It's like having eight generators in one block."
+					"desc": "Generators can be combined with other generators to create more powerful generators. The first tier will multiply the power output by 8. It\u0027s like having eight generators in one block."
 				}
 			},
 			"tasks": [
@@ -14358,7 +14241,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Potions Generator burns potions for fuel. The more steps a potion takes to create, the more energy you'll get from it."
+					"desc": "The Potions Generator burns potions for fuel. The more steps a potion takes to create, the more energy you\u0027ll get from it."
 				}
 			},
 			"tasks": [
@@ -15011,6 +14894,115 @@
 				"betterquesting": {
 					"snd_complete": "random.levelup",
 					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 192
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Blitzing Blitz",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Blitz"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Blitz",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 205
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 2
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Bendy Endyman",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Endermen"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Enderman",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91,
+				144
+			],
+			"questID": 206
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
 					"partySingleReward": true,
 					"isMain": false,
 					"simultaneous": false,
@@ -15172,7 +15164,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wind power can be a viable source of renewable energy. While not incredibly powerful, it is easy to get. A turbine (Flux Windmill) will only produce energy if it is above y60, and it produces it's max energy at y100+. There are two parts, the turbine and the rotor. The turbine determines how much it can generate, while the rotor determines how efficient it is. Sneak and rightclick the turbine to find out how much power it is generating."
+					"desc": "Wind power can be a viable source of renewable energy. While not incredibly powerful, it is easy to get. A turbine (Flux Windmill) will only produce energy if it is above y60, and it produces it\u0027s max energy at y100+. There are two parts, the turbine and the rotor. The turbine determines how much it can generate, while the rotor determines how efficient it is. Sneak and rightclick the turbine to find out how much power it is generating."
 				}
 			},
 			"tasks": [
@@ -15674,7 +15666,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Many resources can be grown from crops. However, it's a bit trickier to crossbreed these. Under your crossbreeding space you will need to have a specific block. Use NEI to find out what block the resource crops need for mutation."
+					"desc": "Many resources can be grown from crops. However, it\u0027s a bit trickier to crossbreed these. Under your crossbreeding space you will need to have a specific block. Use NEI to find out what block the resource crops need for mutation."
 				}
 			},
 			"tasks": [
@@ -16769,7 +16761,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Amongst the many infusion types you can do with your new vat, you can change a cow's natural milk into chocolate milk."
+					"desc": "Amongst the many infusion types you can do with your new vat, you can change a cow\u0027s natural milk into chocolate milk."
 				}
 			},
 			"tasks": [
@@ -16839,7 +16831,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Thaumometer is used to scan items in the world and discover the aspects that form their structure. Some items' structure may be too advanced for you to learn at first, but once you have scanned enough objects, that will resolve itself."
+					"desc": "The Thaumometer is used to scan items in the world and discover the aspects that form their structure. Some items\u0027 structure may be too advanced for you to learn at first, but once you have scanned enough objects, that will resolve itself."
 				}
 			},
 			"tasks": [
@@ -17035,7 +17027,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Forestry's multiblock farm structure is another method of growing the things you need. It requires a 3x3x4 structure in the center of a 21x21 space. It can be made even larger (up to 5x5x4 in a 35x35 space) but a 3x3x4 is the smallest. The central structure must include Farm Blocks, a Farm Gearbox for power input, a Farm Hatch for putting things in and pulling them out, a Farm Valve for piping in water. You can include a Farm Control block if you want to be able to turn it on or off with redstone signals."
+					"desc": "Forestry\u0027s multiblock farm structure is another method of growing the things you need. It requires a 3x3x4 structure in the center of a 21x21 space. It can be made even larger (up to 5x5x4 in a 35x35 space) but a 3x3x4 is the smallest. The central structure must include Farm Blocks, a Farm Gearbox for power input, a Farm Hatch for putting things in and pulling them out, a Farm Valve for piping in water. You can include a Farm Control block if you want to be able to turn it on or off with redstone signals."
 				}
 			},
 			"tasks": [
@@ -17128,7 +17120,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Market block is a big help for people who don't care to research every mutation on their own. Just buy the saplings and seeds you want."
+					"desc": "The Market block is a big help for people who don\u0027t care to research every mutation on their own. Just buy the saplings and seeds you want."
 				}
 			},
 			"tasks": [
@@ -17879,7 +17871,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Bilbo's Storage",
+					"name": "Bilbo\u0027s Storage",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -18594,7 +18586,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Tool Racks, that's what we need, a place to store all our tools."
+					"desc": "Tool Racks, that\u0027s what we need, a place to store all our tools."
 				}
 			},
 			"tasks": [
@@ -18657,7 +18649,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Now that we have our tools neatly stored, (I'll pretend I don't see that messy chest), let's make a spot to store our spare armor sets."
+					"desc": "Now that we have our tools neatly stored, (I\u0027ll pretend I don\u0027t see that messy chest), let\u0027s make a spot to store our spare armor sets."
 				}
 			},
 			"tasks": [
@@ -18783,7 +18775,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "To get started messing with Thaumaturgy, you will need a guide. Click a Bookshelf with a Wand to create a Thaumonomicon. This book will allow you to easily reference all thaumic discoveries you make. Since there are very few nodes in the void, the Jaded One is willing to give you a Node and a charged Wand in return for some Iron Wand Caps. Why she wants them? Don't ask... no really.. don't."
+					"desc": "To get started messing with Thaumaturgy, you will need a guide. Click a Bookshelf with a Wand to create a Thaumonomicon. This book will allow you to easily reference all thaumic discoveries you make. Since there are very few nodes in the void, the Jaded One is willing to give you a Node and a charged Wand in return for some Iron Wand Caps. Why she wants them? Don\u0027t ask... no really.. don\u0027t."
 				}
 			},
 			"tasks": [
@@ -19156,7 +19148,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Training your minions to cut animals into pieces may be a bit gory, but it shouldn't taint your soul... much."
+					"desc": "Training your minions to cut animals into pieces may be a bit gory, but it shouldn\u0027t taint your soul... much."
 				}
 			},
 			"tasks": [
@@ -19478,7 +19470,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "To get your minions to do better jobs, you will need to give them better cores. The Fishing Core will allow a Golem to fish, relieving you of that tedious task. Don't worry. Golems love fishing."
+					"desc": "To get your minions to do better jobs, you will need to give them better cores. The Fishing Core will allow a Golem to fish, relieving you of that tedious task. Don\u0027t worry. Golems love fishing."
 				}
 			},
 			"tasks": [
@@ -20149,7 +20141,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "If you want to specify which Essentia goes where, you'll need some Filtered Essentia Tubes."
+					"desc": "If you want to specify which Essentia goes where, you\u0027ll need some Filtered Essentia Tubes."
 				}
 			},
 			"tasks": [
@@ -21160,7 +21152,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wand Foci can be upgraded. The Jaded One wasn't sure if you knew that. You'll need a Focal Manipulator, some vis, some other components, and a Wand Focus."
+					"desc": "Wand Foci can be upgraded. The Jaded One wasn\u0027t sure if you knew that. You\u0027ll need a Focal Manipulator, some vis, some other components, and a Wand Focus."
 				}
 			},
 			"tasks": [
@@ -22198,7 +22190,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Greatwood Staff is not only an awesome item for those who feel the need to compensate for their shortcomings, it's also the start of making a magic staff. A Greatwood Staff can hold 125 of each aspect. Different caps will give it different additional abilities."
+					"desc": "The Greatwood Staff is not only an awesome item for those who feel the need to compensate for their shortcomings, it\u0027s also the start of making a magic staff. A Greatwood Staff can hold 125 of each aspect. Different caps will give it different additional abilities."
 				}
 			},
 			"tasks": [
@@ -23210,7 +23202,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A Scholar's Lens can be inserted into Goggles of Revealing. While using a Scholar's Lens, the goggles will scan all items you see for their aspects."
+					"desc": "A Scholar\u0027s Lens can be inserted into Goggles of Revealing. While using a Scholar\u0027s Lens, the goggles will scan all items you see for their aspects."
 				}
 			},
 			"tasks": [
@@ -23343,10 +23335,14 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "WitchingGadgets:tile.WG_MetalDevice.name",
+						"id": "betterquesting:placeholder",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 9
+						"Damage": 9,
+						"tag": {
+							"orig_meta:3": 9,
+							"orig_id:8": "WitchingGadgets:tile.WG_MetalDevice.name"
+						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -23368,10 +23364,14 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "WitchingGadgets:tile.WG_MetalDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 9
+							"Damage": 9,
+							"tag": {
+								"orig_meta:3": 9,
+								"orig_id:8": "WitchingGadgets:tile.WG_MetalDevice.name"
+							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -23382,10 +23382,14 @@
 				{
 					"rewards": [
 						{
-							"id": "WitchingGadgets:tile.WG_MetalDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 8
+							"Damage": 8,
+							"tag": {
+								"orig_meta:3": 8,
+								"orig_id:8": "WitchingGadgets:tile.WG_MetalDevice.name"
+							}
 						},
 						{
 							"id": "bq_standard:loot_chest",
@@ -23488,7 +23492,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "It would be a shame if you lost everything you had on you upon death. Luckily, with a Mirrored Amulet, you don't have to."
+					"desc": "It would be a shame if you lost everything you had on you upon death. Luckily, with a Mirrored Amulet, you don\u0027t have to."
 				}
 			},
 			"tasks": [
@@ -23544,10 +23548,14 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "WitchingGadgets:tile.WG_StoneDevice.name",
+						"id": "betterquesting:placeholder",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 7
+						"Damage": 7,
+						"tag": {
+							"orig_meta:3": 7,
+							"orig_id:8": "WitchingGadgets:tile.WG_StoneDevice.name"
+						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -23569,10 +23577,14 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "WitchingGadgets:tile.WG_StoneDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 7
+							"Damage": 7,
+							"tag": {
+								"orig_meta:3": 7,
+								"orig_id:8": "WitchingGadgets:tile.WG_StoneDevice.name"
+							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -23583,10 +23595,14 @@
 				{
 					"rewards": [
 						{
-							"id": "WitchingGadgets:tile.WG_StoneDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 4,
 							"OreDict": "",
-							"Damage": 7
+							"Damage": 7,
+							"tag": {
+								"orig_meta:3": 7,
+								"orig_id:8": "WitchingGadgets:tile.WG_StoneDevice.name"
+							}
 						},
 						{
 							"id": "minecraft:spawn_egg",
@@ -23755,10 +23771,14 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "WitchingGadgets:tile.WG_WoodenDevice.name",
+						"id": "betterquesting:placeholder",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 2
+						"Damage": 2,
+						"tag": {
+							"orig_meta:3": 2,
+							"orig_id:8": "WitchingGadgets:tile.WG_WoodenDevice.name"
+						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -23780,10 +23800,14 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "WitchingGadgets:tile.WG_WoodenDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 2
+							"Damage": 2,
+							"tag": {
+								"orig_meta:3": 2,
+								"orig_id:8": "WitchingGadgets:tile.WG_WoodenDevice.name"
+							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -23824,10 +23848,14 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "WitchingGadgets:tile.WG_StoneDevice.name",
+						"id": "betterquesting:placeholder",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 0
+						"Damage": 0,
+						"tag": {
+							"orig_meta:3": 0,
+							"orig_id:8": "WitchingGadgets:tile.WG_StoneDevice.name"
+						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -23849,10 +23877,14 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "WitchingGadgets:tile.WG_StoneDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0
+							"Damage": 0,
+							"tag": {
+								"orig_meta:3": 0,
+								"orig_id:8": "WitchingGadgets:tile.WG_StoneDevice.name"
+							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -23893,10 +23925,14 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "WitchingGadgets:tile.WG_WoodenDevice.name",
+						"id": "betterquesting:placeholder",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 5
+						"Damage": 5,
+						"tag": {
+							"orig_meta:3": 5,
+							"orig_id:8": "WitchingGadgets:tile.WG_WoodenDevice.name"
+						}
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -23918,10 +23954,14 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "WitchingGadgets:tile.WG_WoodenDevice.name",
+							"id": "betterquesting:placeholder",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 5
+							"Damage": 5,
+							"tag": {
+								"orig_meta:3": 5,
+								"orig_id:8": "WitchingGadgets:tile.WG_WoodenDevice.name"
+							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -23969,7 +24009,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Once you have a vis network set up, you'll need to keep it charged. The Essentia Dynamo can charge it using those Warded Jars of useless Essentia lying around."
+					"desc": "Once you have a vis network set up, you\u0027ll need to keep it charged. The Essentia Dynamo can charge it using those Warded Jars of useless Essentia lying around."
 				}
 			},
 			"tasks": [
@@ -24164,7 +24204,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Don't feel like crafting things yourself? Need a steady supply of something craftable? The Golem's Workbench can train your Golems how to craft. Basic Golems can only craft 2x2 recipes. Advanced Golems can craft more complicated recipes."
+					"desc": "Don\u0027t feel like crafting things yourself? Need a steady supply of something craftable? The Golem\u0027s Workbench can train your Golems how to craft. Basic Golems can only craft 2x2 recipes. Advanced Golems can craft more complicated recipes."
 				}
 			},
 			"tasks": [
@@ -24487,11 +24527,11 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Scrivener's Oculus",
+					"name": "Scrivener\u0027s Oculus",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Upgrade to the Scrivener's Oculus to be able to track more than one kind of inventory."
+					"desc": "Upgrade to the Scrivener\u0027s Oculus to be able to track more than one kind of inventory."
 				}
 			},
 			"tasks": [
@@ -24554,7 +24594,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Siren's Lure will convince mobs they want to be near it, they will be so convinced that they won't notice the cliff ..."
+					"desc": "The Siren\u0027s Lure will convince mobs they want to be near it, they will be so convinced that they won\u0027t notice the cliff ..."
 				}
 			},
 			"tasks": [
@@ -24676,7 +24716,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "I'm Smeeelting",
+					"name": "I\u0027m Smeeelting",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -25214,7 +25254,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Diamond level is different. This level lets you mine things you need to make the next level, but you can't make tools out of diamond."
+					"desc": "Diamond level is different. This level lets you mine things you need to make the next level, but you can\u0027t make tools out of diamond."
 				}
 			},
 			"tasks": [
@@ -25644,6 +25684,638 @@
 				348
 			],
 			"questID": 355
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": true,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "appliedenergistics2:item.ItemMultiMaterial",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 10
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Purity",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Pure Certus Quartz"
+				}
+			},
+			"tasks": [
+				{
+					"partialMatch": true,
+					"ignoreNBT": false,
+					"consume": false,
+					"groupDetect": false,
+					"autoConsume": false,
+					"requiredItems": [
+						{
+							"id": "minecraft:stone",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 0
+						}
+					],
+					"taskID": "bq_standard:retrieval",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+						{
+							"id": "bq_standard:loot_chest",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 75
+						}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				8,
+				12,
+				73
+			],
+			"questID": 356
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": true,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "AWWayofTime:blankSlate",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 0
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Blank Slate",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Blood dipped rock"
+				}
+			},
+			"tasks": [
+				{
+					"partialMatch": true,
+					"ignoreNBT": false,
+					"consume": true,
+					"groupDetect": false,
+					"autoConsume": false,
+					"requiredItems": [
+						{
+							"id": "AWWayofTime:blankSlate",
+							"Count": 100,
+							"OreDict": "",
+							"Damage": 0
+						}
+					],
+					"taskID": "bq_standard:retrieval",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+						{
+							"id": "bq_standard:loot_chest",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 75
+						}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				73
+			],
+			"questID": 357
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": true,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "Thaumcraft:blockTable",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 15
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Arcane Crafting",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Click a Crafting Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
+				}
+			},
+			"tasks": [
+				{
+					"partialMatch": true,
+					"ignoreNBT": false,
+					"consume": false,
+					"groupDetect": false,
+					"autoConsume": false,
+					"requiredItems": [
+						{
+							"id": "Thaumcraft:blockTable",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 15
+						}
+					],
+					"taskID": "bq_standard:retrieval",
+					"index": 1
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+						{
+							"id": "Thaumcraft:WandRod",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 5
+						},
+						{
+							"id": "betterquesting:extra_life",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 0
+						}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 1
+				}
+			],
+			"preRequisites": [
+				259
+			],
+			"questID": 358
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 7
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Moo... moo?",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Cows"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Cow",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 359
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 11
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Hurmmm",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Villagers"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Villager",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 360
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 12
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Cluck, cluck... Chicken Curry?",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Chickens"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Chicken",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 361
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 16
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Wetty Squiddy",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Squids"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Squid",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 362
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 68
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Nitro Hiss",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Nitro Creepers"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Natura.NitroCreeper",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91,
+				143
+			],
+			"questID": 363
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 69
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Hot Spiders",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Heatscar Spiders"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Natura.FlameSpider",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91,
+				143
+			],
+			"questID": 364
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 71
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Hot... Bats?",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Firebat"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Thaumcraft.Firebat",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91,
+				143
+			],
+			"questID": 365
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": false,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "headcrumbs:head",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 193
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Blazing Basalz",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Kill Basalz"
+				}
+			},
+			"tasks": [
+				{
+					"target": "Basalz",
+					"required": 5,
+					"subtypes": true,
+					"ignoreNBT": true,
+					"taskID": "bq_standard:hunt",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+					{
+						"id": "bq_standard:loot_chest",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 25
+					}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				91
+			],
+			"questID": 367
 		}
 	],
 	"questLines": [
@@ -25680,12 +26352,6 @@
 					"x": 72,
 					"y": 41,
 					"id": 4
-				},
-				{
-					"size": 24,
-					"x": 76,
-					"y": 90,
-					"id": 5
 				},
 				{
 					"size": 24,
@@ -25897,7 +26563,7 @@
 					"name": "Bees and Trees",
 					"bg_image": "",
 					"bg_size": 256,
-					"desc": "Glorious mysterious amazing bees. The Jaded One's favorite method of ...well everything"
+					"desc": "Glorious mysterious amazing bees. The Jaded One\u0027s favorite method of ...well everything"
 				}
 			},
 			"quests": [
@@ -26095,13 +26761,13 @@
 					"size": 24,
 					"x": 250,
 					"y": 14,
-					"id": 357
+					"id": 356
 				},
 				{
 					"size": 24,
 					"x": 250,
 					"y": 14,
-					"id": 356
+					"id": 357
 				},
 				{
 					"size": 24,
@@ -26185,12 +26851,6 @@
 			"quests": [
 				{
 					"size": 24,
-					"x": 33,
-					"y": 83,
-					"id": 154
-				},
-				{
-					"size": 24,
 					"x": 287,
 					"y": 12,
 					"id": 140
@@ -26206,6 +26866,18 @@
 					"x": 219,
 					"y": 132,
 					"id": 14
+				},
+				{
+					"size": 24,
+					"x": 200,
+					"y": 10,
+					"id": 143
+				},
+				{
+					"size": 24,
+					"x": 270,
+					"y": 10,
+					"id": 144
 				},
 				{
 					"size": 24,
@@ -26242,6 +26914,12 @@
 					"x": 113,
 					"y": 10,
 					"id": 89
+				},
+				{
+					"size": 24,
+					"x": 33,
+					"y": 83,
+					"id": 154
 				},
 				{
 					"size": 24,
@@ -26365,18 +27043,6 @@
 				},
 				{
 					"size": 24,
-					"x": 270,
-					"y": 10,
-					"id": 144
-				},
-				{
-					"size": 24,
-					"x": 200,
-					"y": 10,
-					"id": 143
-				},
-				{
-					"size": 24,
 					"x": 233,
 					"y": 54,
 					"id": 110
@@ -26445,27 +27111,33 @@
 			"quests": [
 				{
 					"size": 24,
-					"x": 211,
-					"y": 11,
-					"id": 160
+					"x": 0,
+					"y": 144,
+					"id": 5
 				},
 				{
 					"size": 24,
-					"x": 196,
-					"y": 32,
-					"id": 161
+					"x": 24,
+					"y": 144,
+					"id": 77
 				},
 				{
 					"size": 24,
-					"x": 223,
-					"y": 34,
-					"id": 162
+					"x": 72,
+					"y": 144,
+					"id": 205
 				},
 				{
 					"size": 24,
 					"x": 21,
 					"y": 12,
 					"id": 142
+				},
+				{
+					"size": 24,
+					"x": 96,
+					"y": 144,
+					"id": 206
 				},
 				{
 					"size": 24,
@@ -26550,6 +27222,72 @@
 					"x": 184,
 					"y": 10,
 					"id": 159
+				},
+				{
+					"size": 24,
+					"x": 211,
+					"y": 11,
+					"id": 160
+				},
+				{
+					"size": 24,
+					"x": 196,
+					"y": 32,
+					"id": 161
+				},
+				{
+					"size": 24,
+					"x": 223,
+					"y": 34,
+					"id": 162
+				},
+				{
+					"size": 24,
+					"x": 0,
+					"y": 168,
+					"id": 359
+				},
+				{
+					"size": 24,
+					"x": 24,
+					"y": 168,
+					"id": 360
+				},
+				{
+					"size": 24,
+					"x": 48,
+					"y": 168,
+					"id": 361
+				},
+				{
+					"size": 24,
+					"x": 72,
+					"y": 168,
+					"id": 362
+				},
+				{
+					"size": 24,
+					"x": 96,
+					"y": 168,
+					"id": 363
+				},
+				{
+					"size": 24,
+					"x": 0,
+					"y": 192,
+					"id": 364
+				},
+				{
+					"size": 24,
+					"x": 24,
+					"y": 192,
+					"id": 365
+				},
+				{
+					"size": 24,
+					"x": 72,
+					"y": 192,
+					"id": 367
 				}
 			],
 			"lineID": 6,
@@ -26561,7 +27299,7 @@
 					"name": "Mystical Blood",
 					"bg_image": "",
 					"bg_size": 256,
-					"desc": "Blood is life... and also creepy. By sacrificing some of your own Life Essence, or someone else's, you can create powerful rituals and tools. Just be careful, the dark side is tempting."
+					"desc": "Blood is life... and also creepy. By sacrificing some of your own Life Essence, or someone else\u0027s, you can create powerful rituals and tools. Just be careful, the dark side is tempting."
 				}
 			},
 			"quests": [
@@ -26925,12 +27663,6 @@
 				},
 				{
 					"size": 24,
-					"x": 6,
-					"y": 42,
-					"id": 90
-				},
-				{
-					"size": 24,
 					"x": 18,
 					"y": 16,
 					"id": 210
@@ -26976,6 +27708,12 @@
 					"x": 112,
 					"y": 39,
 					"id": 217
+				},
+				{
+					"size": 24,
+					"x": 6,
+					"y": 42,
+					"id": 90
 				},
 				{
 					"size": 24,
@@ -27149,12 +27887,6 @@
 				},
 				{
 					"size": 24,
-					"x": 20,
-					"y": 68,
-					"id": 77
-				},
-				{
-					"size": 24,
 					"x": 49,
 					"y": 19,
 					"id": 17
@@ -27293,12 +28025,6 @@
 				}
 			},
 			"quests": [
-				{
-					"size": 24,
-					"x": 30,
-					"y": 144,
-					"id": 358
-				},
 				{
 					"size": 24,
 					"x": 30,
@@ -27844,6 +28570,12 @@
 					"x": 151,
 					"y": 12,
 					"id": 226
+				},
+				{
+					"size": 24,
+					"x": 30,
+					"y": 144,
+					"id": 358
 				},
 				{
 					"size": 24,
