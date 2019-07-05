@@ -834,10 +834,10 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "Thaumcraft:blockTable",
+						"id": "thaumicenergistics:part.base",
 						"Count": 1,
 						"OreDict": "",
-						"Damage": 15
+						"Damage": 5
 					},
 					"snd_update": "random.levelup",
 					"repeatTime": -1,
@@ -847,7 +847,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Click a Crafting Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
+					"desc": "If you want to be able to craft Arcane objects inside the ME System you will need specialized components."
 				}
 			},
 			"tasks": [
@@ -873,7 +873,59 @@
 					],
 					"taskID": "bq_standard:retrieval",
 					"index": 0
-				},
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+						{
+							"id": "thaumicenergistics:storage.essentia",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 1
+						},
+						{
+							"id": "bq_standard:loot_chest",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 50
+						}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				7
+			],
+			"questID": 11
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": true,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "Thaumcraft:blockTable",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 15
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Arcane Crafting",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Click a Crafting Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
+				}
+			},
+			"tasks": [
 				{
 					"partialMatch": true,
 					"ignoreNBT": false,
@@ -896,24 +948,6 @@
 				{
 					"rewards": [
 						{
-							"id": "thaumicenergistics:storage.essentia",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 1
-						},
-						{
-							"id": "bq_standard:loot_chest",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 50
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				},
-				{
-					"rewards": [
-						{
 							"id": "Thaumcraft:WandRod",
 							"Count": 1,
 							"OreDict": "",
@@ -931,10 +965,9 @@
 				}
 			],
 			"preRequisites": [
-				7,
 				259
 			],
-			"questID": 11
+			"questID": 358
 		},
 		{
 			"properties": {
@@ -4759,8 +4792,7 @@
 				}
 			],
 			"preRequisites": [
-				60,
-				73
+				60
 			],
 			"questID": 61
 		},
@@ -4835,9 +4867,10 @@
 			],
 			"preRequisites": [
 				8,
-				12
+				12,
+				73
 			],
-			"questID": 256
+			"questID": 356
 		},
 		{
 			"properties": {
@@ -6097,23 +6130,6 @@
 				{
 					"partialMatch": true,
 					"ignoreNBT": false,
-					"consume": true,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "AWWayofTime:blankSlate",
-							"Count": 100,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				},
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
 					"consume": false,
 					"groupDetect": false,
 					"autoConsume": false,
@@ -6133,18 +6149,6 @@
 				{
 					"rewards": [
 						{
-							"id": "bq_standard:loot_chest",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 75
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				},
-				{
-					"rewards": [
-						{
 							"id": "AWWayofTime:blankSlate",
 							"Count": 3,
 							"OreDict": "",
@@ -6156,10 +6160,72 @@
 				}
 			],
 			"preRequisites": [
-				73,
 				163
 			],
 			"questID": 81
+		},
+		{
+			"properties": {
+				"betterquesting": {
+					"snd_complete": "random.levelup",
+					"taskLogic": "AND",
+					"partySingleReward": true,
+					"isMain": false,
+					"simultaneous": false,
+					"icon": {
+						"id": "AWWayofTime:blankSlate",
+						"Count": 1,
+						"OreDict": "",
+						"Damage": 0
+					},
+					"snd_update": "random.levelup",
+					"repeatTime": -1,
+					"globalShare": false,
+					"questLogic": "AND",
+					"name": "Blank Slate",
+					"lockedProgress": false,
+					"autoClaim": false,
+					"isSilent": false,
+					"desc": "Blood dipped rock"
+				}
+			},
+			"tasks": [
+				{
+					"partialMatch": true,
+					"ignoreNBT": false,
+					"consume": true,
+					"groupDetect": false,
+					"autoConsume": false,
+					"requiredItems": [
+						{
+							"id": "AWWayofTime:blankSlate",
+							"Count": 100,
+							"OreDict": "",
+							"Damage": 0
+						}
+					],
+					"taskID": "bq_standard:retrieval",
+					"index": 0
+				}
+			],
+			"rewards": [
+				{
+					"rewards": [
+						{
+							"id": "bq_standard:loot_chest",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 75
+						}
+					],
+					"rewardID": "bq_standard:item",
+					"index": 0
+				}
+			],
+			"preRequisites": [
+				73
+			],
+			"questID": 357
 		},
 		{
 			"properties": {
@@ -19810,7 +19876,7 @@
 				}
 			],
 			"preRequisites": [
-				11
+				358
 			],
 			"questID": 274
 		},
@@ -26029,6 +26095,12 @@
 					"size": 24,
 					"x": 250,
 					"y": 14,
+					"id": 357
+				},
+				{
+					"size": 24,
+					"x": 250,
+					"y": 14,
 					"id": 356
 				},
 				{
@@ -26081,12 +26153,6 @@
 				},
 				{
 					"size": 24,
-					"x": 203,
-					"y": 55,
-					"id": 81
-				},
-				{
-					"size": 24,
 					"x": 226,
 					"y": 56,
 					"id": 82
@@ -26096,12 +26162,6 @@
 					"x": 192,
 					"y": 34,
 					"id": 83
-				},
-				{
-					"size": 24,
-					"x": 181,
-					"y": 57,
-					"id": 61
 				},
 				{
 					"size": 24,
@@ -27237,6 +27297,12 @@
 					"size": 24,
 					"x": 30,
 					"y": 144,
+					"id": 358
+				},
+				{
+					"size": 24,
+					"x": 30,
+					"y": 144,
 					"id": 128
 				},
 				{
@@ -27310,12 +27376,6 @@
 					"x": 40,
 					"y": 90,
 					"id": 267
-				},
-				{
-					"size": 24,
-					"x": 118,
-					"y": 31,
-					"id": 11
 				},
 				{
 					"size": 24,
