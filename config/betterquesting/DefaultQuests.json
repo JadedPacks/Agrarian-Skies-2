@@ -15951,6 +15951,12 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
+							"id": "AgriCraft:sprinkler",
+							"Count": 1,
+							"OreDict": "",
+							"Damage": 0
+						},
+						{
 							"id": "AgriCraft:channelValve",
 							"Count": 1,
 							"OreDict": "",
