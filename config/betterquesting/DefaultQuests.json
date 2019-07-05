@@ -1411,10 +1411,10 @@
 				{
 					"rewards": [
 						{
-							"id": "Forestry:log7",
-							"Count": 16,
+							"id": "minecraft:log",
+							"Count": 32,
 							"OreDict": "",
-							"Damage": 3
+							"Damage": 0
 						}
 					],
 					"rewardID": "bq_standard:item",
