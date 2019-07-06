@@ -7,7 +7,7 @@
 			"home_anchor_x": 0.5,
 			"hardcore": true,
 			"home_image": "betterquesting:textures/gui/default_title.png",
-			"editMode": true,
+			"editMode": false,
 			"home_offset_x": -128,
 			"home_offset_y": 0
 		}
