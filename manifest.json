@@ -11,7 +11,7 @@
 	"manifestType": "minecraftModpack",
 	"manifestVersion": 1,
 	"name": "Agrarian Skies 2",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"author": "Jaded Packs",
 	"files": [
 		{
@@ -22,11 +22,6 @@
 		{
 			"projectID": 228809,
 			"fileID": 2235877,
-			"required": true
-		},
-		{
-			"projectID": 242106,
-			"fileID": 2363297,
 			"required": true
 		},
 		{

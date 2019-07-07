@@ -6,5 +6,9 @@
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
 		"file": "StandardExpansion-2.0-JADED_PATCHED.jar"
+	},
+	{
+		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
+		"file": "questbook-2.1.0-1.7.10.jar"
 	}
 ]
