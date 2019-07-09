@@ -160,6 +160,7 @@ hide(<Botania:pavement0SlabFull>);
 hide(<Botania:manaTablet>.withTag({mana:500000,creative:1 as byte}));
 hide(<Botania:gaiaHead>);
 hide(<Botania:waterBowl>);
+hide(<Botania:terraformRod>);
 
 # Carpenter's Bed
 hide(<CarpentersBlocks:blockCarpentersBed>);
