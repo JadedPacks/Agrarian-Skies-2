@@ -1,5 +1,4 @@
 import mods.nei.NEI.hide;
-import mods.nei.NEI.addEntry as show;
 import mods.jadedpacks.NEITweaker;
 import minetweaker.item.IItemStack;
 
