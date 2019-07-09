@@ -9,7 +9,9 @@
 			"home_image": "betterquesting:textures/gui/default_title.png",
 			"editMode": false,
 			"home_offset_x": -128,
-			"home_offset_y": 0
+			"home_offset_y": 0,
+			"pack_name": "AgrarianSkies2",
+			"pack_version": 1
 		}
 	},
 	"questDatabase": [
