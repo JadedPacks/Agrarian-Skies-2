@@ -700,9 +700,6 @@
 								"RSControl:1": 1,
 								"Facing:1": 3,
 								"Energy:3": 400000,
-								"SideCache:9": {
-									"8": "6 bytes"
-								},
 								"Send:3": 80
 							}
 						}
@@ -2695,28 +2692,6 @@
 					]
 				},
 				{
-					"weight": 3,
-					"items": [
-						{
-							"id": "Thaumcraft:WandCasting",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 128,
-							"tag": {
-								"aqua:3": 15000,
-								"terra:3": 15000,
-								"ignis:3": 15000,
-								"cap:8": "thaumium",
-								"rod:8": "silverwood",
-								"ordo:3": 15000,
-								"perditio:3": 15000,
-								"sceptre:1": 1,
-								"aer:3": 15000
-							}
-						}
-					]
-				},
-				{
 					"weight": 4,
 					"items": [
 						{
@@ -3376,29 +3351,6 @@
 								"RepairCost:3": 2,
 								"display:10": {
 									"Name:8": "Slowpoke Guide"
-								}
-							}
-						}
-					]
-				},
-				{
-					"weight": 1,
-					"items": [
-						{
-							"id": "BiblioWoodsForestry:BiblioWoodFancySign2",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 1,
-							"tag": {
-								"ench:9": {
-									"10": {
-										"lvl:2": 5,
-										"id:2": 70
-									}
-								},
-								"RepairCost:3": 2,
-								"display:10": {
-									"Name:8": "Educational Sign"
 								}
 							}
 						}
