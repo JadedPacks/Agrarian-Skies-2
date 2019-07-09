@@ -33,12 +33,8 @@ hide(<appliedenergistics2:tile.ChiseledQuartzSlabBlock.double>);
 hide(<appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock.double>);
 hide(<appliedenergistics2:tile.FluixSlabBlock.double>);
 hide(<appliedenergistics2:item.ItemEncodedPattern>);
-for i in [461, 462, 463, 466, 467] as int[] {
-	hide(<appliedenergistics2:item.ItemMultiPart>.definition.makeStack(i));
-}
-for i in [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] as int[] {
-	hide(<appliedenergistics2:item.ItemPaintBall>.definition.makeStack(i));
-}
+NEITweaker.hideItems(<appliedenergistics2:item.ItemMultiPart>, [461, 462, 463, 466, 467] as int[]);
+NEITweaker.hideItems(<appliedenergistics2:item.ItemPaintBall>, [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] as int[]);
 
 # AromaCore
 hide(<Aroma1997Core:wrenched>);
@@ -60,9 +56,7 @@ hide(<BiblioCraft:item.EnchantedPlate>);
 hide(<BiblioCraft:item.TesterItem>);
 hide(<BiblioCraft:item.BiblioCreativeLock>);
 hide(<BiblioCraft:item.RecipeBook>);
-for i in [0, 1, 2, 3, 4, 5, 6] as int[] {
-	hide(<BiblioCraft:BookcaseFilled>.definition.makeStack(i));
-}
+NEITweaker.hideItems(<BiblioCraft:BookcaseFilled>, [0, 1, 2, 3, 4, 5, 6]);
 
 # Better Questing
 hide(<betterquesting:guide_book>);
@@ -200,36 +194,38 @@ hide(<ExtraTiC:moltenWitheriron>);
 hide(<ExtraTiC:funStuffIngot:*>);
 hide(<ExtraTiC:drulloyIngot>);
 hide(<ExtraTiC:extra.bucket:*>);
-for meta in [134, 135, 136, 137, 147, 164, 165, 166, 167, 171] as int[] {
-	hide(<ExtraTiC:arrowhead>.definition.makeStack(meta));
-	hide(<ExtraTiC:axeHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:battelSign>.definition.makeStack(meta));
-	hide(<ExtraTiC:binding>.definition.makeStack(meta));
-	hide(<ExtraTiC:Blot>.definition.makeStack(meta));
-	hide(<ExtraTiC:BowLimb>.definition.makeStack(meta));
-	hide(<ExtraTiC:chiselHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:chunk>.definition.makeStack(meta));
-	hide(<ExtraTiC:crossbar>.definition.makeStack(meta));
-	hide(<ExtraTiC:CrossbowBody>.definition.makeStack(meta));
-	hide(<ExtraTiC:CrossbowLimb>.definition.makeStack(meta));
-	hide(<ExtraTiC:excavatorHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:frypanHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:fullGuard>.definition.makeStack(meta));
-	hide(<ExtraTiC:hammerHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:knifeBlade>.definition.makeStack(meta));
-	hide(<ExtraTiC:largeGuard>.definition.makeStack(meta));
-	hide(<ExtraTiC:largeplate>.definition.makeStack(meta));
-	hide(<ExtraTiC:largeSwordBlade>.definition.makeStack(meta));
-	hide(<ExtraTiC:lumberaxeHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:mediumGuard>.definition.makeStack(meta));
-	hide(<ExtraTiC:pickaxeHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:scytheHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:shovelHead>.definition.makeStack(meta));
-	hide(<ExtraTiC:shuriken>.definition.makeStack(meta));
-	hide(<ExtraTiC:swordBlade>.definition.makeStack(meta));
-	hide(<ExtraTiC:toolrod>.definition.makeStack(meta));
-	hide(<ExtraTiC:toughbind>.definition.makeStack(meta));
-	hide(<ExtraTiC:toughrod>.definition.makeStack(meta));
+for item in [
+	<ExtraTiC:arrowhead>,
+	<ExtraTiC:axeHead>,
+	<ExtraTiC:battelSign>,
+	<ExtraTiC:binding>,
+	<ExtraTiC:Blot>,
+	<ExtraTiC:BowLimb>,
+	<ExtraTiC:chiselHead>,
+	<ExtraTiC:chunk>,
+	<ExtraTiC:crossbar>,
+	<ExtraTiC:CrossbowBody>,
+	<ExtraTiC:CrossbowLimb>,
+	<ExtraTiC:excavatorHead>,
+	<ExtraTiC:frypanHead>,
+	<ExtraTiC:fullGuard>,
+	<ExtraTiC:hammerHead>,
+	<ExtraTiC:knifeBlade>,
+	<ExtraTiC:largeGuard>,
+	<ExtraTiC:largeplate>,
+	<ExtraTiC:largeSwordBlade>,
+	<ExtraTiC:lumberaxeHead>,
+	<ExtraTiC:mediumGuard>,
+	<ExtraTiC:pickaxeHead>,
+	<ExtraTiC:scytheHead>,
+	<ExtraTiC:shovelHead>,
+	<ExtraTiC:shuriken>,
+	<ExtraTiC:swordBlade>,
+	<ExtraTiC:toolrod>,
+	<ExtraTiC:toughbind>,
+	<ExtraTiC:toughrod>
+] as IItemStack[] {
+	NEITweaker.hideItems(item, [134, 135, 136, 137, 147, 164, 165, 166, 167, 171] as int[]);
 }
 
 # Extra Utilities
@@ -428,9 +424,7 @@ hide(<minecraft:end_portal>);
 hide(<minecraft:end_portal_frame>);
 hide(<minecraft:command_block>);
 hide(<minecraft:command_block_minecart>);
-for i in [4, 5, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 65, 66, 94, 95, 97, 98, 99, 100, 120, 301] as int[] {
-	hide(<minecraft:spawn_egg>.definition.makeStack(i));
-}
+NEITweaker.hideItems(<minecraft:spawn_egg>, [4, 5, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 65, 66, 94, 95, 97, 98, 99, 100, 120, 301] as int[]);
 
 # MineFactoryReloaded
 hide(<MineFactoryReloaded:rubberwood.sapling:1>);
@@ -584,9 +578,7 @@ hide(<TConstruct:slime.gel:2>);
 hide(<TConstruct:slime.grass>);
 hide(<TConstruct:GravelOre:*>);
 hide(<TConstruct:Boneana>);
-for i in [4, 5, 6, 7, 8, 9, 10, 11] as int[] {
-	hide(<TConstruct:SmelteryNether>.definition.makeStack(i));
-}
+NEITweaker.hideItems(<TConstruct:SmelteryNether>, [4, 5, 6, 7, 8, 9, 10, 11] as int[]);
 
 # Thaumcraft
 hide(<Thaumcraft:blockAiry>);
@@ -686,6 +678,4 @@ hide(<ThermalFoundation:FluidAerotheum>);
 # Witching Gadgets
 hide(<WitchingGadgets:WG_CustomAir>);
 hide(<WitchingGadgets:WG_WoodenDevice:3>);
-for i in [1, 2, 3, 6] as int[] {
-	hide(<WitchingGadgets:WG_StoneDevice>.definition.makeStack(i));
-}
+NEITweaker.hideItems(<WitchingGadgets:WG_StoneDevice>, [1, 2, 3, 6] as int[]);
