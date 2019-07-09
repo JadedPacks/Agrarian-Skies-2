@@ -16,6 +16,7 @@ recipes.addShapeless(<minecraft:nether_brick>, [<minecraft:stone_slab:6>, <minec
 recipes.addShapeless(<minecraft:quartz_block>, [<minecraft:stone_slab:7>, <minecraft:stone_slab:7>]);
 
 # Easy podzol recipe
+recipes.remove(<minecraft:dirt:2>);
 recipes.addShaped(<minecraft:dirt:2>, [[<ore:treeLeaves>, <ore:treeLeaves>, <ore:treeLeaves>], [<ore:treeLeaves>, <minecraft:dirt>, <ore:treeLeaves>], [<ore:treeLeaves>, <ore:treeLeaves>, <ore:treeLeaves>]]);
 
 # Alternative bucket recipes
