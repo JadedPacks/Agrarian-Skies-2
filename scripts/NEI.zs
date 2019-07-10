@@ -265,6 +265,8 @@ hide(<Forestry:mushroom:*>);
 hide(<Forestry:slabsDoubleFireproof:*>);
 hide(<Forestry:slabsDouble:*>);
 hide(<Forestry:grafterProven>);
+hide(<Forestry:adventurerBag>);
+hide(<Forestry:adventurerBagT2>);
 
 # ForgeMicroblocks
 NEITweaker.hideForgeMicroblocks();

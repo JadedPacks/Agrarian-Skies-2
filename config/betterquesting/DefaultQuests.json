@@ -18102,18 +18102,6 @@
 			],
 			"rewards": [
 				{
-					"rewards": [
-						{
-							"id": "Forestry:adventurerBag",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				},
-				{
 					"choices": [
 						{
 							"id": "Forestry:foresterBagT2",
@@ -18129,7 +18117,7 @@
 						}
 					],
 					"rewardID": "bq_standard:choice",
-					"index": 1
+					"index": 0
 				}
 			],
 			"preRequisites": [
