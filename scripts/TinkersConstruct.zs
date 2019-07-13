@@ -19,10 +19,10 @@ mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:spike_base_diamond>, <liq
 mods.tconstruct.Casting.addTableRecipe(<ExtraUtilities:creativebuilderswand>, <liquid:ardite.molten>, <ExtraUtilities:builderswand>, true, 80);
 
 # AE2 presses
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:13>, <liquid:lead.molten>, null, true, 80);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:14>, <liquid:tin.molten>, null, true, 80);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:15>, <liquid:copper.molten>, null, true, 80);
-mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:19>, <liquid:nickel.molten>, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:13>, <liquid:lead.molten> * 288, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:14>, <liquid:tin.molten> * 288, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:15>, <liquid:copper.molten> * 288, null, true, 80);
+mods.tconstruct.Casting.addTableRecipe(<appliedenergistics2:item.ItemMultiMaterial:19>, <liquid:nickel.molten> * 288, null, true, 80);
 
 # Harvestcraft tools require a smeltery
 recipes.remove(<harvestcraft:potItem>);
