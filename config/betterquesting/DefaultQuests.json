@@ -25578,7 +25578,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "At various points along the tiers, you can begin making tools out of exotic materials. Enderium, Signalum, Lumium, Plastic, PlasSteel, TerraSteel, and ManaSteel can all be used to make different tool parts. Sometimes, if you craft a tool with one of these exotic metals, you will get a special stat for the tool, like extra modifier slots. Most of these will not apply if you use the material to upgrade an old tool."
+					"desc": "At various points along the tiers, you can begin making tools out of exotic materials. Enderium, Signalum, Lumium, Plastic, Terrasteel, and Manasteel can all be used to make different tool parts. Sometimes, if you craft a tool with one of these exotic metals, you will get a special stat for the tool, like extra modifier slots. Most of these will not apply if you use the material to upgrade an old tool."
 				}
 			},
 			"tasks": [
