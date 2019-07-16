@@ -1059,7 +1059,6 @@
 				}
 			],
 			"preRequisites": [
-				14,
 				15
 			],
 			"questID": 13
