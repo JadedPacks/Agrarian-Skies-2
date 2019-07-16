@@ -10605,18 +10605,6 @@
 					"hideInfo": false,
 					"taskID": "bq_standard:location",
 					"index": 1
-				},
-				{
-					"name": "Soul Dimension",
-					"posX": 0,
-					"posY": 0,
-					"posZ": 0,
-					"dimension": 42,
-					"range": -1,
-					"visible": false,
-					"hideInfo": false,
-					"taskID": "bq_standard:location",
-					"index": 2
 				}
 			],
 			"rewards": [
