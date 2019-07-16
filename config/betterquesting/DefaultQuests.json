@@ -18266,10 +18266,10 @@
 				{
 					"rewards": [
 						{
-							"id": "StorageDrawers:upgradeLock",
+							"id": "StorageDrawers:upgrade",
 							"Count": 4,
 							"OreDict": "",
-							"Damage": 0
+							"Damage": 2
 						}
 					],
 					"rewardID": "bq_standard:item",
