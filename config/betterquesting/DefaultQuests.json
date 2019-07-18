@@ -2142,7 +2142,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Energetic Infuser can take power from Dynamos and Reactors and use it to charge ... anything you might need to charge. Tools, weapons, capacitors. Just stick them in, power it up, and watch it replenish their energy."
+					"desc": "The Energetic Infuser can take power from Dynamos and Reactors and use it to charge... anything you might need to charge. Tools, weapons, capacitors. Just stick them in, power it up, and watch it replenish their energy."
 				}
 			},
 			"tasks": [
@@ -2338,7 +2338,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Fishing ... away",
+					"name": "Fishing... away",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -4453,7 +4453,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Now that you have string you can create a sieve. Sieves can be used to process many materials into other materials. To start with you will be sieving dirt. A lot of dirt. Eventually you will be able to make machines to do this for you, but for now take the block you wish to sieve and right click on the sieve with it, keep right clicking until it vanishes. In return you will get ... something."
+					"desc": "Now that you have string you can create a sieve. Sieves can be used to process many materials into other materials. To start with you will be sieving dirt. A lot of dirt. Eventually you will be able to make machines to do this for you, but for now take the block you wish to sieve and right click on the sieve with it, keep right clicking until it vanishes. In return you will get... something."
 				}
 			},
 			"tasks": [
@@ -7055,7 +7055,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Mary had a little ...",
+					"name": "Mary had a little...",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -10423,7 +10423,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "You will need at least two more items as well as some minion labor to automate the Inventarium. Unseen Scribes can track distant inventories. And the Requisition Tome ...requisitions things."
+					"desc": "You will need at least two more items as well as some minion labor to automate the Inventarium. Unseen Scribes can track distant inventories. And the Requisition Tome... requisitions things."
 				}
 			},
 			"tasks": [
@@ -17783,7 +17783,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Drums of ...",
+					"name": "Drums of...",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -19493,7 +19493,7 @@
 					"repeatTime": -1,
 					"globalShare": false,
 					"questLogic": "AND",
-					"name": "Boiling in ....",
+					"name": "Boiling in...",
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
@@ -24315,7 +24315,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "For the more ... adventurous mage, the Collar of Pain will generate vis every time you take damage. Now you can get vis while adding Life Essence to your Blood Magic Altar."
+					"desc": "For the more... adventurous mage, the Collar of Pain will generate vis every time you take damage. Now you can get vis while adding Life Essence to your Blood Magic Altar."
 				}
 			},
 			"tasks": [
@@ -24510,7 +24510,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Siren's Lure will convince mobs they want to be near it, they will be so convinced that they won't notice the cliff ..."
+					"desc": "The Siren's Lure will convince mobs they want to be near it, they will be so convinced that they won't notice the cliff..."
 				}
 			},
 			"tasks": [
@@ -26487,7 +26487,7 @@
 					"name": "Bees and Trees",
 					"bg_image": "",
 					"bg_size": 256,
-					"desc": "Glorious mysterious amazing bees. The Jaded One's favorite method of ...well everything"
+					"desc": "Glorious mysterious amazing bees. The Jaded One's favorite method of... well everything"
 				}
 			},
 			"quests": [
