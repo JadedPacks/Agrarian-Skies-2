@@ -25635,10 +25635,10 @@
 					"autoConsume": false,
 					"requiredItems": [
 						{
-							"id": "minecraft:stone",
-							"Count": 1,
+							"id": "appliedenergistics2:item.ItemMultiMaterial",
+							"Count": 1000,
 							"OreDict": "",
-							"Damage": 0
+							"Damage": 10
 						}
 					],
 					"taskID": "bq_standard:retrieval",
