@@ -1,6 +1,5 @@
 import mods.nei.NEI.hide;
 import mods.jadedpacks.NEITweaker;
-import minetweaker.item.IItemStack;
 
 # AWWayofTime (AKA, BloodMagic)
 hide(<AWWayofTime:spectralBlock>);
@@ -13,7 +12,7 @@ hide(<AWWayofTime:blockMimic>);
 hide(<AWWayofTime:creativeDagger>);
 hide(<AWWayofTime:itemKeyOfDiablo>.withTag({ownerName:"Server-wide Soul Network"}));
 hide(<AWWayofTime:creativeFiller>);
-hide(<AWWayofTime:activationCrystal:2>);
+NEITweaker.hideItems(<AWWayofTime:activationCrystal>, [2] as int[]);
 
 # AccidentallyCircumstantialEvents
 hide(<AccidentallyCircumstantialEvents:identifier>);
@@ -61,8 +60,7 @@ NEITweaker.hideItems(<BiblioCraft:BookcaseFilled>, [0, 1, 2, 3, 4, 5, 6]);
 # Better Questing
 hide(<betterquesting:guide_book>);
 hide(<betterquesting:placeholder>);
-hide(<bq_standard:loot_chest:101>);
-hide(<bq_standard:loot_chest:102>);
+NEITweaker.hideItems(<bq_standard:loot_chest>, [101, 102] as int[]);
 
 # BigReactors
 hide(<BigReactors:tile.fluid.yellorium.still>);
@@ -71,13 +69,13 @@ hide(<BigReactors:BRDebugTool>);
 hide(<BigReactors:bucketCyanite>);
 hide(<BigReactors:bucketYellorium>);
 hide(<BigReactors:BRMultiblockCreativePart:*>);
-hide(<BigReactors:BRTurbinePart:5>);
-hide(<BigReactors:BRReactorPart:7>);
+NEITweaker.hideItems(<BigReactors:BRTurbinePart>, [5] as int[]);
+NEITweaker.hideItems(<BigReactors:BRReactorPart>, [7] as int[]);
 
 # Botania
-hide(<Botania:pool:1>);
+NEITweaker.hideItems(<Botania:pool>, [1] as int[]);
 hide(<Botania:enchanter>);
-hide(<Botania:platform:2>);
+NEITweaker.hideItems(<Botania:platform>, [2] as int[]);
 hide(<Botania:solidVine>);
 hide(<Botania:manaFlame>);
 hide(<Botania:quartzSlabDarkFull>);
@@ -161,15 +159,15 @@ hide(<CarpentersBlocks:blockCarpentersDoor>);
 
 # Chisel
 hide(<chisel:bloodBrick>);
-hide(<chisel:upgrade:3>);
+NEITweaker.hideItems(<chisel:upgrade>, [3] as int[]);
 
 # Cooking for Blockheads
 hide(<cookingbook:toast>);
 
 # EnderTech
-hide(<EnderTech:chargePad:0>);
-hide(<EnderTech:healthPad:0>);
-hide(<EnderTech:endertech.exchanger:0>);
+NEITweaker.hideItems(<EnderTech:chargePad>, [0] as int[]);
+NEITweaker.hideItems(<EnderTech:healthPad>, [0] as int[]);
+NEITweaker.hideItems(<EnderTech:endertech.exchanger>, [0] as int[]);
 
 # Ex Nihilo
 hide(<exnihilo:infested_leaves>);
@@ -231,7 +229,7 @@ for item in [
 # Extra Utilities
 NEITweaker.hideExUDrums();
 NEITweaker.hideExUMicroblocks();
-hide(<ExtraUtilities:nodeUpgrade:4>);
+NEITweaker.hideItems(<ExtraUtilities:nodeUpgrade>, [4] as int[]);
 
 # Flat Signs
 hide(<FlatSigns:blockFlatSign>);
@@ -240,12 +238,9 @@ hide(<FlatSigns:blockFlatSign>);
 hide(<ForbiddenMagic:TaintLeaves>);
 hide(<ForbiddenMagic:ArcaneCake>);
 hide(<ForbiddenMagic:TaintFruit>);
-hide(<ForbiddenMagic:FMResource:2>);
-hide(<ForbiddenMagic:FMResource:3>);
-hide(<ForbiddenMagic:FMResource:4>);
-hide(<ForbiddenMagic:WandCaps:1>);
-hide(<ForbiddenMagic:WandCores:10>);
-hide(<ForbiddenMagic:WandCores:4>);
+NEITweaker.hideItems(<ForbiddenMagic:FMResource>, [2, 3, 4] as int[]);
+NEITweaker.hideItems(<ForbiddenMagic:WandCaps>, [1] as int[]);
+NEITweaker.hideItems(<ForbiddenMagic:WandCores>, [4, 10] as int[]);
 hide(<ForbiddenMagic:InkFlower>);
 
 # Forestry
@@ -405,8 +400,8 @@ hide(<harvestcraft:berrygarden>);
 hide(<headcrumbs:egg>);
 
 # JABBA
-hide(<JABBA:upgradeCore:10>);
-hide(<JABBA:hammer:7>);
+NEITweaker.hideItems(<JABBA:upgradeCore>, [10] as int[]);
+NEITweaker.hideItems(<JABBA:hammer>, [7] as int[]);
 
 # JadedShinies
 hide(<JadedsShinies:molten.witheriron>);
@@ -429,9 +424,7 @@ hide(<minecraft:command_block_minecart>);
 NEITweaker.hideItems(<minecraft:spawn_egg>, [4, 5, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 65, 66, 94, 95, 97, 98, 99, 100, 120, 301] as int[]);
 
 # MineFactoryReloaded
-hide(<MineFactoryReloaded:rubberwood.sapling:1>);
-hide(<MineFactoryReloaded:rubberwood.sapling:2>);
-hide(<MineFactoryReloaded:rubberwood.sapling:3>);
+NEITweaker.hideItems(<MineFactoryReloaded:rubberwood.sapling>, [1, 2, 3] as int[]);
 hide(<MineFactoryReloaded:milk.still>);
 hide(<MineFactoryReloaded:sludge.still>);
 hide(<MineFactoryReloaded:sewage.still>);
@@ -442,7 +435,7 @@ hide(<MineFactoryReloaded:mushroomsoup.still>);
 hide(<MineFactoryReloaded:steam.still>);
 hide(<MineFactoryReloaded:biofuel.still>);
 hide(<MineFactoryReloaded:mobessence.still>);
-hide(<MineFactoryReloaded:rubberwood.log:1>);
+NEITweaker.hideItems(<MineFactoryReloaded:rubberwood.log>, [1] as int[]);
 hide(<MineFactoryReloaded:rednet.meter>);
 
 # Natura
@@ -538,8 +531,8 @@ hide(<Sanguimancy:soulCorruptionTest:*>);
 
 # Simply Jetpacks
 hide(<simplyjetpacks:mysteriousPotato>);
-hide(<simplyjetpacks:jetpacksCommon:9001>);
-hide(<simplyjetpacks:fluxpacksCommon:9001>);
+NEITweaker.hideItems(<simplyjetpacks:jetpacksCommon>, [9001] as int[]);
+NEITweaker.hideItems(<simplyjetpacks:fluxpacksCommon>, [9001] as int[]);
 
 # Storage Drawers
 hide(<StorageDrawers:upgradeCreative:*>);
@@ -572,11 +565,11 @@ hide(<TConstruct:broadsword:*>);
 hide(<TConstruct:hatchet:*>);
 hide(<TConstruct:shovel:*>);
 hide(<TConstruct:pickaxe:*>);
-hide(<TConstruct:materials:12>);
-hide(<TConstruct:Smeltery:7>);
-hide(<TConstruct:CraftedSoil:5>);
+NEITweaker.hideItems(<TConstruct:materials>, [12] as int[]);
+NEITweaker.hideItems(<TConstruct:Smeltery>, [7] as int[]);
+NEITweaker.hideItems(<TConstruct:CraftedSoil>, [5] as int[]);
 hide(<TConstruct:liquid.slime>);
-hide(<TConstruct:slime.gel:2>);
+NEITweaker.hideItems(<TConstruct:slime.gel>, [2] as int[]);
 hide(<TConstruct:slime.grass>);
 hide(<TConstruct:GravelOre:*>);
 hide(<TConstruct:Boneana>);
@@ -587,7 +580,7 @@ hide(<Thaumcraft:blockAiry>);
 hide(<Thaumcraft:blockFluidDeath>);
 hide(<Thaumcraft:blockFluxGoo>);
 hide(<Thaumcraft:blockLootUrn:*>);
-hide(<Thaumcraft:blockCosmeticSolid:0>);
+NEITweaker.hideItems(<Thaumcraft:blockCosmeticSolid>, [0] as int[]);
 hide(<Thaumcraft:blockArcaneFurnace>);
 hide(<Thaumcraft:blockWarded>);
 hide(<Thaumcraft:blockFluxGas>);
@@ -600,12 +593,12 @@ hide(<Thaumcraft:blockMagicBox>);
 hide(<Thaumcraft:blockTaintFibres:*>);
 hide(<Thaumcraft:ItemResearchNotes>);
 hide(<Thaumcraft:ItemSpawnerEgg:*>);
-hide(<Thaumcraft:WandCasting:84>);
-hide(<Thaumcraft:WandCasting:2000>);
-hide(<Thaumcraft:ItemEldritchObject:4>);
+NEITweaker.hideItems(<Thaumcraft:WandCasting>, [84] as int[]);
+NEITweaker.hideItems(<Thaumcraft:WandCasting>, [2000] as int[]);
+NEITweaker.hideItems(<Thaumcraft:ItemEldritchObject>, [4] as int[]);
 
 # Thaumic Energistics
-hide(<thaumicenergistics:storage.essentia:4>);
+NEITweaker.hideItems(<thaumicenergistics:storage.essentia>, [4] as int[]);
 
 # Thaumic Horizons
 hide(<ThaumicHorizons:lightSolar>);
@@ -662,14 +655,14 @@ hide(<ThaumicTinkerer:infusedGrain:*>);
 
 # Thermal Expansion
 NEITweaker.hideTEFlorbs();
-hide(<ThermalExpansion:capacitor:0>);
-hide(<ThermalExpansion:Cell:0>);
-hide(<ThermalExpansion:Tank:0>);
-hide(<ThermalExpansion:Cache:0>);
-hide(<ThermalExpansion:Sponge:0>);
-hide(<ThermalExpansion:Workbench:0>);
-hide(<ThermalExpansion:Strongbox:0>);
-hide(<ThermalExpansion:meter:1>);
+NEITweaker.hideItems(<ThermalExpansion:capacitor>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Cell>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Tank>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Cache>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Sponge>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Workbench>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:Strongbox>, [0] as int[]);
+NEITweaker.hideItems(<ThermalExpansion:meter>, [1] as int[]);
 
 # Thermal Foundation
 hide(<ThermalFoundation:FluidMana>);
@@ -679,5 +672,5 @@ hide(<ThermalFoundation:FluidAerotheum>);
 
 # Witching Gadgets
 hide(<WitchingGadgets:WG_CustomAir>);
-hide(<WitchingGadgets:WG_WoodenDevice:3>);
+NEITweaker.hideItems(<WitchingGadgets:WG_WoodenDevice>, [3] as int[]);
 NEITweaker.hideItems(<WitchingGadgets:WG_StoneDevice>, [1, 2, 3, 6] as int[]);
