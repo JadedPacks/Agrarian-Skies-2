@@ -9168,7 +9168,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 128 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you're making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. One RF \u003d one mb moved."
+					"desc": "Ender Tanks are a multiblock tank capable of storing massive amounts of fluid, 512 buckets per interior block to be precise. Always use a wrench to dismantle tanks - when using a wrench the tank will warn you if you're making the tank too small or will lose fluid. An Ender Tank can be 3x3x3 up to 8x8x10 in size. Ender Tank Frames are used for the frame. One frame block needs to be an Ender Tank Controller. You will also need an Ender Tank Valve and Ender Tank Energy Input somewhere on the exterior walls. The sides of the tank can be Ender Tank Glass or Frames. To input or extract fluid you must supply the Energy Input with power. One RF \u003d one mb moved."
 				}
 			},
 			"tasks": [
