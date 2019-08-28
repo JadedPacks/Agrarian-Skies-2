@@ -49,15 +49,15 @@ mods.thaumcraft.Research.addCruciblePage("SINFULL", <ForbiddenMagic:NetherShard:
 mods.thaumcraft.Research.addCruciblePage("SINFULL", <ForbiddenMagic:GluttonyShard>);
 
 # Recall Stone
-mods.thaumcraft.Aspects.set(<recallstones:recallStone>, "terra 5, ordo 3, praecantatio 3, motus 2");
-mods.thaumcraft.Research.addResearch("RECALLSTONE", "AGRIMANCY", "praecantatio 3, motus 2", 2, 0, 2, <recallstones:recallStone>);
-mods.thaumcraft.Arcane.addShaped("RECALLSTONE", <recallstones:recallStone>, "terra 5, ordo 3", [[<minecraft:stone>, <minecraft:ender_pearl>, <minecraft:stone>], [<minecraft:ender_pearl>, <minecraft:diamond>, <minecraft:ender_pearl>], [<minecraft:stone>, <minecraft:ender_pearl>, <minecraft:stone>]]);
+mods.thaumcraft.Aspects.set(<recallstones:recallStoneBlank>, "terra 5, ordo 3, praecantatio 3, motus 2");
+mods.thaumcraft.Research.addResearch("RECALLSTONE", "AGRIMANCY", "praecantatio 3, motus 2", 2, 0, 2, <recallstones:recallStoneBlank>);
+mods.thaumcraft.Arcane.addShaped("RECALLSTONE", <recallstones:recallStoneBlank>, "terra 5, ordo 3", [[<minecraft:stone>, <minecraft:ender_pearl>, <minecraft:stone>], [<minecraft:ender_pearl>, <minecraft:diamond>, <minecraft:ender_pearl>], [<minecraft:stone>, <minecraft:ender_pearl>, <minecraft:stone>]]);
 mods.thaumcraft.Research.addPage("RECALLSTONE", "jctweaks.research_page.RECALLSTONE");
-mods.thaumcraft.Research.addCraftingPage("RECALLSTONE", <recallstones:recallStone>);
+mods.thaumcraft.Research.addCraftingPage("RECALLSTONE", <recallstones:recallStoneBlank>);
 # Dimensional stone
-mods.thaumcraft.Aspects.set(<recallstones:dimensionStone>, "perdition 5, ordo 3, alienis 3, motus 2");
-mods.thaumcraft.Research.addResearch("DIMENSIONSTONE", "AGRIMANCY", "alienis 3, motus 2", 2, -1, 2, <recallstones:dimensionStone>);
-mods.thaumcraft.Arcane.addShaped("DIMENSIONSTONE", <recallstones:dimensionStone>, "perditio 5, ordo 3", [[<minecraft:blaze_rod>, <minecraft:ender_pearl>, <minecraft:blaze_rod>], [<minecraft:ender_pearl>, <recallstones:recallStone>, <minecraft:ender_pearl>], [<minecraft:blaze_rod>, <minecraft:ender_pearl>, <minecraft:blaze_rod>]]);
+mods.thaumcraft.Aspects.set(<recallstones:dimensionStoneBlank>, "perdition 5, ordo 3, alienis 3, motus 2");
+mods.thaumcraft.Research.addResearch("DIMENSIONSTONE", "AGRIMANCY", "alienis 3, motus 2", 2, -1, 2, <recallstones:dimensionStoneBlank>);
+mods.thaumcraft.Arcane.addShaped("DIMENSIONSTONE", <recallstones:dimensionStoneBlank>, "perditio 5, ordo 3", [[<minecraft:blaze_rod>, <minecraft:ender_pearl>, <minecraft:blaze_rod>], [<minecraft:ender_pearl>, <recallstones:recallStoneBlank>, <minecraft:ender_pearl>], [<minecraft:blaze_rod>, <minecraft:ender_pearl>, <minecraft:blaze_rod>]]);
 mods.thaumcraft.Research.addPage("DIMENSIONSTONE", "jctweaks.research_page.DIMENSIONSTONE");
-mods.thaumcraft.Research.addCraftingPage("DIMENSIONSTONE", <recallstones:dimensionStone>);
+mods.thaumcraft.Research.addCraftingPage("DIMENSIONSTONE", <recallstones:dimensionStoneBlank>);
 mods.thaumcraft.Research.addPrereq("DIMENSIONSTONE", "RECALLSTONE", false);
