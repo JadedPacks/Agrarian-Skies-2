@@ -511,7 +511,17 @@
 		},
 		{
 			"projectID": 242106,
-			"fileID": 2363297
+			"fileID": 2363297,
+			"required": true
+		},
+		{
+			"projectID": 228816,
+			"fileID": 2386733,
+			"required": true
+		},
+		{
+			"projectID": 228815,
+			"fileID": 2765573,
 			"required": true
 		}
 	],
