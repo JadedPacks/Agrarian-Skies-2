@@ -10,5 +10,9 @@
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
 		"file": "AgriCraft-1.7.10-1.5.0-JADED_PATCHED.jar"
+	},
+	{
+		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
+		"file": "RouterReborn-1.7.10-1.2.0.43-universal-PATCHED.jar"
 	}
 ]
