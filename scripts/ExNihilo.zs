@@ -27,7 +27,7 @@ mods.exnihilo.Sieve.addRecipe(<minecraft:dirt:2>, <AgriCraft:seedBotaniaOrange>,
 
 # Add misc sieve items
 mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <ThermalFoundation:material:16>, 15);
-mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <AWWayofTime:weakBloodShard>, 32);
+mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <AWWayofTime:weakBloodShard>, 64);
 mods.exnihilo.Sieve.addRecipe(<minecraft:snow>, <ThermalFoundation:material:1025>, 64);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <ThermalFoundation:material:16>, 8);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <minecraft:ghast_tear>, 15);
