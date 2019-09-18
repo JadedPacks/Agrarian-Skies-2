@@ -18,5 +18,13 @@
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
 		"file": "Ex-Astris-1.7.10-1.16-JADED_PATCHED.jar"
+	},
+	{
+		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
+		"file": "Ex-Nihilo-1.38-53-PATCHED.jar"
+	},
+	{
+		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
+		"file": "natura-1.7.10-2.2.1a2-PATHCHED.jar"
 	}
 ]
