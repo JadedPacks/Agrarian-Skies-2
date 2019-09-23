@@ -7,6 +7,6 @@ recipes.remove(<Forestry:gearBronze>);
 recipes.remove(<Forestry:gearCopper>);
 recipes.remove(<Forestry:gearTin>);
 
-# Bye bye Ddventurer Bag
+# Bye bye Adventurer Bag
 recipes.remove(<Forestry:adventurerBag>);
 recipes.remove(<Forestry:adventurerBagT2>);

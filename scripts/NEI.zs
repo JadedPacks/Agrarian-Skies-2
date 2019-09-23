@@ -14,9 +14,6 @@ hide(<AWWayofTime:itemKeyOfDiablo>.withTag({ownerName:"Server-wide Soul Network"
 hide(<AWWayofTime:creativeFiller>);
 NEITweaker.hideItems(<AWWayofTime:activationCrystal>, [2] as int[]);
 
-# AccidentallyCircumstantialEvents
-hide(<AccidentallyCircumstantialEvents:identifier>);
-
 # Applied Energistics 2
 NEITweaker.hideAE2Facades();
 hide(<appliedenergistics2:item.ItemCreativeStorageCell>);
