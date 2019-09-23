@@ -13,7 +13,7 @@
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
-		"file": "RouterReborn-1.7.10-1.2.0.43-universal-PATCHED.jar"
+		"file": "RouterReborn-1.7.10-1.2.0.43-universal-JADED_PATCHED.jar"
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
@@ -21,10 +21,14 @@
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
-		"file": "Ex-Nihilo-1.38-53-PATCHED.jar"
+		"file": "Ex-Nihilo-1.38-53-JADED_PATCHED.jar"
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
-		"file": "natura-1.7.10-2.2.1a2-PATHCHED.jar"
+		"file": "natura-1.7.10-2.2.1a2-JADED_PATCHED.jar"
+	},
+	{
+		"repo": "https://github.com/JadedPacks/Agrarian-Skies-2/raw/master/modz/",
+		"file": "Sanguimancy-1.7.10-1.1.9-35-JADED_PATCHED.jar"
 	}
 ]
