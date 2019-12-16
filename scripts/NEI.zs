@@ -1,4 +1,5 @@
 import mods.nei.NEI.hide;
+import minetweaker.item.IItemStack;
 import mods.jadedpacks.NEITweaker;
 
 # AWWayofTime (AKA, BloodMagic)
