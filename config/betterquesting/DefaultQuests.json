@@ -499,7 +499,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -6297,7 +6296,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -7546,7 +7544,6 @@
 					"required": 1,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				},
@@ -7555,7 +7552,6 @@
 					"required": 1,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 1
 				}
@@ -11456,7 +11452,6 @@
 					"required": 10,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11645,7 +11640,6 @@
 					"required": 20,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11700,7 +11694,6 @@
 					"required": 30,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11755,7 +11748,6 @@
 					"required": 10,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11810,7 +11802,6 @@
 					"required": 10,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11865,7 +11856,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11920,7 +11910,6 @@
 					"required": 1,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -11975,7 +11964,6 @@
 					"required": 3,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12039,7 +12027,6 @@
 					"required": 3,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12094,7 +12081,6 @@
 					"required": 10,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12212,7 +12198,6 @@
 					"required": 1,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12277,7 +12262,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12332,7 +12316,6 @@
 					"required": 2,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -12387,7 +12370,6 @@
 					"required": 10,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -15675,7 +15657,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -15730,7 +15711,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -17386,7 +17366,6 @@
 										"AvoidExplosions:1": 1,
 										"DefendVillage:1": 0,
 										"Griefing:1": 0,
-										"uAI:10": {},
 										"Rider:1": 0
 									},
 									"HungerOverhaulCheck:3": 6
@@ -17449,9 +17428,6 @@
 										0
 									],
 									"tumorWarpTemp:3": 0,
-									"InfusionCosts:10": {
-										"Aspects:9": {}
-									},
 									"Infusions:11": [
 										0,
 										0,
@@ -17468,9 +17444,6 @@
 									],
 									"tumorWarp:3": 0,
 									"sitting:1": 0
-								},
-								"Equipment:9": {
-									"10": {}
 								},
 								"UUIDMost:4": 1482314938347242401,
 								"CustomName:8": "\"\"",
@@ -26609,7 +26582,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26664,7 +26636,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26719,7 +26690,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26774,7 +26744,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26829,7 +26798,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26885,7 +26853,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -26941,7 +26908,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -27123,7 +27089,6 @@
 					"required": 5,
 					"subtypes": true,
 					"ignoreNBT": true,
-					"targetNBT": {},
 					"taskID": "bq_standard:hunt",
 					"index": 0
 				}
@@ -29610,8 +29575,7 @@
 							"id": "Botania:magnetRing",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
-							"tag": {}
+							"Damage": 0
 						}
 					],
 					"rewardID": "bq_standard:item",
@@ -34571,7 +34535,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The cloaks require a 10 second recharge period between activations but are powerful while active.\n\nThe Cloak of Virtue	blocks the full extent of damage taken.\n\nThe Cloak of Sin shares damage dealt by the mob, dealing equal damage to the mob."
+					"desc": "The cloaks require a 10 second recharge period between activations but are powerful while active.\n\nThe Cloak of Virtue blocks the full extent of damage taken.\n\nThe Cloak of Sin shares damage dealt by the mob, dealing equal damage to the mob."
 				}
 			},
 			"tasks": [
@@ -35715,7 +35679,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "A bit of a light show... mostly. Unstable Cubes simply put on a nice lightning display. But, when four of them are combined with a Mana Pearl, they become an Unstable Beacon. Unlike their namesake, this beacon shoots a beam of colored orbs into the sky that scatter in a spray. \n\nWrap an Unstable Beacon in Livingwood and an Iron Ingot and now you have a Signal Flare. Like the Unstable Beacon, same light show,	but with the added benefit of stunning mobs for a few seconds. "
+					"desc": "A bit of a light show... mostly. Unstable Cubes simply put on a nice lightning display. But, when four of them are combined with a Mana Pearl, they become an Unstable Beacon. Unlike their namesake, this beacon shoots a beam of colored orbs into the sky that scatter in a spray. \n\nWrap an Unstable Beacon in Livingwood and an Iron Ingot and now you have a Signal Flare. Like the Unstable Beacon, same light show, but with the added benefit of stunning mobs for a few seconds. "
 				}
 			},
 			"tasks": [
@@ -36767,7 +36731,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "Wear in the headband slot. While worn, any held item will glow in world, whether in inventory or dropped,	including Villager trades and other players. Way cool helper!"
+					"desc": "Wear in the headband slot. While worn, any held item will glow in world, whether in inventory or dropped, including Villager trades and other players. Way cool helper!"
 				}
 			},
 			"tasks": [
@@ -40606,7 +40570,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "By throwing a Weak Blood Shard into a Tier Three Blood Altar, it will transmute into a Life Shard. Using a Life Shard	as a catalyst with three Weak Blood Shards in the Alchemic Chemistry Set will yield a Soul Shard. Mixing Life Shards and Soul Shards will yield a Crystal Cluster. "
+					"desc": "By throwing a Weak Blood Shard into a Tier Three Blood Altar, it will transmute into a Life Shard. Using a Life Shard as a catalyst with three Weak Blood Shards in the Alchemic Chemistry Set will yield a Soul Shard. Mixing Life Shards and Soul Shards will yield a Crystal Cluster. "
 				}
 			},
 			"tasks": [
@@ -41993,7 +41957,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "The Soul Armour Forge is a single-purpose block. It serves as a focus to transform Filled Sockets into Bound Armor. But instead of using a crafting surface, the forge is placed in world with Filled Sockets surrounding it in the shape of the armor item you wish to \"craft\".	Add items to the Filled Sockets to provide effects. (§ohttps://ftbwiki.org/Bound_Armor§r)\n\nOnce the pattern is built, right click the forge to activate.\n\nThere may come a time when the special attributes of the armor need to be suppressed. Rather than divesting each time, craft the Armour Inhibitor and carry it with you."
+					"desc": "The Soul Armour Forge is a single-purpose block. It serves as a focus to transform Filled Sockets into Bound Armor. But instead of using a crafting surface, the forge is placed in world with Filled Sockets surrounding it in the shape of the armor item you wish to \"craft\". Add items to the Filled Sockets to provide effects. (§ohttps://ftbwiki.org/Bound_Armor§r)\n\nOnce the pattern is built, right click the forge to activate.\n\nThere may come a time when the special attributes of the armor need to be suppressed. Rather than divesting each time, craft the Armour Inhibitor and carry it with you."
 				}
 			},
 			"tasks": [
@@ -44871,7 +44835,7 @@
 							"id": "appliedenergistics2:item.ToolPortableCell",
 							"Count": 1,
 							"OreDict": "",
-							"Damage": 0,
+							"Damage": 0
 						},
 						{
 							"id": "appliedenergistics2:tile.BlockChest",
