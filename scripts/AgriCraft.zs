@@ -1,3 +1,3 @@
 # Cheaper journal recipe
 recipes.remove(<AgriCraft:journal>);
-recipes.addShaped(<AgriCraft:journal>, [[<ore:cropsticks>, <ore:listAllseed>, <ore:cropsticks>], [<ore:listAllseed>, <ore:plankWood>, <ore:listAllseed>], [<ore:cropsticks>, <ore:listAllseed>, <ore:cropsticks>]]);
+recipes.addShaped(<AgriCraft:journal>, [[<AgriCraft:cropsItem>, <ore:listAllseed>, <AgriCraft:cropsItem>], [<ore:listAllseed>, <ore:plankWood>, <ore:listAllseed>], [<AgriCraft:cropsItem>, <ore:listAllseed>, <AgriCraft:cropsItem>]]);
