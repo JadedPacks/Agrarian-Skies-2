@@ -5960,7 +5960,7 @@
 					"lockedProgress": false,
 					"autoClaim": false,
 					"isSilent": false,
-					"desc": "You have heard tales of an ancient dimension filled with secrets. To get there you will need a portal. Thankfully, the Insane One has provided a Portal-in-a-box. Add an Eldritch Eye on each side of the central keystone, and right click with a powerful wand."
+					"desc": "You have heard tales of an ancient dimension filled with secrets. To get there you will need a portal. Thankfully, the Insane One has provided a Portal-in-a-box. This item must be used on a flat 7x7 area of Grass Blocks or Dirt Blocks. Add an Eldritch Eye on each side of the central keystone, and right click with a powerful wand."
 				}
 			},
 			"tasks": [
