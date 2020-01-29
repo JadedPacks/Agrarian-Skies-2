@@ -3662,15 +3662,6 @@
 							"tag": {
 								"type:8": "daybloom"
 							}
-						},
-						{
-							"id": "Botania:floatingSpecialFlower",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"type:8": "daybloom"
-							}
 						}
 					],
 					"taskID": "bq_standard:retrieval",
@@ -3685,15 +3676,6 @@
 					"requiredItems": [
 						{
 							"id": "Botania:specialFlower",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"type:8": "nightshade"
-							}
-						},
-						{
-							"id": "Botania:floatingSpecialFlower",
 							"Count": 1,
 							"OreDict": "",
 							"Damage": 0,
@@ -5045,15 +5027,6 @@
 					"requiredItems": [
 						{
 							"id": "Botania:specialFlower",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"type:8": "puredaisy"
-							}
-						},
-						{
-							"id": "Botania:floatingSpecialFlower",
 							"Count": 1,
 							"OreDict": "",
 							"Damage": 0,
@@ -31754,72 +31727,6 @@
 					"isMain": false,
 					"simultaneous": false,
 					"icon": {
-						"id": "Botania:terraformRod",
-						"Count": 1,
-						"OreDict": "",
-						"Damage": 0
-					},
-					"snd_update": "random.levelup",
-					"repeatTime": -1,
-					"globalShare": false,
-					"questLogic": "AND",
-					"name": "Leveling the Playing Field",
-					"lockedProgress": false,
-					"autoClaim": false,
-					"isSilent": false,
-					"desc": "Rod of the Terra Firma is normally used to flatten terrain in a HUGE area around it at the expense of Mana. But it also can provide dirt to the Rod of the Shifting Crust when filling areas. Caveat: It only works above normal sea level."
-				}
-			},
-			"tasks": [
-				{
-					"partialMatch": true,
-					"ignoreNBT": false,
-					"consume": false,
-					"groupDetect": false,
-					"autoConsume": false,
-					"requiredItems": [
-						{
-							"id": "Botania:terraformRod",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0
-						}
-					],
-					"taskID": "bq_standard:retrieval",
-					"index": 0
-				}
-			],
-			"rewards": [
-				{
-					"rewards": [
-						{
-							"id": "Botania:manaTablet",
-							"Count": 1,
-							"OreDict": "",
-							"Damage": 0,
-							"tag": {
-								"mana:3": 500000
-							}
-						}
-					],
-					"rewardID": "bq_standard:item",
-					"index": 0
-				}
-			],
-			"preRequisites": [
-				374
-			],
-			"questID": 421
-		},
-		{
-			"properties": {
-				"betterquesting": {
-					"snd_complete": "random.levelup",
-					"taskLogic": "AND",
-					"partySingleReward": false,
-					"isMain": false,
-					"simultaneous": false,
-					"icon": {
 						"id": "Botania:obedienceStick",
 						"Count": 1,
 						"OreDict": "",
@@ -46393,8 +46300,8 @@
 				},
 				{
 					"size": 24,
-					"x": 12,
-					"y": 96,
+					"x": 102,
+					"y": 126,
 					"id": 46
 				},
 				{
@@ -46406,12 +46313,12 @@
 				{
 					"size": 24,
 					"x": 42,
-					"y": 126,
+					"y": 96,
 					"id": 60
 				},
 				{
 					"size": 24,
-					"x": 132,
+					"x": 102,
 					"y": 96,
 					"id": 61
 				},
@@ -46568,7 +46475,7 @@
 				{
 					"size": 24,
 					"x": 462,
-					"y": 306,
+					"y": 336,
 					"id": 382
 				},
 				{
@@ -46603,7 +46510,7 @@
 				},
 				{
 					"size": 24,
-					"x": 432,
+					"x": 402,
 					"y": 366,
 					"id": 388
 				},
@@ -46621,7 +46528,7 @@
 				},
 				{
 					"size": 24,
-					"x": 462,
+					"x": 432,
 					"y": 366,
 					"id": 391
 				},
@@ -46646,7 +46553,7 @@
 				{
 					"size": 24,
 					"x": 462,
-					"y": 336,
+					"y": 366,
 					"id": 395
 				},
 				{
@@ -46676,7 +46583,7 @@
 				{
 					"size": 24,
 					"x": 462,
-					"y": 276,
+					"y": 306,
 					"id": 400
 				},
 				{
@@ -46753,7 +46660,7 @@
 				},
 				{
 					"size": 24,
-					"x": 72,
+					"x": 102,
 					"y": 156,
 					"id": 413
 				},
@@ -46798,12 +46705,6 @@
 					"x": 162,
 					"y": 96,
 					"id": 420
-				},
-				{
-					"size": 24,
-					"x": 402,
-					"y": 366,
-					"id": 421
 				},
 				{
 					"size": 24,
@@ -47041,7 +46942,7 @@
 				},
 				{
 					"size": 24,
-					"x": 42,
+					"x": 72,
 					"y": 156,
 					"id": 461
 				},
@@ -47125,7 +47026,7 @@
 				},
 				{
 					"size": 24,
-					"x": 102,
+					"x": 132,
 					"y": 96,
 					"id": 475
 				},
@@ -47185,7 +47086,7 @@
 				},
 				{
 					"size": 24,
-					"x": 72,
+					"x": 12,
 					"y": 96,
 					"id": 485
 				},
