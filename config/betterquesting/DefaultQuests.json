@@ -6145,7 +6145,7 @@
           "isMain": false,
           "simultaneous": false,
           "icon": {
-            "id": "ThaumicHorizons:bucketChocolate",
+            "id": "MineFactoryReloaded:bucket.chocolatemilk",
             "Count": 1,
             "OreDict": "",
             "Damage": 0
@@ -6170,7 +6170,7 @@
           "autoConsume": false,
           "requiredItems": [
             {
-              "id": "ThaumicHorizons:bucketChocolate",
+              "id": "MineFactoryReloaded:bucket.chocolatemilk",
               "Count": 500,
               "OreDict": "",
               "Damage": 0
