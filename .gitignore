@@ -3,3 +3,5 @@
 /.curseclient
 /minecraftinstance.json
 /*.zip
+/*.dat
+/*.mca
