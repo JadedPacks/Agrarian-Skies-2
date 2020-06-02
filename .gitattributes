@@ -2,3 +2,5 @@
 *.png binary
 *.jar binary
 *.zip binary
+*.dat binary
+*.mca binary
