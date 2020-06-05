@@ -26527,7 +26527,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "Click a Crafting Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
+          "desc": "Right click a Thaumcraft Table with a Wand to turn it into an Arcane Worktable. The Arcane Worktable is used to craft many items for Thaumaturgy. It will need a filled Wand in the Wand slot for most recipes."
         }
       },
       "tasks": [
