@@ -26,3 +26,6 @@
 <ore:sieve>.add(<exnihilo:sifting_table:3>);
 <ore:sieve>.add(<exnihilo:sifting_table:4>);
 <ore:sieve>.add(<exnihilo:sifting_table:5>);
+
+
+recipes.addShapeless(<TConstruct:MetalBlock:6>, [<ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>]);
