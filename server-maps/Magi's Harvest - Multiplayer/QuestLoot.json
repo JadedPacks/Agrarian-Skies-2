@@ -1,0 +1,3412 @@
+{
+  "groups": [
+    {
+      "name": "Crap",
+      "weight": 137,
+      "rewards": [
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "minecraft:sapling",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 5
+            },
+            {
+              "id": "minecraft:sapling",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "minecraft:sapling",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "harvestcraft:soybeanseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:lettuceseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:spinachseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:brick",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plain",
+      "weight": 132,
+      "rewards": [
+        {
+          "weight": 6,
+          "items": [
+            {
+              "id": "AWWayofTime:AlchemicalWizardrybloodRune",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AWWayofTime:runeOfSelfSacrifice",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AWWayofTime:efficiencyRune",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "AWWayofTime:averagePowerCatalyst",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AWWayofTime:greaterLengtheningCatalyst",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "minecraft:log",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:log",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "harvestcraft:catfishrawItem",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:fish",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:carprawItem",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:fish",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Botania:flower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "AgriCraft:seedBotaniaPurple",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:spider_eye",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:fermented_spider_eye",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Natura:florasapling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:jerky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:cable.redstone",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ThermalExpansion:capacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {
+                "Energy:3": 16000
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "exnihilo:doll_angry",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:fishingrod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "harvestcraft:pamnutmegSapling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:pamlemonSapling",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:pamwalnutSapling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Natura:natura.armor.imphelmet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 1,
+                    "id:2": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "Natura:natura.armor.impjerkin",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 1,
+                    "id:2": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "Natura:natura.armor.impboots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 1,
+                    "id:2": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "Natura:natura.armor.impleggings",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 1,
+                    "id:2": 1
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:hardenedleatherhelmItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:hardenedleatherchestItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:hardenedleatherleggingsItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:hardenedleatherbootsItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:futomakiItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Common",
+      "weight": 105,
+      "rewards": [
+        {
+          "weight": 6,
+          "items": [
+            {
+              "id": "AWWayofTime:AlchemicalWizardrybloodRune",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "AWWayofTime:AlchemicalWizardrybloodRune",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "AWWayofTime:runeOfSelfSacrifice",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "AWWayofTime:mundanePowerCatalyst",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AWWayofTime:averageLengtheningCatalyst",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "Thaumcraft:blockMagicalLog",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Thaumcraft:blockMagicalLog",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "harvestcraft:riceseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:grapeseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:tomatoseedItem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "AgriCraft:seedShroomBrown",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:dirt",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "minecraft:fish",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "harvestcraft:carprawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:clamrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "AgriCraft:cropsItem",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AgriCraft:handRake",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "minecraft:mossy_cobblestone",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "minecraft:obsidian",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:redstone_ore",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:glowstone",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "minecraft:mycelium",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:heartCanister",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "ExtraUtilities:cursedearthside",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ExtraUtilities:curtains",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Forestry:apiculture",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ThermalExpansion:Cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {
+                "Recv:3": 80,
+                "RSControl:1": 1,
+                "Facing:1": 3,
+                "Energy:3": 400000,
+                "Send:3": 80
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ThermalExpansion:capacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2,
+              "tag": {
+                "Energy:3": 80000
+              }
+            }
+          ]
+        },
+        {
+          "weight": 6,
+          "items": [
+            {
+              "id": "appliedenergistics2:tile.BlockSkyStone",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ForbiddenMagic:InkFlower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "harvestcraft:catfishrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:snailrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:charrrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:herringrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uncommon",
+      "weight": 43,
+      "rewards": [
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "AgriCraft:seedShroomRed",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "minecraft:fish",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "harvestcraft:clamrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:charrrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "simplyjetpacks:jetpacksCommon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Energy:3": 1200
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "AWWayofTime:boundPickaxe",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "AWWayofTime:weakBloodOrb",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ExtraUtilities:conveyor",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ExtraUtilities:divisionSigil",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ExtraUtilities:golden_bag",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ExtraUtilities:angelBlock",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ExtraUtilities:sound_muffler",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "progressiveautomation:WitherIron",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:blaze_rod",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:ender_pearl",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:ghast_tear",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:gold_nugget",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:nether_wart",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:blaze_powder",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:magma_cream",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:speckled_melon",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:emerald",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:experience_bottle",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 6,
+          "items": [
+            {
+              "id": "TConstruct:heartCanister",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ForgeMicroblock:sawDiamond",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:magnumTorch",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "items": [
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "Automagy:shardSliver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Botania:quartz",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "Botania:petal",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "betterquesting:placeholder",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 10,
+              "tag": {
+                "orig_meta:3": 10,
+                "orig_id:8": "Botania:manaPetal"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "items": [
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 6
+            },
+            {
+              "id": "Forestry:beehives",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:conveyor",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:plant/ender_lilly",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:quartz",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:blockMetalDevice",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:safarinet.singleuse",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "hide:1": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemCore",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 100
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemCore",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemCore",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemPlacer",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ThermalExpansion:Frame",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "RedstoneArsenal:tool.fishingRodFlux",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Energy:3": 160000
+              }
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "SolarFlux:solar1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "exnihilo:doll_creepy",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "appliedenergistics2:item.ItemMultiMaterial",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "appliedenergistics2:item.ItemMultiMaterial",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "exnihilo:hammer_diamond",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 6,
+                    "id:2": 35
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:Smeltery",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:Smeltery",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 9
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalExpansion:augment",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 112
+            },
+            {
+              "id": "ThermalExpansion:augment",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 80
+            },
+            {
+              "id": "ThermalExpansion:augment",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 64
+            },
+            {
+              "id": "ThermalExpansion:augment",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 128
+            }
+          ]
+        },
+        {
+          "weight": 9,
+          "items": [
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 6
+            },
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            },
+            {
+              "id": "ForbiddenMagic:GluttonyShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "MagicBees:item.thaumiumScoop",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 151
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "MagicBees:item.thaumiumGrafter",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 151
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.helmetSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 76
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.plateSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.bootsSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.legsSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "harvestcraft:mudfishrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:octopusrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:perchrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:grouperrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "harvestcraft:troutrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:anchovyrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:eelrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:crayfishrawItem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Botania:manaResource",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Botania:brewFlask",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "brewKey:8": "regenWeak"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 7
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 62
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 70
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_InfusedGem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "GemCut:1": 1,
+                "Aspect:8": "ignis"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_Bag",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_Kama",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:WG_MetalDevice",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Automagy:golemWorkbenchUpgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_Material",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Automagy:blockRedcrystal",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "weight": 29,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "AgriCraft:seedNitorWart",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AgriCraft:seedEmeryllis",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AgriCraft:seedNiccissus",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AgriCraft:seedCactus",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "AgriCraft:seedRedstodendron",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "EnderTech:endertech.exchanger",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {
+                "Energy:3": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Botania:specialFlower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:8": "jadedAmaranthus"
+              }
+            },
+            {
+              "id": "Botania:flower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 15
+            },
+            {
+              "id": "Botania:flower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 14
+            },
+            {
+              "id": "Botania:flower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 11
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:record_13",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_cat",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_blocks",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_chirp",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_far",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_mall",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_mellohi",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_stal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_strad",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_ward",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_11",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:record_wait",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:heartCanister",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "items": [
+            {
+              "id": "Thaumcraft:blockAiry",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:SearedBrick",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "TConstruct:SearedBrick",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "Thaumcraft:blockCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemPlacer",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "TConstruct:materials",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 26
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.bootsSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 7,
+                    "id:2": 4
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.helmetSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 7,
+                    "id:2": 16
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.plateLead",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 7,
+                    "id:2": 4
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.legsPlatinum",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 7,
+                    "id:2": 150
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "TConstruct:ore.berries.two",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 9
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemHoeThaumium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 6,
+                    "id:2": 151
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemAxeThaumium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 6,
+                    "id:2": 151
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "exnihilo:crook_bone",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 6,
+                    "id:2": 35
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:blockMetalDevice",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarNodeItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "nodetype:3": 0,
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 15,
+                    "key:8": "aer"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "aer"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "ignis"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "praecantatio"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "spiritus"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "perditio"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "ordo"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 3,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "terra"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "aqua"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 9,
+          "items": [
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 9,
+          "items": [
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "ForbiddenMagic:NetherShard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Botania:elementiumSword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 151
+                  }
+                },
+                "RepairCost:3": 2,
+                "display:10": {
+                  "Name:8": "Undead Thief"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ForbiddenMagic:MorphSword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 151
+                  }
+                },
+                "RepairCost:3": 2,
+                "display:10": {
+                  "Name:8": "Spider Slayer"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalFoundation:armor.helmetSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 76
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.plateSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.bootsSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            },
+            {
+              "id": "ThermalFoundation:armor.legsSilver",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:blockCosmeticSolid",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Thaumcraft:blockCosmeticSolid",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Thaumcraft:blockCosmeticSolid",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Botania:cosmetic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 23
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Botania:specialFlower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:8": "orechid"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemPlacer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2,
+              "tag": {
+                "advanced:1": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 61
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 16
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 77
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 4,
+                    "id:2": 105
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:WandCasting",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 72,
+              "tag": {
+                "cap:8": "thaumium",
+                "rod:8": "tainted"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemRingRunic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_Material",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "WitchingGadgets:item.WG_AdvancedRobeChest",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemAmuletVis",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unique",
+      "weight": 19,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "AWWayofTime:energySword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "minecraft:nether_star",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ExtraUtilities:cobblestone_compressed",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "JABBA:moverDiamond",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "RedstoneArsenal:tool.swordFlux",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 6,
+                    "id:2": 32
+                  }
+                },
+                "Energy:3": 160000
+              }
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Thaumcraft:blockAiry",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarNodeItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "nodetype:3": 0,
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 120,
+                    "key:8": "perditio"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarNodeItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "nodetype:3": 2,
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 120,
+                    "key:8": "ordo"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "aer"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "ignis"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "perditio"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "terra"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "aqua"
+                  }
+                }
+              }
+            },
+            {
+              "id": "Thaumcraft:BlockJarFilledItem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Aspects:9": {
+                  "10": {
+                    "amount:3": 64,
+                    "key:8": "ordo"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemPlacer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 7,
+              "tag": {
+                "advanced:1": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemGolemPlacer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 6,
+              "tag": {
+                "advanced:1": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 76
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 67
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 7
+                  }
+                }
+              }
+            },
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 62
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:HoverHarness",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "Thaumcraft:ItemResource",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Thaumcraft:ItemResource",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Thaumcraft:ItemGirdleRunic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Morvy Decor",
+      "weight": 90,
+      "rewards": [
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 15,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 5
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 6
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 8
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 9
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 11
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 12
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 13
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 14
+            },
+            {
+              "id": "ExtraUtilities:color_lightgem",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 15
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:color_redstoneLight",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "ExtraUtilities:colorWoodPlanks",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "ExtraUtilities:color_obsidian",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "ExtraUtilities:decorativeBlock2",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:decorativeBlock2",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 8
+            },
+            {
+              "id": "Natura:Bluebells",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Natura:tree",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "Natura:Rare Sapling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Natura:planks",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 8
+            },
+            {
+              "id": "Natura:plankSlab2",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "Natura:Natura.fence",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 8
+            },
+            {
+              "id": "Natura:trapdoor.amaranth",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "Natura:button.amaranth",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "TConstruct:GlassBlock.StainedClear",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "ThermalExpansion:Rockwool",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "Natura:Rare Sapling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 4,
+          "items": [
+            {
+              "id": "ExtraUtilities:chandelier",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cackle",
+      "weight": 38,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "simplyjetpacks:jetpacksCommon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Energy:3": 1200
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:name_tag",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "MineFactoryReloaded:bucket.sewage",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "MineFactoryReloaded:bucket.biofuel",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "MineFactoryReloaded:bucket.sludge",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "TConstruct:helmetWood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "TConstruct:chestplateWood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "TConstruct:leggingsWood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "TConstruct:bootsWood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "TConstruct:travelVest",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "TinkerArmor:10": {
+                  "BaseDurability:3": 1035,
+                  "BaseDefense:6": 4.0,
+                  "Built:1": 1,
+                  "MaxDefense:6": 10.0,
+                  "Damage:3": 0,
+                  "BonusDurability:3": 0,
+                  "Modifiers:3": 3,
+                  "TotalDurability:3": 1035,
+                  "ModDurability:5": 0.0,
+                  "DamageReduction:6": 0.0,
+                  "Broken:1": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "items": [
+            {
+              "id": "minecraft:tnt",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ForbiddenMagic:RidingCrop",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 20
+                  }
+                },
+                "RepairCost:3": 2,
+                "display:10": {
+                  "Name:8": "Slowpoke Guide"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:red_flower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 21
+                  }
+                },
+                "RepairCost:3": 2,
+                "display:10": {
+                  "Name:8": "Dream Poppy"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:golden_apple",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 74
+                  }
+                },
+                "RepairCost:3": 2,
+                "display:10": {
+                  "Name:8": "For the Fairest"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
