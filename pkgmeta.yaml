@@ -1,0 +1,13 @@
+package-as: Agrarian Skies 2
+
+move-folders:
+    Agrarian-Skies-2/config: overrides/config # This moves KillerCupcakes/Modules/Fire to the same level as KillerCupcakes, as KillerCupCakesOnFire
+    Agrarian-Skies-2/maps: overrides/maps
+    Agrarian-Skies-2/mods: overrides/mods 
+    Agrarian-Skies-2/resources: overrides/resources
+    Agrarian-Skies-2/scripts: overrides/resources
+	
+
+ignore: # Files and directories beginning with a dot (such as .git) are automatically ignored, as is the pgkmeta file itself.
+    - modz
+    - server-maps
