@@ -14477,7 +14477,7 @@
         }
       ],
       "preRequisites": [
-        358
+        11
       ],
       "questID": 187
     },
@@ -40605,7 +40605,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "By throwing a Weak Blood Shard into a Tier Three Blood Altar, it will transmute into a Life Shard. Using a Life Shard as a catalyst with three Weak Blood Shards in the Alchemic Chemistry Set will yield a Soul Shard. Mixing Life Shards and Soul Shards will yield a Crystal Cluster. "
+          "desc": "By throwing an Extra Life into a Tier Five Blood Altar, it will transmute into a Life Shard. Using a Life Shard as a catalyst with three Weak Blood Shards in the Alchemic Chemistry Set will yield a Soul Shard. Mixing Life Shards and Soul Shards will yield a Crystal Cluster. "
         }
       },
       "tasks": [
@@ -40676,7 +40676,7 @@
         }
       ],
       "preRequisites": [
-        528
+        529
       ],
       "questID": 535
     },
@@ -48008,8 +48008,8 @@
         },
         {
           "size": 24,
-          "x": 204,
-          "y": 168,
+          "x": 384,
+          "y": 198,
           "id": 535
         },
         {
@@ -48410,8 +48410,8 @@
         },
         {
           "size": 24,
-          "x": 384,
-          "y": 198,
+          "x": 372,
+          "y": 228,
           "id": 576
         },
         {
