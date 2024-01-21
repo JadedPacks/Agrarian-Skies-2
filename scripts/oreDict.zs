@@ -29,3 +29,6 @@
 
 
 recipes.addShapeless(<TConstruct:MetalBlock:6>, [<ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>, <ore:ingotAluminum>]);
+
+# Allow chopper from progressive automation to chop rubber trees. Thanks Corfiot from Github!
+<ore:logWood>.add(<MineFactoryReloaded:rubberwood.log:1>);
